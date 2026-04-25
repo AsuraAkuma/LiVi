@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc *)",
+      "Bash(ls node_modules/.bin/tsc)",
+      "Bash(node_modules/.bin/tsc --noEmit)",
+      "Bash(tsc --version)",
+      "Bash(tsc --noEmit -p \"c:/Users/pacin/Desktop/hackathon/LiVi/tsconfig.json\")"
+    ]
+  }
+}
