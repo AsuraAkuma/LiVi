@@ -88,4 +88,46 @@ declare module '@lens-studio/snapchat-sdk' {
     getComponent<T extends Component>(componentType: new () => T): T | null;
     addComponent<T extends Component>(componentType: new () => T): T;
   }
+
+  // ── Image Processing Types ────────────────────────────────────────────────
+
+  export class vec2 {
+    x: number;
+    y: number;
+    constructor(x: number, y: number);
+    clone(): vec2;
+  }
+
+  /**
+   * Exposes shader uniforms as dynamic named properties.
+   * Names must match the GLSL `uniform` declarations exactly.
+   * e.g. pass.sharpnessAmount = 1.5; pass.cameraTexture = myTexture;
+   */
+  export interface Pass {
+    [uniformName: string]: any;
+  }
+
+  export interface Material {
+    readonly mainPass: Pass;
+    clone(): Material;
+  }
+
+  /** Base interface for all Lens Studio texture assets. */
+  export interface Texture {
+    getWidth(): number;
+    getHeight(): number;
+    /** Underlying provider — cast to RenderTargetProvider for Render Target assets. */
+    readonly control: TextureControl;
+  }
+
+  export interface TextureControl {}
+
+  /**
+   * Control object exposed by a Render Target texture asset.
+   * copyFrame delivers raw RGBA pixels (Uint8Array, 4 bytes/pixel, row-major)
+   * with one frame of GPU→CPU pipeline latency.
+   */
+  export interface RenderTargetProvider extends TextureControl {
+    copyFrame(callback: (frame: Uint8Array) => void): void;
+  }
 }
