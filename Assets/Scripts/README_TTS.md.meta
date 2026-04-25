@@ -1,8 +1,8 @@
-- !<AssetImportMetadata/a67522ad-a00c-4444-bfbb-40ecd26dd741>
+- !<AssetImportMetadata/e50cc8e8-a811-4725-8f60-470ffa5b15d3>
   ImportedAssetIds:
-    MarkdownAsset: !<reference> 6ed91e20-571d-4e8f-92da-5cfc5b5a34c5
+    MarkdownAsset: !<reference> f41c98b2-d34c-4e70-9f76-2745dfaf3e57
   ImporterName: MarkdownAssetImporter
-  PrimaryAsset: !<reference> 6ed91e20-571d-4e8f-92da-5cfc5b5a34c5
+  PrimaryAsset: !<reference> f41c98b2-d34c-4e70-9f76-2745dfaf3e57
   PackageType: NotAPackage
   LegacyPackagePolicy: ~
   ExtraData:
