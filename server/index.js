@@ -3,7 +3,11 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
-require('dotenv').config();
+const dotenv = require('dotenv');
+
+// Load server-local env first, then fall back to repo-root env for local development.
+dotenv.config();
+dotenv.config({ path: path.resolve(__dirname, '..', '.env') });
 
 const app = express();
 app.use(express.json());

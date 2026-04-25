@@ -184,4 +184,21 @@
   Children:
     []
   Components:
+    - !<own> f2068c68-79dc-4a70-a3bd-8831b1eee85e
+- !<ScriptComponent/f2068c68-79dc-4a70-a3bd-8831b1eee85e>
+  PrefabRemaps:
     []
+  Name: ElevenLabsTextToSpeech
+  Enabled: true
+  ScriptAsset: !<reference> 984edfae-df4d-4295-9abf-1c6d9ce18dd8
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      proxyEndpoint: "http://127.0.0.1:3000/generate-tts"
+      defaultVoice: 21m00Tcm4TlvDq8ikWAM
+  ScriptTypes:
+    "":
+      {}

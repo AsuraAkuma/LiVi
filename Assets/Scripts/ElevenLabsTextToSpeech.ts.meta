@@ -22,11 +22,12 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ComponentUid: aaab5f8f-31b4-4b11-8f78-2d580d2ebea8
   ExportUid: 00000000-0000-0000-0000-000000000000
   PackagePolicy: CanBeUnpacked
   ScriptInputsHidden:
-    {}
+    defaultVoice: false
+    proxyEndpoint: false
   ScriptTypesHidden:
     {}
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
@@ -36,10 +37,11 @@
   Attachments:
     []
   DefaultScriptInputs:
-    -
-      {}
+    - proxyEndpoint: ""
+      defaultVoice: ""
   ScriptTypes:
     -
       {}
   InputLines:
-    []
+    - // @input string proxyEndpoint
+    - // @input string defaultVoice
