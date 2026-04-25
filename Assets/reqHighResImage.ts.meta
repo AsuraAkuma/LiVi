@@ -27,8 +27,14 @@
   PackagePolicy: CanBeUnpacked
   ScriptInputsHidden:
     captureDelaySeconds: false
+    enableAdaptiveBrightness: false
+    focalPoint: false
+    focalSampleRadius: false
     image: false
+    maxAdaptiveBrightness: false
+    minAdaptiveBrightness: false
     previewBrightness: false
+    targetFocalLuma: false
     useWarmupCapture: false
     warmupCaptureCount: false
     warmupCaptureIntervalSeconds: false
@@ -47,6 +53,12 @@
       warmupCaptureCount: !<float> 2.000000
       warmupCaptureIntervalSeconds: 0.250000
       previewBrightness: 0.720000
+      enableAdaptiveBrightness: true
+      focalPoint: !<Vec2> {x: 0.500000, y: 0.500000}
+      focalSampleRadius: 0.120000
+      targetFocalLuma: 0.580000
+      minAdaptiveBrightness: 0.550000
+      maxAdaptiveBrightness: 1.250000
   ScriptTypes:
     -
       {}
@@ -56,4 +68,10 @@
     - // @input bool useWarmupCapture = true
     - // @input float warmupCaptureCount = 2
     - // @input float warmupCaptureIntervalSeconds = 0.25
-    - // @input float previewBrightness = 0.72
+    - // @input float previewBrightness = 1
+    - // @input bool enableAdaptiveBrightness = true
+    - "// @input vec2 focalPoint = {0.5,0.5}"
+    - // @input float focalSampleRadius = 0.12
+    - // @input float targetFocalLuma = 0.58
+    - // @input float minAdaptiveBrightness = 0.55
+    - // @input float maxAdaptiveBrightness = 1.25
