@@ -177,12 +177,22 @@
   Enabled: true
   ScriptAsset: !<reference> f5dc851b-c5d3-454d-a866-5c2649d7c74b
   ScriptInputsDefault:
-    {}
+    cameraTexture: true
+    processingMaterial: true
+    outputRenderTarget: true
+    sharpnessAmount: true
+    denoiseRadius: true
+    thresholdBias: true
   ScriptTypesDefault:
     {}
   ScriptInputs:
     "":
-      {}
+      cameraTexture: !<reference.Texture> 996c6f4e-b2ad-4117-9e3e-3db82e6e97f5
+      processingMaterial: !<reference.Material> 431c429d-be1b-4bdc-8c8a-bfef8d983bfd
+      outputRenderTarget: !<reference.Texture> 923415f5-4245-4675-ade1-6d69d6d23e71
+      sharpnessAmount: 1.500000
+      denoiseRadius: !<float> 2.000000
+      thresholdBias: -0.050000
   ScriptTypes:
     "":
       {}

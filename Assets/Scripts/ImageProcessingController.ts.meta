@@ -41,9 +41,9 @@
   Attachments:
     []
   DefaultScriptInputs:
-    - cameraTexture: !<reference.Texture> 00000000-0000-0000-0000-000000000000
-      processingMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
-      outputRenderTarget: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+    - cameraTexture: !<reference.Texture> 996c6f4e-b2ad-4117-9e3e-3db82e6e97f5
+      processingMaterial: !<reference.Material> 431c429d-be1b-4bdc-8c8a-bfef8d983bfd
+      outputRenderTarget: !<reference.Texture> 923415f5-4245-4675-ade1-6d69d6d23e71
       sharpnessAmount: 1.500000
       denoiseRadius: !<float> 2.000000
       thresholdBias: -0.050000
