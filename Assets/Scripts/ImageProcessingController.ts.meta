@@ -1,0 +1,59 @@
+- !<AssetImportMetadata/cb125c18-9a9f-4d50-8c31-c47692a4c623>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> f5dc851b-c5d3-454d-a866-5c2649d7c74b
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> f5dc851b-c5d3-454d-a866-5c2649d7c74b
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 68eb976c-677f-407d-b5f7-36119a5131d3
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/68eb976c-677f-407d-b5f7-36119a5131d3>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: b356b96f-668e-4bf3-8bde-800860a0e909
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    cameraTexture: false
+    denoiseRadius: false
+    outputRenderTarget: false
+    processingMaterial: false
+    sharpnessAmount: false
+    thresholdBias: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - cameraTexture: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      processingMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      outputRenderTarget: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      sharpnessAmount: 1.500000
+      denoiseRadius: !<float> 2.000000
+      thresholdBias: -0.050000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Asset.Texture cameraTexture
+    - // @input Asset.Material processingMaterial
+    - // @input Asset.Texture outputRenderTarget
+    - // @input float sharpnessAmount = 1.5
+    - // @input float denoiseRadius = 2
+    - // @input float thresholdBias = -0.05

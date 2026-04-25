@@ -7,11 +7,16 @@
  */
 
 declare module '@lens-studio/snapchat-sdk' {
-  export class Component {}
+  export class Component { }
 
   export function Component(target: any): void;
 
-  export function Serializable(options?: { displayName?: string; min?: number; max?: number }): (target: any, propertyKey: string) => void;
+  export type SerializableDecorator = {
+    (target: any, propertyKey: string): void;
+    (value: unknown, context: { kind: string; name: string | symbol; static?: boolean; private?: boolean }): void;
+  };
+
+  export function Serializable(options?: { displayName?: string; min?: number; max?: number }): SerializableDecorator;
 
   export interface Vec3 {
     x: number;
@@ -120,7 +125,7 @@ declare module '@lens-studio/snapchat-sdk' {
     readonly control: TextureControl;
   }
 
-  export interface TextureControl {}
+  export interface TextureControl { }
 
   /**
    * Control object exposed by a Render Target texture asset.
