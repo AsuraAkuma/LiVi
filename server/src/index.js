@@ -169,7 +169,7 @@ async function buildUpstreamError(response) {
 
 async function callElevenLabsAudio({ endpoint, body, query = {} }) {
     if (typeof fetch !== "function") {
-        throw createHttpError(500, "Global fetch is unavailable. Use Node.js 18 or later.");
+        throw createHttpError(500, "Global fetch is unavailable. Use Node.js 21 or later.");
     }
 
     const url = new URL(endpoint, ELEVENLABS_BASE_URL);
@@ -251,9 +251,14 @@ async function resolveGeneratedAudio(kind, id) {
     const metadataPath = path.join(kindDir, `${safeId}.json`);
     let metadata;
 
-    if (fsSync.existsSync(metadataPath)) {
+    try {
+        await fs.access(metadataPath);
         const metadataRaw = await fs.readFile(metadataPath, "utf8");
         metadata = JSON.parse(metadataRaw);
+    } catch (error) {
+        if (error.code !== "ENOENT") {
+            throw error;
+        }
     }
 
     return { filePath, metadata };
