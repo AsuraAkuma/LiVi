@@ -7,6 +7,8 @@
     - !<own> f8cd62f8-e431-4ef7-9f96-07fae1211162
     - !<own> 43650a7b-87f1-4580-acd5-8b0f4bf7721e
     - !<own> d262d25d-8fb4-4445-850d-eceee077fbfb
+    - !<own> f6cce1ec-5d60-42ea-839c-10ebdddd4661
+    - !<own> 41512ef1-1d0f-40e4-916f-9e10c3a3c10a
   layers: !<Layers/267ee9a7-aff2-4f9d-9a49-f71214747d03>
     userLayers:
       []
@@ -30,6 +32,7 @@
     []
   Components:
     - !<own> 00000000-0000-0065-0000-000000000065
+    - !<own> a14e8c23-5830-489b-85b5-92f805e08b74
 - !<Camera/00000000-0000-0065-0000-000000000065>
   PrefabRemaps:
     []
@@ -204,6 +207,45 @@
     []
   Components:
     - !<own> 4f3cf0d8-6557-4b1c-ae09-9b5f2d20bb75
+- !<SceneObject/41512ef1-1d0f-40e4-916f-9e10c3a3c10a>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6cee5118-9488-4771-8d51-41fc2490cebe
+- !<ScriptComponent/418b5094-b13f-40c8-82c8-2c07500e8f2f>
+  PrefabRemaps:
+    []
+  Name: playSound
+  Enabled: true
+  ScriptAsset: !<reference> d752496c-0e45-4fba-a585-8902a52e1d38
+  ScriptInputsDefault:
+    backend_base_url: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sound: !<reference.AudioComponent> 6cee5118-9488-4771-8d51-41fc2490cebe
+      loop_count: !<float> 1.000000
+      text: This is a test message from team LiVi.
+      tts_voice_id: 21m00Tcm4TlvDq8ikWAM
+      desired_sound_name: duck
+      backend_base_url: "http://localhost:3001"
+      allow_insecure_http_for_debug: true
+      internet_module: !<reference.InternetModule> 702f914b-b0d7-4257-aba5-4e3f496f5a95
+      remote_media_module: !<reference.RemoteMediaModule> 317251d6-a7ba-4127-9c13-672e09dd5f34
+  ScriptTypes:
+    "":
+      {}
 - !<SceneObject/43650a7b-87f1-4580-acd5-8b0f4bf7721e>
   PrefabRemaps:
     []
@@ -275,6 +317,28 @@
   RotationAngle: 0
   Pivot: {x: 0.000000, y: 0.000000}
   ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AudioComponent/6cee5118-9488-4771-8d51-41fc2490cebe>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 216e5d78-cf0c-4c16-917a-e180ea25cefd
+  EnableAutoplayLoop: true
+  Volume: 0.530000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Logarithm
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<AudioListenerComponent/a14e8c23-5830-489b-85b5-92f805e08b74>
+  PrefabRemaps:
+    []
+  Name: Audio Listener
+  Enabled: true
 - !<ScriptComponent/cdc58a8a-02ff-4370-8d00-e60b01766c18>
   PrefabRemaps:
     []
@@ -306,6 +370,21 @@
     []
   Components:
     - !<own> 5849e6ff-8598-4f7a-ad40-55a3f573b279
+- !<SceneObject/f6cce1ec-5d60-42ea-839c-10ebdddd4661>
+  PrefabRemaps:
+    []
+  Name: playSound
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 418b5094-b13f-40c8-82c8-2c07500e8f2f
 - !<SceneObject/f8cd62f8-e431-4ef7-9f96-07fae1211162>
   PrefabRemaps:
     []
