@@ -26,7 +26,12 @@
   ExportUid: 00000000-0000-0000-0000-000000000000
   PackagePolicy: CanBeUnpacked
   ScriptInputsHidden:
-    camera: false
+    captureDelaySeconds: false
+    image: false
+    previewBrightness: false
+    useWarmupCapture: false
+    warmupCaptureCount: false
+    warmupCaptureIntervalSeconds: false
   ScriptTypesHidden:
     {}
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
@@ -36,9 +41,19 @@
   Attachments:
     []
   DefaultScriptInputs:
-    - camera: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+    - image: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      captureDelaySeconds: 0.750000
+      useWarmupCapture: true
+      warmupCaptureCount: !<float> 2.000000
+      warmupCaptureIntervalSeconds: 0.250000
+      previewBrightness: 0.720000
   ScriptTypes:
     -
       {}
   InputLines:
-    - // @input Component.Camera camera
+    - // @input Component.Image image
+    - // @input float captureDelaySeconds = 0.75
+    - // @input bool useWarmupCapture = true
+    - // @input float warmupCaptureCount = 2
+    - // @input float warmupCaptureIntervalSeconds = 0.25
+    - // @input float previewBrightness = 0.72
