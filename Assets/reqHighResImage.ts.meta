@@ -1,0 +1,77 @@
+- !<AssetImportMetadata/d758fb29-b94c-4db7-b3d8-4e27eae83b40>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> e35e2f23-9d0f-48bd-a3a7-b906c8db1e58
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> e35e2f23-9d0f-48bd-a3a7-b906c8db1e58
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> e3eca8ec-c5db-4713-88ea-05f2c865a82f
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/e3eca8ec-c5db-4713-88ea-05f2c865a82f>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: d528d0bf-bc40-4556-ae04-52041fd719f3
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    captureDelaySeconds: false
+    enableAdaptiveBrightness: false
+    focalPoint: false
+    focalSampleRadius: false
+    image: false
+    maxAdaptiveBrightness: false
+    minAdaptiveBrightness: false
+    previewBrightness: false
+    targetFocalLuma: false
+    useWarmupCapture: false
+    warmupCaptureCount: false
+    warmupCaptureIntervalSeconds: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - image: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      captureDelaySeconds: 0.750000
+      useWarmupCapture: true
+      warmupCaptureCount: !<float> 2.000000
+      warmupCaptureIntervalSeconds: 0.250000
+      previewBrightness: 0.720000
+      enableAdaptiveBrightness: true
+      focalPoint: !<Vec2> {x: 0.500000, y: 0.500000}
+      focalSampleRadius: 0.120000
+      targetFocalLuma: 0.580000
+      minAdaptiveBrightness: 0.550000
+      maxAdaptiveBrightness: 1.250000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.Image image
+    - // @input float captureDelaySeconds = 0.75
+    - // @input bool useWarmupCapture = true
+    - // @input float warmupCaptureCount = 2
+    - // @input float warmupCaptureIntervalSeconds = 0.25
+    - // @input float previewBrightness = 1
+    - // @input bool enableAdaptiveBrightness = true
+    - "// @input vec2 focalPoint = {0.5,0.5}"
+    - // @input float focalSampleRadius = 0.12
+    - // @input float targetFocalLuma = 0.58
+    - // @input float minAdaptiveBrightness = 0.55
+    - // @input float maxAdaptiveBrightness = 1.25
