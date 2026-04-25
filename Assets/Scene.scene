@@ -3,6 +3,9 @@
   objects:
     - !<own> 00000000-0000-0065-0000-000000000064
     - !<own> 0005641c-028d-459a-0000-000000014b4d
+    - !<own> 2fd717a7-9628-4073-a619-ab9c379750ca
+    - !<own> f8cd62f8-e431-4ef7-9f96-07fae1211162
+    - !<own> 43650a7b-87f1-4580-acd5-8b0f4bf7721e
   layers: !<Layers/267ee9a7-aff2-4f9d-9a49-f71214747d03>
     userLayers:
       []
@@ -14,7 +17,7 @@
 - !<SceneObject/00000000-0000-0065-0000-000000000064>
   PrefabRemaps:
     []
-  Name: Camera Object
+  Name: Camera
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -169,3 +172,96 @@
   DecayType: None
   DecayLimit: false
   DecayRange: 40.000000
+- !<ScriptComponent/1dbc7860-b421-493e-87e8-ea0e312ad277>
+  PrefabRemaps:
+    []
+  Name: Untitled JavaScript
+  Enabled: true
+  ScriptAsset: !<reference> 6bcf54cb-6cd0-4297-a877-cd10d394762d
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      {}
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/2fd717a7-9628-4073-a619-ab9c379750ca>
+  PrefabRemaps:
+    []
+  Name: reqHighResImage
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4f3cf0d8-6557-4b1c-ae09-9b5f2d20bb75
+- !<SceneObject/43650a7b-87f1-4580-acd5-8b0f4bf7721e>
+  PrefabRemaps:
+    []
+  Name: JavaScript
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1dbc7860-b421-493e-87e8-ea0e312ad277
+- !<ScriptComponent/4f3cf0d8-6557-4b1c-ae09-9b5f2d20bb75>
+  PrefabRemaps:
+    []
+  Name: reqHighResImage
+  Enabled: true
+  ScriptAsset: !<reference> e35e2f23-9d0f-48bd-a3a7-b906c8db1e58
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      camera: !<reference.Camera> 00000000-0000-0065-0000-000000000065
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/cdc58a8a-02ff-4370-8d00-e60b01766c18>
+  PrefabRemaps:
+    []
+  Name: Untitled TypeScript 2
+  Enabled: true
+  ScriptAsset: !<reference> ef2e2d57-8209-43d1-845d-7ccabb1763b0
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      {}
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/f8cd62f8-e431-4ef7-9f96-07fae1211162>
+  PrefabRemaps:
+    []
+  Name: TypeScript
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> cdc58a8a-02ff-4370-8d00-e60b01766c18
