@@ -17,6 +17,8 @@ The prototype and development work for this repository have used the following A
 - **Claude:** used for NLP experiments and prompt testing.
 - **Cursor:** used for exploratory coding, code navigation, and iterative development.
 - **Gemini:** used in the prototype backend for keyword and entity detection.
+- **Lens Studio AI:** used in helping understand documentation within Lens Studio.
+- **Eleven Labs AI:** used for generating tts and sound effects in an early version of development.
 
  ## Why this matters
  Long-form text can be a barrier for many readers: dense paragraphs, unfamiliar vocabulary, and weak memory for relationships all reduce comprehension. LiVi transforms text into visual, spatial, and interactive representations so readers can:

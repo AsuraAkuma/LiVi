@@ -87,6 +87,11 @@ export class ImageEnhancer extends BaseScriptComponent {
 
     onAwake(): void {
         this.createEvent('OnStartEvent').bind(() => { this.startCapture(); });
+
+        // Expose an API so other scripts can send a captured texture for processing.
+        const api: any = (this as any).api ?? {};
+        api.processTexture = this.processTexture.bind(this);
+        (this as any).api = api;
     }
 
     // ─────────────────────────────────────────────────────────
@@ -158,11 +163,11 @@ export class ImageEnhancer extends BaseScriptComponent {
             pass.texelSize = new vec2(1.0 / w, 1.0 / h);
 
             // Enhancement parameters
-            pass.sharpness       = this.sharpness;
+            pass.sharpness = this.sharpness;
             pass.denoiseStrength = this.denoiseStrength;
-            pass.brightness      = this.brightness;
-            pass.contrastBoost   = this.contrastBoost;
-            pass.saturation      = this.saturation;
+            pass.brightness = this.brightness;
+            pass.contrastBoost = this.contrastBoost;
+            pass.saturation = this.saturation;
 
             // Assign the processing material to the display image
             this.outputImage.mainMaterial = this.enhancerMaterial;
@@ -172,6 +177,11 @@ export class ImageEnhancer extends BaseScriptComponent {
             this.outputImage.mainPass.baseTex = texture;
             this.log("enhancerMaterial not set — showing raw texture.");
         }
+    }
+
+    /** Process an externally-captured texture (API callable). */
+    public processTexture(texture: Texture): void {
+        this.applyEnhancement(texture);
     }
 
     private log(msg: string): void {
