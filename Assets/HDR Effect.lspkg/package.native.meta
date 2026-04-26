@@ -1,12 +1,12 @@
-- !<AssetImportMetadata/85b55ace-e59b-6a8c-1ffb-6d00d2b7f576>
+- !<AssetImportMetadata/f0d17c66-e379-4117-8716-b87356927597>
   ImportedAssetIds:
-    NativePackageDescriptor: !<reference> 6a41c34d-545a-4e92-b5ab-9b977ed22d02
+    NativePackageDescriptor: !<reference> 9214a000-4eb1-4ccc-b4c9-9620721bb90c
   ImporterName: NativePackageDescriptorImporter
-  PrimaryAsset: !<reference> 6a41c34d-545a-4e92-b5ab-9b977ed22d02
+  PrimaryAsset: !<reference> 9214a000-4eb1-4ccc-b4c9-9620721bb90c
   PackageType: NotAPackage
   LegacyPackagePolicy: ~
   ExtraData:
-    AssetLibraryId: 3UWpfCZj2Q0T5NVdNYmreD
+    {}
   AssetDataMap:
     {}
   DependentFiles:

@@ -1,20 +1,20 @@
-- !<AssetImportMetadata/4b80d55d-e67d-4bac-9e4d-85670f58e451>
+- !<AssetImportMetadata/940d59d0-26fb-4117-bb19-d27394ebc935>
   ImportedAssetIds:
-    TypeScriptAsset: !<reference> 66cf6014-b2f4-4cf5-a01a-d703e7f45a0b
+    TypeScriptAsset: !<reference> dc408d54-83b5-4364-89a3-d33a7059d825
   ImporterName: TypeScriptAssetImporter
-  PrimaryAsset: !<reference> 66cf6014-b2f4-4cf5-a01a-d703e7f45a0b
+  PrimaryAsset: !<reference> dc408d54-83b5-4364-89a3-d33a7059d825
   PackageType: NotAPackage
   LegacyPackagePolicy: ~
   ExtraData:
     {}
   AssetDataMap:
-    TypeScriptAsset: !<own> 14413f63-e511-4b0d-9871-66265d828180
+    TypeScriptAsset: !<own> 0ec8eda2-6b8c-4b11-b284-79a3285d48ba
   DependentFiles:
     []
   ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
-- !<TypeScriptAssetData/14413f63-e511-4b0d-9871-66265d828180>
+- !<TypeScriptAssetData/0ec8eda2-6b8c-4b11-b284-79a3285d48ba>
   SvgIcon: ""
   SetupScript:
     code: ""
@@ -22,12 +22,12 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 5d99c558-cc39-4ee7-9033-fd821318635d
+  ComponentUid: 17fb5b57-6cf5-4f19-977e-214f3d5e5fa2
   ExportUid: 00000000-0000-0000-0000-000000000000
   PackagePolicy: CanBeUnpacked
   ScriptInputsHidden:
-    button: false
-    renderer: false
+    cameraObject: false
+    titleText: false
   ScriptTypesHidden:
     {}
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
@@ -37,11 +37,11 @@
   Attachments:
     []
   DefaultScriptInputs:
-    - renderer: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
-      button: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+    - titleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      cameraObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     -
       {}
   InputLines:
-    - // @input AssignableType renderer
-    - // @input AssignableType_1 button
+    - // @input Component.Text titleText
+    - // @input SceneObject cameraObject

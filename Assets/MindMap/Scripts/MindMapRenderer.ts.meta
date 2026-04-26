@@ -1,20 +1,20 @@
-- !<AssetImportMetadata/92a09662-190b-4c63-b10a-3eb541e5edab>
+- !<AssetImportMetadata/bfff527f-fc27-4d73-9215-98753fa72af0>
   ImportedAssetIds:
-    TypeScriptAsset: !<reference> 9e48619c-53d4-4459-8738-7bfa1da6a88f
+    TypeScriptAsset: !<reference> b1a58275-b31b-4464-8591-7f38ea964b16
   ImporterName: TypeScriptAssetImporter
-  PrimaryAsset: !<reference> 9e48619c-53d4-4459-8738-7bfa1da6a88f
+  PrimaryAsset: !<reference> b1a58275-b31b-4464-8591-7f38ea964b16
   PackageType: NotAPackage
   LegacyPackagePolicy: ~
   ExtraData:
     {}
   AssetDataMap:
-    TypeScriptAsset: !<own> db723211-ad46-47c5-a2cb-9fb6eaa3ac20
+    TypeScriptAsset: !<own> 9630e0b6-c89b-4205-8f26-3e56f450d27f
   DependentFiles:
     []
   ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
-- !<TypeScriptAssetData/db723211-ad46-47c5-a2cb-9fb6eaa3ac20>
+- !<TypeScriptAssetData/9630e0b6-c89b-4205-8f26-3e56f450d27f>
   SvgIcon: ""
   SetupScript:
     code: ""
@@ -22,25 +22,20 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: a71c74a2-e635-4290-8628-0aa5c64c7d70
+  ComponentUid: 628f4c37-c1a1-45fd-a787-1939e662a162
   ExportUid: 00000000-0000-0000-0000-000000000000
   PackagePolicy: CanBeUnpacked
   ScriptInputsHidden:
-    allow_insecure_http_for_debug: false
-    auto_load_on_start: false
-    backend_base_url: false
-    book_id: false
     cameraObject: false
     cardPrefab: false
     cardScale: false
-    chapter_index: false
     distanceFromCamera: false
-    internet_module: false
-    layerRadiusStep: false
+    jsonAsset: false
+    jsonFallback: false
     linkPrefab: false
     linkThickness: false
-    maxNodes: false
-    nodeSpacing: false
+    radius: false
+    speaker: false
   ScriptTypesHidden:
     {}
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
@@ -53,18 +48,13 @@
     - cardPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
       linkPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
       cameraObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
-      internet_module: !<reference.InternetModule> 00000000-0000-0000-0000-000000000000
-      backend_base_url: "https://localhost:3001"
-      allow_insecure_http_for_debug: false
-      book_id: ""
-      chapter_index: !<float> 0.000000
-      auto_load_on_start: false
+      speaker: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      jsonAsset: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      jsonFallback: ""
       distanceFromCamera: !<float> 120.000000
-      layerRadiusStep: !<float> 30.000000
-      nodeSpacing: !<float> 14.000000
+      radius: !<float> 45.000000
       cardScale: !<float> 1.000000
       linkThickness: 0.600000
-      maxNodes: !<float> 48.000000
   ScriptTypes:
     -
       {}
@@ -72,15 +62,10 @@
     - // @input Asset.ObjectPrefab cardPrefab
     - // @input Asset.ObjectPrefab linkPrefab
     - // @input SceneObject cameraObject
-    - // @input Asset.InternetModule internet_module
-    - '// @input string backend_base_url = "https://localhost:3001"'
-    - // @input bool allow_insecure_http_for_debug
-    - // @input string book_id
-    - // @input float chapter_index
-    - // @input bool auto_load_on_start
+    - // @input AssignableType speaker
+    - // @input AssignableType_1 jsonAsset
+    - // @input string jsonFallback
     - // @input float distanceFromCamera = 120
-    - // @input float layerRadiusStep = 30
-    - // @input float nodeSpacing = 14
+    - // @input float radius = 45
     - // @input float cardScale = 1
     - // @input float linkThickness = 0.6
-    - // @input float maxNodes = 48
