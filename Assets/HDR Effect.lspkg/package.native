@@ -1,0 +1,37 @@
+- !<NativePackageDescriptor/9214a000-4eb1-4ccc-b4c9-9620721bb90c>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 15
+    patch: 4
+    build: 26022322
+    type: Unset
+    buildFlavor: ""
+    timestamp: 0
+    commit: ""
+  Description: HDR Effect HDR Effect stands for high dynamic range. Dynamic range is simply the range of the lightest tones to the darkest tones within a photo. Learn more here
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 76
+  ExportUid: 4d90c45a-d2b4-4a9e-b6f9-6cf52a4eaf97
+  ComponentUid: 7b1cb073-a667-435d-b90d-f38f1286ac35
+  PackagePolicy: CanBeUnpackedTransparent
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0

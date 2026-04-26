@@ -1,0 +1,37 @@
+- !<NativePackageDescriptor/1c8e0ff1-ed15-40da-8426-ee84dd4a26c2>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 15
+    patch: 4
+    build: 26022322
+    type: Unset
+    buildFlavor: ""
+    timestamp: 0
+    commit: ""
+  Description: "The Sharpen Post Effect is used to improve the definition of fine detail in an image, enhancing the transitions between features and sharpening the edges. Set the factor, which defines how much the input image is sharpened using the standard sharpening technique. It is possible to add an opacity mask to the shader. sharpen • sharp • definition • detail • image • processing • filter"
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 76
+  ExportUid: a8603065-f86f-4fef-a2bc-8aa7bfd71768
+  ComponentUid: 639a9100-252d-4a5c-9513-340e72749a5b
+  PackagePolicy: CanBeUnpackedTransparent
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0
