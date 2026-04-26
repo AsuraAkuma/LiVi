@@ -10,10 +10,6 @@
  * Call recapture() from any other script to re-trigger a capture.
  */
 
-declare const CameraModule: {
-    createImageRequest(): any;
-};
-
 @component
 export class ImageEnhancer extends BaseScriptComponent {
 
@@ -22,12 +18,14 @@ export class ImageEnhancer extends BaseScriptComponent {
     @ui.group_start("Output")
 
     @input
+    @allowUndefined
     @hint("Image component that will display the enhanced result")
-    outputImage: Image;
+    outputImage?: Image;
 
     @input
+    @allowUndefined
     @hint("Material that has the EnhancerShader graph applied")
-    enhancerMaterial: Material;
+    enhancerMaterial?: Material;
 
     @ui.group_end
 
@@ -126,7 +124,7 @@ export class ImageEnhancer extends BaseScriptComponent {
     }
 
     private captureFrame(): Promise<any> {
-        return this.cameraModule.requestImage(CameraModule.createImageRequest());
+        return this.cameraModule.requestImage(this.cameraModule.createImageRequest());
     }
 
     private wait(seconds: number): Promise<void> {
@@ -147,29 +145,23 @@ export class ImageEnhancer extends BaseScriptComponent {
 
         const w = texture.getWidth();
         const h = texture.getHeight();
+        const img = this.outputImage;
 
         if (this.enhancerMaterial && w > 0 && h > 0) {
             const pass = this.enhancerMaterial.mainPass;
-
-            // Raw camera texture fed into the shader
-            pass.baseTex = texture;
-
-            // Texel size lets the shader sample neighboring pixels
-            pass.texelSize = new vec2(1.0 / w, 1.0 / h);
-
-            // Enhancement parameters
-            pass.sharpness       = this.sharpness;
+            pass.baseTex        = texture;
+            pass.texelSize      = new vec2(1.0 / w, 1.0 / h);
+            pass.sharpness      = this.sharpness;
             pass.denoiseStrength = this.denoiseStrength;
-            pass.brightness      = this.brightness;
-            pass.contrastBoost   = this.contrastBoost;
-            pass.saturation      = this.saturation;
-
-            // Assign the processing material to the display image
-            this.outputImage.mainMaterial = this.enhancerMaterial;
-
+            pass.brightness     = this.brightness;
+            pass.contrastBoost  = this.contrastBoost;
+            pass.saturation     = this.saturation;
+            img.mainMaterial    = this.enhancerMaterial;
         } else {
             // Fallback: raw texture with no processing
-            this.outputImage.mainPass.baseTex = texture;
+            if (img.mainMaterial) {
+                img.mainMaterial.mainPass.baseTex = texture;
+            }
             this.log("enhancerMaterial not set — showing raw texture.");
         }
     }
