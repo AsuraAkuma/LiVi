@@ -443,7 +443,7 @@ export class BookRelationshipGraphRenderer extends BaseScriptComponent {
             const text = fallbackNode.createComponent("Component.Text") as Text | null;
             if (text) {
                 text.text = `${characterName}\n${description}`;
-                text.fontSize = 24;
+                text.size = 24;
             }
 
             this.fallbackObjects.push(fallbackNode);
