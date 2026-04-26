@@ -16,4 +16,3 @@ Workspaces/**
 *.lock
 
 # Shipped by Lens Studio
-.env

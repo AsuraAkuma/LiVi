@@ -1,190 +1,190 @@
 - !<AssetImportMetadata/c82f50ed-3ad1-41b3-8ece-093da94d9669>
   ImportedAssetIds:
     .hidden/material0: !<reference> f8bc9495-02a3-49e9-a620-f132eb212553
-    0000da072d6d72d4: !<reference> 013d9105-5fca-4868-810c-0629a4afa491
-    0183ac34de49a461: !<reference> 2c3bbe65-ca97-44da-9889-49278580cdab
-    01ad1ad1814f37d1: !<reference> 6eb13acf-5c58-44f7-a0ca-d078e7b0bd35
-    02a8f1c41fabbf37: !<reference> 4f8faebf-a297-40ba-a15f-a471d4867c8e
-    02d5524ce1d5762a: !<reference> 6743bc8e-5de1-49bd-bb20-9e92e7a9a85b
-    0420206414db0cd6: !<reference> 9ae8c2ea-69c8-4e37-a077-4a03ec8a7dfb
-    0433eac44fc6147b: !<reference> 9466ce4a-8684-475e-809d-9807c4028a8e
-    0470b0bc2c3075ec: !<reference> 0f0d5f37-50fa-4b12-b2be-69139bf99fc5
-    056f3b6873675984: !<reference> b2145428-a03a-45d5-b892-d35a352f1729
-    074f0aeb727f6b8d: !<reference> 31889b88-89e6-43a1-a999-16dd75402086
-    0a211597f847fb40: !<reference> 4bd721ce-42c1-4976-952d-f49ca7851630
-    0b2ea57cf2b35050: !<reference> 321c5ba3-a4af-44ef-9166-6dd178217ba1
-    0b765bc61ff123db: !<reference> 23d9c0bb-cfe8-4ea1-886e-593552da6b6f
-    15c9038498260d2a: !<reference> e2f9e0dd-4977-46a7-ace4-d968a40d9b86
-    181d9faface52ea6: !<reference> 3d942539-c1bc-4c56-b8bd-2f628f3a5256
-    1991e87a6322b375: !<reference> ecb6fd30-7dd3-4166-b651-ba6b2b5de7a6
-    1993ca8278362cbe: !<reference> 3ba16541-8283-4f56-98f6-6a7712ce7160
-    19c3e0cbed0c3c79: !<reference> 9758dcf5-12c0-4803-a790-1caeabf44bdd
-    1a747212f63d0067: !<reference> de4cdb0f-0eaa-4db3-b05b-20b2d6a9468f
-    1c8fee479db7a63f: !<reference> 2fc695d8-afdc-48d5-90ec-01d7267b4f9f
-    1ec412e68bc3cd54: !<reference> 64c98aab-eaa4-439e-910b-bccbf981db63
-    1f6a18b8317c6512: !<reference> b96d49ba-34ba-402f-9bce-cfa9524e7ccd
-    21209641445b2683: !<reference> dfb5828f-9208-469f-a708-ebd6411caa5b
-    21cfbb24fd0662fc: !<reference> be187882-801a-444d-bec6-6f4edc430494
-    236aab4125ea9c1a: !<reference> 5f97ab4b-4f7a-4480-8749-c5d60f670cd6
-    25459330615e71ff: !<reference> f6cfc399-c77c-4c3c-a572-dc181aae5f12
-    2b624d6c425ed9f4: !<reference> f4c55d68-03c9-4cf1-91c7-68273536df77
-    2b8a90894b5adf94: !<reference> 020c02a9-20fd-4252-9d54-d735e978fc89
-    2e02634657f815fb: !<reference> 5a15e1d7-7158-43e0-b42f-3a9b2c3c6e3b
-    313ca85c03b7f1ea: !<reference> 44726444-d65f-477f-8674-2be787704e35
-    31ec03aea0dfc897: !<reference> 203404cc-c513-474a-8220-eec22fcb5b6b
-    320e273f0baf7b3c: !<reference> 89f4c2fd-b98c-4cf4-b39d-b7944d7c3047
-    32f66c8f6f81c16d: !<reference> b918370c-9ca4-4889-8de0-438358e811b6
-    3314ff1acb6e0c89: !<reference> b6a6959c-5e7e-4238-9884-ab89a01c628f
-    334d1d5fee64cf94: !<reference> 22182e4d-739c-4ec8-8163-ee6b6b77ee49
-    336ed0804a8a85ad: !<reference> 1a5a02b6-4dac-4fe7-840b-cd87539469cb
-    339cf3ca8cfee1a1: !<reference> 608ad5ef-1d87-4822-bfde-8d0581f4e076
-    349f383f0dbf740b: !<reference> b9b812fb-5b37-431f-8ea2-4a575c0b30e8
-    34a4d6f95c7a6048: !<reference> f8843225-bf1f-49be-9af9-b25b3ed06f18
-    37e846f6b09d8d62: !<reference> 9a1e61ef-13b9-4212-8cec-03a8640cdbe5
-    384900fc57cfb70d: !<reference> 5dcdb173-e51a-47e6-8792-411940c0aa03
-    3af87f91cc33f6de: !<reference> eb0563ba-0a72-4b65-b549-a6868193cd31
-    3b666b8ede16c63c: !<reference> 382ef41b-ea29-46de-af0b-d14824859bd1
-    3bf206cc24cf4a29: !<reference> 8764146e-f63d-45af-9a6f-55596592923c
-    3c356b04d1f5d213: !<reference> 98a8d895-ccdb-4504-987d-06c23b863d38
-    3d5b5010c9904ed4: !<reference> 319babe1-0990-407f-bbd7-da26cccbdd85
-    3d699a815e063589: !<reference> 9561a752-4ef8-44d5-9f11-68b8dd4dfc78
-    3e3964349692438d: !<reference> 12f06873-e782-494d-bf82-4be341708688
-    3fdc97a1de88ce8a: !<reference> 62fb13c2-1ae6-440c-a4de-ed329546cd9c
-    425abc6602b7259c: !<reference> 96bd638f-7a5b-431f-bdb7-7ba2ddbb435a
-    44f2bed400c95283: !<reference> 29779c40-7c23-40d8-b586-ad33b6dcb887
-    453e7e425e4f3072: !<reference> 6c594c5c-278b-451d-8ff8-3a9a62ed3f8b
-    46ae0eb20d3cb937: !<reference> c215a70d-82bf-4ff5-abe8-0fd6baa4d163
-    4a3e924fad0e2f27: !<reference> ce1b2526-6b10-43f9-a89f-e777bb759536
-    4a41712ef8db1eca: !<reference> efa2da32-3356-4424-a99d-bd2c89b211af
-    4b9de37d2220a4e7: !<reference> f56913b9-2b6a-475a-8158-56a3b7d4b638
-    4be99452662d138f: !<reference> d3c0430d-7dbd-4d1b-a133-e7041f00a992
-    4c62e1511b1a9da6: !<reference> beac0660-9f1b-41f0-80ae-7a81888600b4
-    4cfc1e201d3624e5: !<reference> fbde1875-e46d-4870-9551-7fac50a6aa3e
-    50721a92bbfe44f3: !<reference> 6b9f2d33-a74e-4417-b3d1-f82b88faf17a
-    53348a6b24b65e20: !<reference> 851a523f-6f27-427b-a20f-651202dec93c
-    5456cd091e7655cc: !<reference> 7bf08739-bc7e-4590-ba83-a2ffbb07aa99
-    55087bf2b627de1d: !<reference> 7d955796-8d74-4378-a532-12995b66b2b1
-    5671c384c2c5bd50: !<reference> da3e0e95-7e5b-49ea-844a-894d2aa107f1
-    586d3b507effdccb: !<reference> 3646e9ff-1b4c-4b64-83d7-bc0bd6b2b207
-    58bcaee94e5e5880: !<reference> dd5633ee-9b19-4488-b0df-24e39ad1a559
-    59621f5a0a791540: !<reference> 6f93bed6-f06c-4631-9eef-a3cc4ffc8aa6
-    5a42056db631b316: !<reference> 8b7430ce-9b59-46d0-a529-49b77679db95
-    5b1fe64c3933ce50: !<reference> b4198dc1-fa76-49d7-af37-58038be7b2fd
-    5d330e31d0901440: !<reference> 55761671-57df-4e28-8cbe-b11ad82d18fe
-    5dfcd4985aa85095: !<reference> dbeb9701-72bf-435d-88e5-f7f4b187e33b
-    5ec5dd3781692ce6: !<reference> 7f251bd0-fc90-44a0-bc71-f6e272d1ed87
-    639ff424d5322ade: !<reference> 103d965e-3be3-4020-8318-05e7a3f0727d
-    64c2463d15dc2dee: !<reference> 920e28ad-4e9a-4e56-a410-d8b09cf04550
-    66780cf3a4dcb2b8: !<reference> 48c179e0-b0f0-4e8f-b8f1-2d46bf9d4ed2
-    66a57cf19fa13aee: !<reference> 158b0eba-bf5a-4fdd-bcbe-2067e4a325d0
-    67340624a9d70e5c: !<reference> 06285a3c-c818-444a-91b4-86916a37e0ec
-    690d1c5f5dbe06f4: !<reference> 888b69c6-d5b8-4076-95ca-98ea7f0f5189
-    69e133df9cb0899c: !<reference> eb4525f1-1222-4ec0-934d-ecb5596793f4
-    6b4a2d66802e52e2: !<reference> 4fdec281-3dce-4337-8a94-561714d3cbf8
-    6cdfabb19b14279c: !<reference> 69b26185-a6a7-4073-8269-573063b39baa
-    6cf8ccfeeb755188: !<reference> cae94959-58b8-422c-8954-8383afe6ccec
-    6de24f1488aad30d: !<reference> d0776e3b-8890-4a92-b708-fdbfcaa65400
-    6e3274675fb7ba31: !<reference> e2a7a2d3-d6c8-40cf-8f81-677f2a15918c
-    70552dcfb77968e4: !<reference> ac1f9b21-c580-44c7-9caa-a11645dd1416
-    70c12255ef37117c: !<reference> 41baced2-6bfb-4ada-9b58-b7692eb1711b
-    728154196f387377: !<reference> 83b9a36d-7705-4b47-8c8e-554dca88d7ce
-    74817868ff53da3f: !<reference> 09c32f7f-a516-4fd2-9320-d736ba7dab5b
-    7824fc7d1239c40e: !<reference> 894b8623-b166-4b0d-9976-4c357b9a26d8
-    78d1c9ea5d235592: !<reference> 6197ff19-59c1-4789-9ea1-534fdb61d74e
-    79b6d577bd1eec2c: !<reference> a3620a6f-6d2f-42eb-8184-d07f3fbf10b9
-    7b68b504b2d55526: !<reference> a7b22a4e-9f5f-4b75-8955-0dc24494a0ea
-    7cd9779cd81c2c59: !<reference> 474a0873-97ba-4764-87a3-2faa2022f75a
-    829ce881f1f1ca08: !<reference> fe654845-8f5a-4edd-aa18-fbe67196b2df
-    858a2e8639264523: !<reference> 2c1a6cbf-78a4-4542-a5ee-707bbb3536b7
-    858a2e8639267512: !<reference> f490d3c9-1de0-4a57-9f7e-c0e713de87c6
-    8a4891bf96892525: !<reference> b3e7afd4-5f0d-448f-8f77-160fbbcb6438
-    8e974936be22661a: !<reference> 484fe664-5a47-476f-a776-fdaaf270b7b4
-    900a7675957e960c: !<reference> 7ce8fb27-d4fe-4453-878b-1c9b810fad26
-    9050e1e26ddb860f: !<reference> 784038b4-eacb-4351-8081-a1c31d9b0944
-    9068a180f6059c8c: !<reference> d4c5703f-daff-4fdf-b510-394d196a540e
-    91cef840e9810557: !<reference> 1e4accc5-0bce-4eb3-8537-610021dd0af7
-    928b0af5d61c3c6e: !<reference> 9c689235-240e-41f7-9a32-478f9d0b9f61
-    931cca609801ba95: !<reference> 059d07f0-e0e8-47d0-b460-0b7b394e98e5
-    96d5c55d6fe1e3ef: !<reference> 2f287f8f-9115-416b-ba1c-61c6f5a4e3b1
-    9b6cbc8f97ccea7e: !<reference> 099dbe12-e11b-4592-80a9-f340b494cc39
-    9b93f59f0c681661: !<reference> 87932b6d-9816-402a-9b4e-c0d26a4f11f7
-    9bb11c833296dcc9: !<reference> bb1a6731-9ef4-4adc-87ec-f1a75de03ec6
-    9c2f17c6bcc2a617: !<reference> 98b20d80-742c-4e55-bb1c-3cf68f0ca9de
+    00e5b79feb9b0ad9: !<reference> 8afd8ce2-f538-462d-b3f0-d824596410e5
+    0177044693c4bc3a: !<reference> 7fa1f3cf-ae66-4a3d-83ec-519164e0ae00
+    07e2f5ea5140f4bd: !<reference> b96dfe65-3949-45c8-af57-05c4fe4bf810
+    086def2dff84d7ea: !<reference> d1e312a7-d371-45b4-9555-b6bf50e8d386
+    08ea5de4675100b5: !<reference> 5b63ae76-b749-4472-af0e-76a50e64fab1
+    09b64e31fcc6c245: !<reference> 24f7076b-e402-4e7c-b118-8e96fc5ed8f0
+    0e32505765c850bc: !<reference> cf2a930e-70a4-4545-9da4-ddfa92b68e06
+    0e95961e88bb0f7a: !<reference> 31cd2fcc-12fe-4cc3-8b0c-5e5f58763b9c
+    0f9e55be03dfc319: !<reference> 84c9f92c-e229-4e1a-8a85-89566d8920c5
+    11099e016dbf4d7c: !<reference> 5eeb849f-e01d-422c-951a-df01e0d5a59b
+    130838b76667887c: !<reference> 2c7c4ea9-8d0b-43ad-994b-80f689ebe3e1
+    135e158467529336: !<reference> a4e82c46-36ca-43c2-a331-c434873ee420
+    139a9d32b85114d7: !<reference> f9637e8f-6ba9-48ce-b1f5-7cda19981572
+    15ff92683c235842: !<reference> 90087377-107c-4a0b-8564-22d09b8c2f80
+    1837755b8b7586ff: !<reference> 0c1da795-aa47-4598-824a-87bd61d3e83d
+    1897dd2a9f2243ad: !<reference> 198efc6e-40be-426a-8765-b263aa8a81b9
+    18ca3a7948a029bd: !<reference> b7982339-6366-4fe4-a533-3bd2a0702052
+    19433b50c15c59d2: !<reference> f299439a-88e5-4835-b8a3-e3f5efd09b0c
+    1d81610c5e343307: !<reference> 48fdef96-47bb-45a2-98e8-cec0597c396c
+    1fffb1555c8c8c9e: !<reference> b1775ea7-11eb-4862-998e-b3d013b69689
+    20a7dc1bfa277b19: !<reference> 4f82ff85-4869-4d13-8f44-41d8bd01ceae
+    210a2de03ddf141f: !<reference> 92950b57-c9d3-4ead-849a-a0e4cf39e9b9
+    22b281348a825a00: !<reference> 72175061-611a-4781-bfd8-ab64bec4e9f8
+    23f051fbe2fee026: !<reference> ef8f1667-7e25-4e65-a56d-ad87ea8b7e14
+    271455bc03ec5c17: !<reference> b2bf8b78-1f5c-4939-b84f-c92eb8078b17
+    27593f2d60bf5c27: !<reference> 397b2fa2-d23c-422a-b0a8-3f488b225e62
+    2c6340c5743cef3e: !<reference> 72e178c2-cb54-49a8-acf6-c3086c9fc5e1
+    2e48de4744afc191: !<reference> 5a4d843a-506e-4e20-9eec-036d19af71bb
+    2ee01fa649b2f052: !<reference> 47e78e9d-9704-4803-8829-af2db8f9080c
+    2ee3f630bce2455b: !<reference> ef39efee-f58d-40b7-83dd-9f1a77d0493a
+    2f32c577e68b4064: !<reference> 943ef7b6-e984-4aed-89b4-90223bb6a827
+    2fd7e1cbc889e0eb: !<reference> 027e4a7d-1f8c-496c-9ee5-1a7253faade0
+    33119b7960688788: !<reference> 61fadde0-8423-4b62-a26d-25c3ee57510d
+    345b1b0f8b4b820d: !<reference> 8ff5a200-a045-4bd9-8122-9a253126a63d
+    3671be91c750e836: !<reference> 8fcce890-4c2b-41c4-8021-28656a77586b
+    39000f87103e2ef6: !<reference> 8e5da2fc-296d-425f-bad5-fdf017e79270
+    392504fe1536a248: !<reference> b0108656-3d42-4ff5-a111-8085175e7cc5
+    396226ec5eff4f65: !<reference> b84562d4-2202-459d-9e30-d6ed032eacb8
+    39f336d2abdc55d6: !<reference> 0ec2bdf6-d23c-49d6-a6bb-c0975b0060bf
+    3a3723e95f32ab47: !<reference> 06e22137-1747-4891-96c1-cc2769390af4
+    3c0194c9206b453a: !<reference> 07786be2-c52f-44e5-820a-c19ef4c67341
+    3f65346c84730f70: !<reference> 3847d8d8-45e4-4865-9ed4-8a1269132726
+    404e08b710be83de: !<reference> 0b56b23e-73fc-4d91-aa73-649a33102ac9
+    412d9e4385de3608: !<reference> 3f479ee7-a774-4eb4-a525-e85d191d3c44
+    41cd33369c486db2: !<reference> 6ec55db7-66d8-466a-8a63-d1e1bdd261a2
+    43123f90f56a0e2b: !<reference> bf9248dc-d70e-436e-871f-b2a850e7d3ab
+    464c3a142f31171b: !<reference> 33fcbb04-ed11-4ca5-b2d4-9da1f952aa1a
+    4784619678e9e729: !<reference> 77a08d56-f74e-4609-8808-cb12054e9fa3
+    48e729878d2e8d7f: !<reference> a23d6b33-60a6-4ec3-bfd8-b90db89c8bcd
+    49db1187320579dd: !<reference> 096627bd-53ec-4d1c-bbd2-1376d111fe3d
+    4b37a551587baa1b: !<reference> 040d2cf1-60eb-4efa-934e-466ea5354fe3
+    4c881794f9d87559: !<reference> a44fd791-dfa3-4d40-9fcd-9eb95bcdd05d
+    4cd777b377fb6108: !<reference> 190b6559-178d-4f73-befb-b8673f754686
+    4cea2d9704cb7ea1: !<reference> f1412202-5eae-49fc-924a-460f85038922
+    4d39f328fb4586b7: !<reference> b967cf7d-283a-4c7a-8273-05bf42c57686
+    4e13caf68ac42700: !<reference> f1581c32-0b3e-443f-9f4a-191e6990f2f9
+    5091877e18647fd6: !<reference> db8f1f7c-8bf7-4575-a99e-8e007181054c
+    50ba407cb35a440b: !<reference> 2bc2fb02-7bc8-43bd-80d5-857ce3f71fd3
+    512935e6ca57f8c5: !<reference> d96b3a95-d787-494c-8658-34c4d0030a04
+    524e01348665bdc7: !<reference> c4009727-4399-4a1d-8bbe-750eb8d58962
+    5444a72f2582037f: !<reference> 2969fb88-5b72-449a-819d-34635fc61580
+    545607ca920571d5: !<reference> 701f8c91-05aa-427c-b2e7-08e3e78a0e81
+    54b7720531d9ccaa: !<reference> eb37b187-fcfc-44a1-9713-036e8cde8978
+    555e7a8332646f15: !<reference> 79ffb456-eb8e-450b-87ee-f2430a90048d
+    57f9f925b88b63cf: !<reference> 1432fa1a-13d4-40cc-8b2c-b1983693c627
+    5981e5ef7709f269: !<reference> d0c27ad7-bbf6-4ee1-95d8-50b933a09970
+    59c89474f141059b: !<reference> a4675c77-ec67-4c32-871d-ed157dad9c9c
+    5d0c72e0f85979b5: !<reference> a644035e-e607-4226-b0d1-48830654666d
+    5db07ce2afe65a35: !<reference> 906fff56-9788-4f1d-b98c-b888febd4f43
+    5ebdb822bfcb3926: !<reference> 7d740ad4-d0d5-4794-88bd-5f03048f14e9
+    5f0e19c94d4d4813: !<reference> 29fa4a14-e6fa-472b-947f-83b35d118b82
+    5fd86a64db4f704c: !<reference> 47e6a89d-9c0f-4090-a9cc-c39d57769827
+    60fb5eb5d19cbce7: !<reference> fca17bfd-4902-42b8-a45d-9556becd78bc
+    6135caaf73af5ed6: !<reference> 4af99cde-d4e5-4cb2-8e09-7a27003b3800
+    615942e81ad1d16d: !<reference> 48783a74-e2e3-48a8-b827-924fa3d2d553
+    6219d73ae8e2a78e: !<reference> b01ad1ce-be6a-400e-8e38-2f3ecf7b21bd
+    624f6792bd6e379e: !<reference> 8fd9b788-ca12-4715-a61b-fd1ca2b34382
+    68b2bc15b899cf94: !<reference> a7120ddd-9fef-4ab4-a093-23468c29f4a1
+    69504deb589aa341: !<reference> 34fa5468-12e4-4f72-9fa8-93280f43ff3f
+    6c3249b95f6aafb2: !<reference> 35f7f390-fcee-4383-bd5a-1807330448a9
+    6cc8f3456ac27e3d: !<reference> 1d067ae2-4375-48b7-b712-afeb943d81e2
+    6fb42335e78b28ff: !<reference> dc5033c4-d7e1-4b35-a2e0-3c360878210f
+    71410e2d8d5f39a7: !<reference> 3953e052-1b98-4a26-9a31-e8b632b19220
+    71ebbf0dbde02296: !<reference> d7ae328a-8d4e-4fc1-af68-1bcd20538633
+    7328df944071d9ac: !<reference> fc582292-5736-433a-ae58-ed549c978a24
+    74fd2face901f030: !<reference> a27b3538-642b-43a1-ba95-ce824b938191
+    787fb0437c6e0eaa: !<reference> c5d8ae03-ec6c-4ff8-af01-cb791b3aeb2f
+    7a0dd5cd69df73fa: !<reference> 48616724-0716-42ae-9cd1-5c755ecb6154
+    7aff55746fcb80d7: !<reference> d8d79f68-41e3-43b7-8037-f894a4141920
+    7b36f80723264a38: !<reference> cf436121-8fc0-4256-8d3f-a938a7117edb
+    7f8f8b4754f94e9f: !<reference> 7bdbc7b5-5e49-4ec3-af29-4d782918b523
+    81558d62290d619b: !<reference> 5c68a8b4-f74f-4711-99b9-53458cba98fd
+    81f20b3ea0a01d43: !<reference> 08ffd9f5-205d-4a0d-95c8-7cde4a3122ff
+    832a7edb33180ffc: !<reference> a20f69e7-509e-4829-810d-25ac3a0fd464
+    83437620bbb97154: !<reference> 25bb6348-c0e5-4939-b1b5-6912830f9031
+    83d6e2871dfd36b7: !<reference> 64218e82-f87a-43c8-95e2-77dde5e56ec0
+    84ed99563dac1411: !<reference> 10307134-83d4-47d2-88b8-a2b8d026e022
+    859f5eaa29bc8149: !<reference> 5a9753b4-4608-4554-b054-915afebc06a9
+    8604b1b1919b63a0: !<reference> ef859a71-5344-48c8-b061-5399722315e8
+    89c7bdc0d35d1a65: !<reference> bad70ca2-1e8a-4f7f-835d-9c8cdb10dff1
+    89e235881d042781: !<reference> 690d5cf3-0af2-41df-abce-3d966bfeba55
+    8bfa15fb9c8deaa6: !<reference> 0afd7acd-ccbe-4095-b648-9fd6934823c8
+    92c33fb1cb818b31: !<reference> ca4c4351-4404-49c1-87d2-f12581a7f934
+    93ceafc2162214a7: !<reference> 929290fe-dd91-43c9-a3d9-b1c4e1995249
+    970a95781480f311: !<reference> 9bf642c5-2b60-49cd-91e7-03e7728feb52
+    97e2aeb446d96d20: !<reference> 4cfb599c-814f-40b8-a352-32d5e108cc4d
+    98d244bd3ab9c181: !<reference> 6b63e514-bfa8-4259-832d-d757bfad2de7
+    9944bd1c30af58e9: !<reference> eda27069-a3ee-4050-8ea3-cd06d73e8a16
+    9b1bc701ae6a98ea: !<reference> 6f6d5587-9d21-4308-ae24-f40249ded4c5
+    9ba5483d8cf261c0: !<reference> d660b4a7-f926-4abf-8be1-54f9411df318
+    9c2e69db8acd80a9: !<reference> 1b28237f-da99-4033-8155-c3b025fd2184
+    9cdb416531d94c71: !<reference> d3681da9-4878-4bb0-b491-2ae8a202a555
+    9e5084bbd95da10a: !<reference> db0c80e2-9bbb-495c-80fe-58ca5b892131
+    9f78e747039cdecf: !<reference> 455d6b8a-c1ac-4042-8f36-af32c999ba1e
     Materials/material0: !<reference> 99ff2d17-742e-4d4f-84ca-63630d773ce1
     Materials/material0|material0|GraphPassInfo: !<reference> b47585fb-c9cb-45e1-acc5-2bc9a36f787b
     Meshes/Model_material0_0: !<reference> 666eed76-6963-4928-b139-909621659ff5
     Meshes/Model_material0_01: !<reference> c6b1eb2e-7c26-48ea-a6b7-0903ef881c71
     Scene: !<reference> 7ee09b18-fcb4-4d5b-bd04-dfe8515e0076
     Textures/texture: !<reference> f3d81d53-b5ee-40aa-b040-27eee2adaf3d
-    a137a4dba8b3bc0c: !<reference> db3cc9dd-1e3d-4232-bd70-c4ae5ff666cc
-    a2ac71e01b8285c1: !<reference> 0bfb779a-da70-42c3-8582-0c504f4e9bfa
-    a3bffbd90ec1a22d: !<reference> 03ca1504-87ad-4afb-b6b6-5a43d956d066
-    a4368b5105ecfd1f: !<reference> 12804063-b40c-4412-a1dc-7fd20f6d73b6
-    a44387f25d0cc4d2: !<reference> be4eae9d-3840-4201-ae24-d8794b7799e8
-    a7a5f28374b12b48: !<reference> f1c85304-012f-4bd3-be47-1313cf75e7f2
-    a81a46a52393f4e4: !<reference> 5c2e5e3a-159f-4320-af33-3c96c7eb845c
-    a83a1c8968ab8601: !<reference> 8dc3c3a8-c31b-49f9-ae70-ff9a2d28eec7
-    aa09302c6b7dd256: !<reference> ebc4d990-13b5-4351-a325-02ade1e628dc
-    aae8c84624a5fe34: !<reference> d241cee6-b615-4d69-a190-0d7214208021
-    ab39e683dc35ed40: !<reference> abffc4dd-8937-4399-90b6-f0a9baa8d2e2
-    aca4112c9c428046: !<reference> 70bd8908-d728-41e4-94db-41a2e05c3dce
-    ad9a00b7d3a42343: !<reference> 3c4956e7-a725-4a77-b6c5-ea1be2e01659
-    aef0a8e3cf830dee: !<reference> 743847e1-6ebd-4931-952e-608e36aac6a6
-    af8198b46049b5ce: !<reference> a6149dc5-d7d3-4cd7-8889-7d4abf46f54c
-    b00253a7c85f96b2: !<reference> 9ee75491-2f90-49cf-8fe3-d2510773b4d3
-    b0f2da13e2c7d7ad: !<reference> ab88723e-0e02-4e12-b8fe-1ea776b41105
-    b32e91de059fcdfe: !<reference> efeac723-35ce-4bd6-b11d-bdbc355c0925
-    b5816664288f51f6: !<reference> aab01f0a-8a38-44ba-bf1f-38fdcf4cc6f4
-    b58e39eeab3eb6f1: !<reference> c4719240-3d7b-4a82-972a-7c0789fa4625
-    b7dbd9aca61bee68: !<reference> 6d081863-888f-47e9-a8c9-a5c5666d4a2b
-    b82da9fce562a7e6: !<reference> 47e0b121-bed2-403a-b811-fb54352d201d
-    b8a33a5636465594: !<reference> 8754848b-00db-4723-87f4-ff9e47767a9b
-    ba19864aecdfcc35: !<reference> 0695cea3-2cea-4c91-b0cb-1201076f1f0c
-    ba488ef289dc2809: !<reference> 60c2eecd-a32a-49f8-ac3e-acc6800f64f3
-    ba549e9e141cd894: !<reference> 96a6078f-8b3b-4915-949f-818989ed5346
-    bafd4e26322db893: !<reference> 41a2de91-f93b-451a-a287-a3d88f29e555
-    bc44d049ce23de36: !<reference> f02f4bb9-077f-4fd4-8ebe-425dcffebc17
-    bc5ad40c548b3770: !<reference> 18e3345f-faa4-43c2-abca-e7c760046294
-    be1f96ff15b57595: !<reference> 83ac996b-db20-49db-9ae9-e10cc347b567
-    bf45c7612ec6636f: !<reference> 9b609568-04a7-4b31-96a3-f37163711026
-    bf6f31e1ef681824: !<reference> 55517f9a-cfcc-49ff-bac9-6fcdcb16f168
-    c17913f6f0ea4862: !<reference> 0c83401c-6408-4fb5-b254-aba5a5e9d0c1
-    c2d2625ca99129c0: !<reference> 9c8742e4-4073-4c29-b820-85ee1bb9efcc
-    c42b4b5b8c71800a: !<reference> 985bc71f-9ca0-4c82-8e42-b95fdd9c7890
-    c46cf12e67b8a8df: !<reference> 356f2929-fd0b-462f-b48b-697b8abc0bf1
-    cb765c7b5f53ec18: !<reference> 37d393d8-2ffa-4483-86f7-efbe32619027
-    cbc71d4cb2f972f1: !<reference> 98e0ec41-6c3c-42ff-ab4b-b14ba73b58ae
-    cf25b660bcd15f2f: !<reference> 64b37d1d-f1cd-4f79-95a4-ae9571e9ed3e
-    d797336a179e6ad1: !<reference> 81bed89b-4839-4bf1-91f6-612f4ddb2efc
-    d8e4e66fa44914e6: !<reference> dfd726bb-201f-4a62-b87a-148335e90d54
-    d9f00f8d825ad36f: !<reference> 5e433ed2-3f04-48c3-88fd-b8f5a35d5b05
-    dab93cc097f9f03c: !<reference> e657b144-441e-4ef8-a1d5-3520e1aae758
-    dcbae578247a34c7: !<reference> 9038a767-637e-4dc5-bdd9-79b7e009254b
-    dd2ffe91edae3fc0: !<reference> fa4e8de6-002d-40fe-9087-1822bc2f4be4
-    ddaf2222c7b48d5a: !<reference> 95b92a9d-f9b3-4f48-a1a3-02fd9403d195
-    df0a9029db71f711: !<reference> d142d86d-0975-49a9-8f81-4d635630b1f7
-    df2d446736c6b3ad: !<reference> 37eda804-33ca-428a-915b-f967280d799a
-    e02fcc11b7abd449: !<reference> 475727fd-269e-4e96-ab04-9ee046b44552
-    e20d001f38c8d90e: !<reference> 69d1558e-f9ed-4ae4-a614-ce135a298015
-    e2a6b25259d69bd4: !<reference> 3b926286-c834-4b75-8db1-c941c7d3896e
-    e3cc585ae3a648ab: !<reference> 39dde223-1d20-4957-b67d-4bca825ebcd1
-    e69aa9d92788173b: !<reference> 85ac8b91-254b-4729-990b-087a68f4678d
-    e7f4ec62e909653c: !<reference> 8d10c66a-be5f-4e2e-bfe5-886621d9618f
-    e83f29805b201b28: !<reference> eeee9b9e-4782-4d6c-9fb7-6da577e30f44
-    e9aa465769658926: !<reference> c343e1f7-ed1d-431b-a12e-3de01b8aa80c
-    ebdc209637be3df5: !<reference> 06bba956-ff7e-4fdf-8c1f-5e12cf5b9366
-    ecfbe404778d03df: !<reference> 69a8834b-c6e1-481f-a77a-8c03030129b3
-    edc75e5f594004ff: !<reference> 1358b425-91d3-4a00-9389-12cd1633e65d
-    ee72b07978f46a51: !<reference> 972acb09-387d-460a-ae88-94627ab39ad3
-    efb11dd8634858e6: !<reference> 2195b3f3-bf8c-44fc-ab02-c90ece5a9e66
-    f35395bbff4ecddb: !<reference> 8ca9d220-a1f2-4a8b-bf7b-9926221d1467
-    f5f6170b2fe090e6: !<reference> 7a7aeeaf-ebb9-4270-bf9f-a0321ab4ef28
-    f892f00ae0107e68: !<reference> 2ebf700d-4329-4f5b-8f9a-38cdcdfe3432
-    fa5d1f57fc944c10: !<reference> b854ed96-bef4-4853-aadd-a11934a1ff02
-    fc66c3b99f00fab8: !<reference> 53a57da1-3bd7-4d8b-acde-c8dda3a45531
-    fd17eeb63e658de4: !<reference> a639c0fe-a4bf-4d27-ac50-fc03e70c9199
-    fea11f5f5103b14c: !<reference> 80b35869-59d6-42f7-be13-4263894eac74
-    ff7936aad4ab157c: !<reference> 0a59dfb5-4012-4de1-b15a-a852f47658ac
+    a049528c1f47121a: !<reference> 47061738-bc8b-4aa4-abc4-64a32bd97476
+    a0ce354f91099727: !<reference> 24cd2e15-0b36-40bc-8758-1741673985b9
+    a332a4b0acbf2eda: !<reference> 418944fa-2fc6-4544-943c-f666c18a6964
+    a935b7026029c4ba: !<reference> 4af0872f-d6ae-47fb-9a06-ed6dfb012d6f
+    ab1dcf2145a732c9: !<reference> 4e57e1f8-e1de-41b7-981c-0193b878805a
+    ab331f774f0432b7: !<reference> 3de58177-4669-4a63-ad5b-cc39cad33468
+    acb414d7408484df: !<reference> e8d6dabd-29a4-4f1e-91a6-a6215f26757a
+    adbbfe37f9eb182e: !<reference> 9e6f777d-e691-4436-a54d-a883755187d9
+    ae2250bf4e45784b: !<reference> cb0c0a63-fc1d-483c-9e97-7c7271abfff1
+    ae33938927a883a5: !<reference> ad3321b9-fa27-4639-a8b6-c3531f7d4527
+    ae78cfb52841afdb: !<reference> c791f306-c635-4718-8450-2ddd67c427c9
+    af71c5d391f1f8b6: !<reference> 72dc921e-22cd-45d0-bfb7-7a0ca854d5c1
+    b02e3a8b77595fb5: !<reference> 04342370-702a-4145-a41a-0cff63a8aee6
+    b3c4e9cedd710f67: !<reference> 6531de13-ae5e-4f11-91dc-7ee3f41c9232
+    b40f92b893871a96: !<reference> 2d34038c-a967-4385-ab51-983915411f3b
+    b6a80952683c4f28: !<reference> d0bed20c-0137-4c72-9cf8-bf090af3b7ad
+    b71312bb16b46f4e: !<reference> 1b767bf2-9f5a-4ef7-b647-ed99b470dc6f
+    b83012d307b5a920: !<reference> 1574f486-ff18-40f8-8dd3-619a45b7815c
+    b84dd9a154a7f0b0: !<reference> ec867b74-8709-46b4-824a-4ab908d6a902
+    bb964ecca3b11e7e: !<reference> e509a4ae-a171-4876-b0d8-b6bd707a2186
+    bdccadc32ec250f7: !<reference> 0c3b49a5-8703-4fbe-8d93-105c1f3be5ea
+    bfadae5da40596f1: !<reference> 98671ac7-0aa6-4f76-befb-f90d53126ab2
+    bfd2889e2338bb26: !<reference> 7d99562a-df1f-4f35-af19-21da0dc88e50
+    c075c3da44e02bbf: !<reference> 59ea77d7-94e5-425d-97c7-a378c288474d
+    c22f474442753fa9: !<reference> 26009ae1-eddd-442a-a20d-28913ffdb916
+    c64b592d8168c59b: !<reference> ad1a16fe-f259-47c6-a155-7fd0111b3e0a
+    c97f8c60e836e87e: !<reference> 7174f671-d447-48e9-bc3d-d832c9cb29e0
+    cb3d4094b2b26739: !<reference> 4dddb6cc-aae3-4a98-8428-646363dc7355
+    cbe5f7ba6119c240: !<reference> 3483ad67-be97-459b-a883-fea7a992a395
+    cc08856a8d638c33: !<reference> 5a113357-262c-4f04-a651-c8522f136b8c
+    cc71f42d2790c396: !<reference> 29894afa-7018-4833-ac8a-e6754dfe6656
+    cf1b8132ccdc2604: !<reference> 8ab9a344-06c5-444a-aec8-4537d8bbc89c
+    d2bf0fa24339560d: !<reference> ec08eba2-720c-417a-9538-47f20323fdda
+    d4b31819595e6341: !<reference> e626e160-cf89-48d4-9063-90a2c0062287
+    d759f097489aff47: !<reference> 62c1303e-656a-4220-955b-1f5ba2c10b56
+    d909b4b0e1e98922: !<reference> ae4b1f12-5e83-4c54-be78-64a9adb1d835
+    d92396bdfd54596c: !<reference> bbc4c621-0cee-4678-a4b8-4a009d2929de
+    dbb483861de3a194: !<reference> 28f5cd98-1540-433b-8d1e-32d79e1be033
+    dd0fffd18d26f1ed: !<reference> 57743472-4d3d-41c3-bbe8-3240398253b1
+    dd61297863aec423: !<reference> fc9bc327-9886-4811-b9d6-eee04d86c93e
+    dd89c55e3f642db5: !<reference> ee153a6b-3b81-41ee-b896-ec62e65e4418
+    ddbe89593719cbba: !<reference> eb31714d-7169-445d-9c62-bf3da495e12a
+    dee3c1d62edf9a56: !<reference> 316ef1c5-5b3b-4c4f-b085-f2c4ce48fc1f
+    e0542908a8f62ffc: !<reference> 8b8882ea-aeb7-4a1c-b39d-c4bb694e7e83
+    e158f76123675327: !<reference> ac20a326-7379-4815-a864-81c7d074819d
+    e613b0c1d88d5f59: !<reference> dba04e7a-342b-4cea-ae0f-81f21a0c8438
+    e645ac165d29441f: !<reference> 9cc66e2e-37bf-4254-92ca-65df29e8044d
+    e79d1bf8a7a7218c: !<reference> ab722987-35a0-4e59-aa72-06ab6c6107b9
+    e7e05852500791a5: !<reference> f7942565-3003-45c2-8366-2db2891ddf6d
+    ea48fe27ab94715f: !<reference> eda406d2-3347-4dbe-a861-834829b68ec8
+    eefa5577faed5afd: !<reference> 8e82ae1e-9ad2-4e29-af9b-fa6d8ad9ac50
+    efcbb61b984c91de: !<reference> 2950ceeb-036c-4bd7-8335-55caa0859ac6
+    f0acb9c5992c5798: !<reference> f0585bba-97f8-4953-8cfb-e722f4e23373
+    f15fc442ea7ba68d: !<reference> 9f6b766e-e1bf-4f77-b877-3d592ce7d47b
+    f1d6d33b85e15e0e: !<reference> 688f95c1-5ab4-43e0-ae40-5084c5bbd258
+    f4863d511ae01611: !<reference> c82934a1-1d71-46a5-aa6b-9cdebf305bd7
+    f576deb90ee6e3ae: !<reference> 4817d232-aaed-44c3-91fd-9b58fef27793
+    f892931c75f1ed6c: !<reference> a58f028c-5198-45ab-810b-4102edf16e15
+    fa0a331d2e66a913: !<reference> f8eee85e-ad0b-40b8-9dad-ccd9c0b43fd6
+    fc11c950465a4a16: !<reference> e6feb02a-cf24-4350-afe1-7750a6718a06
+    fc46a76f722eecf9: !<reference> 7c9af012-a22b-4a86-a1d5-8a39e2f14705
+    fd6511c0ca326f63: !<reference> f6a98d88-20dc-484f-b904-d18cd762d69e
+    fe46185115968f2e: !<reference> a0d47cfb-5c19-42d2-a0e3-e482a987e92b
+    fe8d765a43fd0d6b: !<reference> e6269552-ccff-45ae-89e7-c6cf90209adc
   ImporterName: GltfImporter
   PrimaryAsset: !<reference> 7ee09b18-fcb4-4d5b-bd04-dfe8515e0076
   PackageType: LegacyPackage
@@ -222,10 +222,40 @@
       jpeg: Performance Compression
     Overrides:
       {}
-- !<SceneObject/013d9105-5fca-4868-7ef3-f9d65b505b6e>
+- !<SceneObject/027e4a7d-1f8c-496c-611a-e58dac05521f>
   PrefabRemaps:
     []
-  Name: Object_84
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1006.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.672558, y: 0.380486, z: -10.211158}
+    Rotation: {x: -36.420246, y: -85.211243, z: -141.107422}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b84562d4-2202-459d-61cf-2912fcd15347
+  Components:
+    []
+- !<SceneObject/040d2cf1-60eb-4efa-6cb1-b9915acab01c>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1090.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.395650, y: 0.311613, z: -5.482513}
+    Rotation: {x: -49.592773, y: -84.374580, z: -128.987106}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4817d232-aaed-44c3-6e02-64a7010d886c
+  Components:
+    []
+- !<SceneObject/04342370-702a-4145-5be5-f3009c575119>
+  PrefabRemaps:
+    []
+  Name: Object_34
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -237,142 +267,7 @@
     []
   Components:
     []
-- !<SceneObject/020c02a9-20fd-4252-62ab-28ca16870376>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1044.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.560234, y: 0.429671, z: -8.059972}
-    Rotation: {x: -42.348503, y: -80.727249, z: -136.136017}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> beac0660-9f1b-41f0-7f51-857e7779ff4b
-  Components:
-    []
-- !<SceneObject/03ca1504-87ad-4afb-4949-a5bc26a92f99>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1130.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.148166, y: 0.094383, z: -3.215305}
-    Rotation: {x: -53.411449, y: -86.952965, z: -127.483093}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 382ef41b-ea29-46de-50f4-2eb7db7a642e
-  Components:
-    []
-- !<SceneObject/059d07f0-e0e8-47d0-4b9f-f484c6b1671a>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1015.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.619941, y: 0.383790, z: -9.021873}
-    Rotation: {x: -53.430408, y: -82.337837, z: -123.290421}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> c4719240-3d7b-4a82-68d5-83f87605b9da
-  Components:
-    []
-- !<SceneObject/06285a3c-c818-444a-6e4b-796e95c81f13>
-  PrefabRemaps:
-    []
-  Name: Object_154
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/0695cea3-2cea-4c91-4f34-edfef890e0f3>
-  PrefabRemaps:
-    []
-  Name: Object_106
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/06bba956-ff7e-4fdf-73e0-a1ed30a46c99>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1049.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.550238, y: 0.455215, z: -7.441132}
-    Rotation: {x: -46.509666, y: -81.182671, z: -128.858505}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> e2a7a2d3-d6c8-40cf-707e-9880d5ea6e73
-  Components:
-    []
-- !<SceneObject/099dbe12-e11b-4592-7f56-0cbf4b6b33c6>
-  PrefabRemaps:
-    []
-  Name: Object_120
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/09c32f7f-a516-4fd2-6cdf-28c9458254a4>
-  PrefabRemaps:
-    []
-  Name: Object_124
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/0a59dfb5-4012-4de1-4ea5-57ad0b89a753>
-  PrefabRemaps:
-    []
-  Name: Sketchfab_model
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.180213, y: 0.103937, z: 0.000506}
-    Rotation: {x: -96.344017, y: 3.315790, z: 179.660995}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 29779c40-7c23-40d8-4a79-52cc49234778
-  Components:
-    []
-- !<RenderMeshVisual/0bfb779a-da70-42c3-7a7d-f3afb0b16405>
+- !<RenderMeshVisual/06d7ef4d-f67a-1e22-fdf2-df483e78bebe>
   PrefabRemaps:
     []
   Name: Model_material0_0
@@ -392,70 +287,40 @@
   BlendNormals: false
   BlendShapes:
     {}
-- !<SceneObject/0c83401c-6408-4fb5-4dab-545a5a162f3e>
+- !<SceneObject/06e22137-1747-4891-693e-33d896c6f50b>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1050.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1133.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.546660, y: 0.471251, z: -7.316787}
-    Rotation: {x: -43.429928, y: -81.400307, z: -130.980911}
+    Position: {x: 0.114613, y: 0.075675, z: -2.834814}
+    Rotation: {x: -59.737751, y: -87.261406, z: -121.606369}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> b96d49ba-34ba-402f-6431-3056adb18332
+    - !<own> 8ab9a344-06c5-444a-5137-bac827443763
   Components:
     []
-- !<SceneObject/0f0d5f37-50fa-4b12-4d41-96ec6406603a>
+- !<SceneObject/07786be2-c52f-44e5-7df5-3e610b398cbe>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1012.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1017.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.648195, y: 0.366711, z: -9.410434}
-    Rotation: {x: -58.786648, y: -82.930557, z: -119.572655}
+    Position: {x: 0.601392, y: 0.399740, z: -8.752099}
+    Rotation: {x: -48.397789, y: -82.796989, z: -128.077881}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 2195b3f3-bf8c-44fc-54fd-36f131a56199
+    - !<own> 04342370-702a-4145-5be5-f3009c575119
   Components:
     []
-- !<SceneObject/103d965e-3be3-4020-7ce7-fa185c0f8d82>
+- !<SceneObject/08ffd9f5-205d-4a0d-6a37-8321b5cedd00>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1056.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.496625, y: 0.526249, z: -6.600983}
-    Rotation: {x: -21.760942, y: -82.492249, z: -151.540009}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 95b92a9d-f9b3-4f48-5e5c-fd026bfc2e6a
-  Components:
-    []
-- !<SceneObject/12804063-b40c-4412-5e23-802df0928c49>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1051.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.541443, y: 0.488930, z: -7.193398}
-    Rotation: {x: -37.220806, y: -81.979309, z: -136.596588}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 8764146e-f63d-45af-6590-aaa69a6d6dc3
-  Components:
-    []
-- !<SceneObject/12f06873-e782-494d-407d-b41cbe8f7977>
-  PrefabRemaps:
-    []
-  Name: Object_112
+  Name: Object_128
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -467,10 +332,10 @@
     []
   Components:
     []
-- !<SceneObject/1358b425-91d3-4a00-6c76-ed32e9cc19a2>
+- !<SceneObject/096627bd-53ec-4d1c-442d-ec892eee01c2>
   PrefabRemaps:
     []
-  Name: Object_54
+  Name: Object_150
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -482,10 +347,25 @@
     []
   Components:
     []
-- !<SceneObject/158b0eba-bf5a-4fdd-4341-df981b5cda2f>
+- !<SceneObject/0afd7acd-ccbe-4095-49b7-60296cb7dc37>
   PrefabRemaps:
     []
-  Name: Object_146
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1172.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.133074, y: -0.004208, z: -0.390982}
+    Rotation: {x: 94.919662, y: -89.398666, z: 84.821075}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 943ef7b6-e984-4aed-764b-6fddc44957d8
+  Components:
+    []
+- !<SceneObject/0b56b23e-73fc-4d91-558c-9b65ccefd536>
+  PrefabRemaps:
+    []
+  Name: Object_140
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -497,10 +377,40 @@
     []
   Components:
     []
-- !<SceneObject/18e3345f-faa4-43c2-5435-18389ffb9d6b>
+- !<SceneObject/0c1da795-aa47-4598-7db5-78429e2c17c2>
   PrefabRemaps:
     []
-  Name: Object_18
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1008.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.653418, y: 0.370520, z: -9.951010}
+    Rotation: {x: -46.914234, y: -82.662651, z: -131.837204}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3de58177-4669-4a63-52a4-33c6352ccb97
+  Components:
+    []
+- !<SceneObject/0c3b49a5-8703-4fbe-726c-efa3e0c41a15>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1170.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.106616, y: 0.002244, z: -0.656056}
+    Rotation: {x: 70.756546, y: -89.895325, z: 108.639191}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b967cf7d-283a-4c7a-7d8c-fa40bd3a8979
+  Components:
+    []
+- !<SceneObject/0ec2bdf6-d23c-49d6-5944-3f68a4ff9f40>
+  PrefabRemaps:
+    []
+  Name: Object_124
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -512,10 +422,40 @@
     []
   Components:
     []
-- !<SceneObject/1a5a02b6-4dac-4fe7-7bf4-3278ac6b9634>
+- !<SceneObject/10307134-83d4-47d2-7747-5d472fd91fdd>
   PrefabRemaps:
     []
-  Name: Object_152
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1136.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.075592, y: 0.060338, z: -2.458759}
+    Rotation: {x: -62.356159, y: -87.678978, z: -118.747795}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> a58f028c-5198-45ab-7ef4-befd120e91ea
+  Components:
+    []
+- !<SceneObject/1432fa1a-13d4-40cc-74d3-4e67c96c39d8>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1042.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.572152, y: 0.425949, z: -8.300672}
+    Rotation: {x: -38.583920, y: -81.942970, z: -139.061951}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ef859a71-5344-48c8-4f9e-ac668ddcea17
+  Components:
+    []
+- !<SceneObject/1574f486-ff18-40f8-722c-9e65ba487ea3>
+  PrefabRemaps:
+    []
+  Name: Object_88
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -527,37 +467,142 @@
     []
   Components:
     []
-- !<SceneObject/1e4accc5-0bce-4eb3-7ac8-9effde22f508>
+- !<SceneObject/190b6559-178d-4f73-4104-4798c08ab979>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1004.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1057.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.712632, y: 0.377028, z: -10.441434}
-    Rotation: {x: -21.163042, y: -88.606049, z: -155.801620}
+    Position: {x: 0.485164, y: 0.519738, z: -6.476631}
+    Rotation: {x: -18.203903, y: -82.825890, z: -155.020645}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 743847e1-6ebd-4931-6ad1-9f71c9553959
+    - !<own> 8ff5a200-a045-4bd9-7edd-65daced959c2
   Components:
     []
-- !<SceneObject/203404cc-c513-474a-7ddf-113dd034a494>
+- !<SceneObject/198efc6e-40be-426a-789a-4d9c55757e46>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1183.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1140.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: -0.272511, y: -0.037510, z: 0.986678}
-    Rotation: {x: 120.468445, y: -87.060684, z: 59.797165}
+    Position: {x: 0.020124, y: 0.042932, z: -1.927395}
+    Rotation: {x: -67.209473, y: -88.368530, z: -113.215088}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 9466ce4a-8684-475e-7f62-67f83bfd7571
+    - !<own> 08ffd9f5-205d-4a0d-6a37-8321b5cedd00
   Components:
     []
-- !<SceneObject/2195b3f3-bf8c-44fc-54fd-36f131a56199>
+- !<SceneObject/1b28237f-da99-4033-7eaa-3c4fda02de7b>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1104.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.187951, y: 0.098268, z: -3.793899}
+    Rotation: {x: -54.206261, y: -84.352394, z: -127.431671}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6b63e514-bfa8-4259-7cd2-28a84052d218
+  Components:
+    []
+- !<SceneObject/1b767bf2-9f5a-4ef7-49b8-12664b8f2390>
+  PrefabRemaps:
+    []
+  Name: Object_92
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/1d067ae2-4375-48b7-48ed-50146bc27e1d>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1173.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.144988, y: -0.007223, z: -0.259783}
+    Rotation: {x: 112.457382, y: -88.994781, z: 67.339874}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 096627bd-53ec-4d1c-442d-ec892eee01c2
+  Components:
+    []
+- !<SceneObject/24cd2e15-0b36-40bc-78a7-e8be98c67a46>
+  PrefabRemaps:
+    []
+  Name: Object_166
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/24f7076b-e402-4e7c-4ee7-716903a1270f>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1134.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.102826, y: 0.070184, z: -2.700185}
+    Rotation: {x: -66.801910, y: -87.673500, z: -114.484497}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 47e6a89d-9c0f-4090-5633-3c62a88967d8
+  Components:
+    []
+- !<SceneObject/25bb6348-c0e5-4939-4e4a-96ed7cf06fce>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_model
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.180213, y: 0.103937, z: 0.000506}
+    Rotation: {x: -96.344017, y: 3.315790, z: 179.660995}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2d34038c-a967-4385-54ae-67c6eabee0c4
+  Components:
+    []
+- !<SceneObject/26009ae1-eddd-442a-5df2-d76ec00246e9>
+  PrefabRemaps:
+    []
+  Name: Object_62
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/28f5cd98-1540-433b-72e1-cd2861e41fcc>
   PrefabRemaps:
     []
   Name: Object_24
@@ -572,7 +617,172 @@
     []
   Components:
     []
-- !<SceneObject/22182e4d-739c-4ec8-7e9c-1194948811b6>
+- !<SceneObject/2950ceeb-036c-4bd7-7cca-aa355f7a6539>
+  PrefabRemaps:
+    []
+  Name: Object_122
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/2969fb88-5b72-449a-7e62-cb9ca039ea7f>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1132.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.127159, y: 0.082484, z: -2.971958}
+    Rotation: {x: -56.171062, y: -87.130714, z: -125.240929}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3847d8d8-45e4-4865-612b-75ed96ecd8d9
+  Components:
+    []
+- !<SceneObject/29894afa-7018-4833-5375-198ab20199a9>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1088.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.426704, y: 0.363356, z: -5.729150}
+    Rotation: {x: -47.135475, y: -84.216019, z: -130.658569}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3483ad67-be97-459b-577c-0158566d5c6a
+  Components:
+    []
+- !<SceneObject/29fa4a14-e6fa-472b-6b80-7c4ca2ee747d>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1009.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.650738, y: 0.365590, z: -9.839098}
+    Rotation: {x: -49.838894, y: -81.950066, z: -129.216919}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> dba04e7a-342b-4cea-51f0-7e0de5f37bc7
+  Components:
+    []
+- !<SceneObject/2bc2fb02-7bc8-43bd-7f2a-7a831c08e02c>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1183.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.272511, y: -0.037510, z: 0.986678}
+    Rotation: {x: 120.468445, y: -87.060684, z: 59.797161}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6f6d5587-9d21-4308-51db-0bfdb6212b3a
+  Components:
+    []
+- !<SceneObject/2c7c4ea9-8d0b-43ad-66b4-7f0976141c1e>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1055.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.508039, y: 0.526966, z: -6.723839}
+    Rotation: {x: -23.651455, y: -82.459328, z: -149.830597}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 5a9753b4-4608-4554-4fab-6ea50143f956
+  Components:
+    []
+- !<SceneObject/2d34038c-a967-4385-54ae-67c6eabee0c4>
+  PrefabRemaps:
+    []
+  Name: ISSedited.fbx
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 72175061-611a-4781-4027-549b413b1607
+  Components:
+    []
+- !<SceneObject/316ef1c5-5b3b-4c4f-4f7a-0d3b31b703e0>
+  PrefabRemaps:
+    []
+  Name: Object_68
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/31cd2fcc-12fe-4cc3-74f3-a1a0a789c463>
+  PrefabRemaps:
+    []
+  Name: Object_82
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/33fcbb04-ed11-4ca5-4d2b-625e06ad55e5>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1143.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.012714, y: 0.033019, z: -1.556084}
+    Rotation: {x: -79.426720, y: -89.137474, z: -101.235435}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> fca17bfd-4902-42b8-5ba2-6aa941328743
+  Components:
+    []
+- !<SceneObject/3483ad67-be97-459b-577c-0158566d5c6a>
+  PrefabRemaps:
+    []
+  Name: Object_72
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/34fa5468-12e4-4f72-6057-6cd7f0bc00c0>
   PrefabRemaps:
     []
   Name: Object_14
@@ -587,10 +797,25 @@
     []
   Components:
     []
-- !<SceneObject/23d9c0bb-cfe8-4ea1-7791-a6caad259490>
+- !<SceneObject/35f7f390-fcee-4383-42a5-e7f8ccfbb756>
   PrefabRemaps:
     []
-  Name: Object_102
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1012.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.648195, y: 0.366711, z: -9.410434}
+    Rotation: {x: -58.786652, y: -82.930557, z: -119.572639}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 28f5cd98-1540-433b-72e1-cd2861e41fcc
+  Components:
+    []
+- !<SceneObject/3847d8d8-45e4-4865-612b-75ed96ecd8d9>
+  PrefabRemaps:
+    []
+  Name: Object_112
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -602,25 +827,40 @@
     []
   Components:
     []
-- !<SceneObject/29779c40-7c23-40d8-4a79-52cc49234778>
+- !<SceneObject/3953e052-1b98-4a26-65ce-1749cd4e6ddf>
   PrefabRemaps:
     []
-  Name: ISSedited.fbx
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1015.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    Position: {x: 0.619941, y: 0.383790, z: -9.021873}
+    Rotation: {x: -53.430420, y: -82.337860, z: -123.290405}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 894b8623-b166-4b0d-6689-b3ca8465d927
+    - !<own> d3681da9-4878-4bb0-4b6e-d5175dfd5aaa
   Components:
     []
-- !<SceneObject/2c1a6cbf-78a4-4542-5a11-8f8444cac948>
+- !<SceneObject/397b2fa2-d23c-422a-4f57-c0b774dda19d>
   PrefabRemaps:
     []
-  Name: Model_material0_0
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1097.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.283897, y: 0.200009, z: -4.679323}
+    Rotation: {x: -37.295193, y: -87.281349, z: -142.492996}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 59ea77d7-94e5-425d-6838-5c873d77b8b2
+  Components:
+    []
+- !<SceneObject/3de58177-4669-4a63-52a4-33c6352ccb97>
+  PrefabRemaps:
+    []
+  Name: Object_16
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -631,23 +871,38 @@
   Children:
     []
   Components:
-    - !<own> 0bfb779a-da70-42c3-7a7d-f3afb0b16405
-- !<SceneObject/2c3bbe65-ca97-44da-6776-b6d87a7f3254>
+    []
+- !<SceneObject/3f479ee7-a774-4eb4-5ada-17a2e6e2c3bb>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1170.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1095.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: -0.106616, y: 0.002244, z: -0.656056}
-    Rotation: {x: 70.757408, y: -89.895325, z: 108.638321}
+    Position: {x: 0.309882, y: 0.224713, z: -4.903039}
+    Rotation: {x: -40.973419, y: -85.462959, z: -138.835648}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> e657b144-441e-4ef8-5e2a-cadf1e5518a7
+    - !<own> 688f95c1-5ab4-43e0-51bf-af7b3a442da7
   Components:
     []
-- !<SceneObject/2ebf700d-4329-4f5b-7065-c7323201cbcd>
+- !<SceneObject/418944fa-2fc6-4544-6bc3-09993e75969b>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1014.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.631577, y: 0.377561, z: -9.158241}
+    Rotation: {x: -56.373245, y: -82.598663, z: -120.846756}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> bbc4c621-0cee-4678-5b47-b5ff62d6d621
+  Components:
+    []
+- !<SceneObject/455d6b8a-c1ac-4042-70c9-50cd366645e1>
   PrefabRemaps:
     []
   Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1181.jpg
@@ -655,32 +910,17 @@
   Layers: 1
   LocalTransform: !<TransformEntity>
     Position: {x: -0.244044, y: -0.035538, z: 0.725098}
-    Rotation: {x: 131.222260, y: -87.429909, z: 48.777313}
+    Rotation: {x: 131.222275, y: -87.429985, z: 48.777306}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 83ac996b-db20-49db-6516-1ef33cb84a98
+    - !<own> 24cd2e15-0b36-40bc-78a7-e8be98c67a46
   Components:
     []
-- !<SceneObject/2f287f8f-9115-416b-45e3-9e390a5b1c4e>
+- !<SceneObject/47061738-bc8b-4aa4-543b-9b5cd4268b89>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1103.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.194011, y: 0.101355, z: -3.921330}
-    Rotation: {x: -53.347168, y: -84.234795, z: -127.820465}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 23d9c0bb-cfe8-4ea1-7791-a6caad259490
-  Components:
-    []
-- !<SceneObject/2fc695d8-afdc-48d5-6f13-fe28d984b060>
-  PrefabRemaps:
-    []
-  Name: Object_34
+  Name: Object_38
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -692,25 +932,10 @@
     []
   Components:
     []
-- !<SceneObject/31889b88-89e6-43a1-5666-e9228abfdf79>
+- !<SceneObject/47e6a89d-9c0f-4090-5633-3c62a88967d8>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1054.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.518403, y: 0.522967, z: -6.846147}
-    Rotation: {x: -25.540333, y: -82.512238, z: -148.113419}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 475727fd-269e-4e96-54fb-611fb94bbaad
-  Components:
-    []
-- !<SceneObject/319babe1-0990-407f-4428-25d93334227a>
-  PrefabRemaps:
-    []
-  Name: Object_164
+  Name: Object_116
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -722,52 +947,22 @@
     []
   Components:
     []
-- !<SceneObject/321c5ba3-a4af-44ef-6e99-922e87de845e>
+- !<SceneObject/47e78e9d-9704-4803-77d6-50d24706f7f3>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1132.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1174.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.127159, y: 0.082484, z: -2.971958}
-    Rotation: {x: -56.171036, y: -87.130646, z: -125.240959}
+    Position: {x: -0.157053, y: -0.011630, z: -0.128271}
+    Rotation: {x: 120.930984, y: -88.636993, z: 58.916859}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 12f06873-e782-494d-407d-b41cbe8f7977
+    - !<own> ef39efee-f58d-40b7-7c22-60e5882fb6c5
   Components:
     []
-- !<SceneObject/356f2929-fd0b-462f-4b74-96847543f40e>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1053.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.528120, y: 0.515014, z: -6.968884}
-    Rotation: {x: -26.826717, y: -82.665565, z: -146.960266}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> a639c0fe-a4bf-4d27-53af-03fc18f36e66
-  Components:
-    []
-- !<SceneObject/3646e9ff-1b4c-4b64-7c28-43f4294d4df8>
-  PrefabRemaps:
-    []
-  Name: Object_118
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/37d393d8-2ffa-4483-7908-1041cd9e6fd8>
+- !<SceneObject/4817d232-aaed-44c3-6e02-64a7010d886c>
   PrefabRemaps:
     []
   Name: Object_76
@@ -782,7 +977,262 @@
     []
   Components:
     []
-- !<SceneObject/37eda804-33ca-428a-6ea4-0698d7f28665>
+- !<SceneObject/48616724-0716-42ae-632e-a38aa1349eab>
+  PrefabRemaps:
+    []
+  Name: international_space
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8fd9b788-ca12-4715-59e4-02e35d4cbc7d
+  Components:
+    []
+- !<SceneObject/48783a74-e2e3-48a8-47d8-6db05c2d2aac>
+  PrefabRemaps:
+    []
+  Name: Object_10
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/48fdef96-47bb-45a2-6717-313fa683c693>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1145.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.037876, y: 0.024812, z: -1.291889}
+    Rotation: {x: -113.805511, y: -89.572960, z: -67.043442}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4af99cde-d4e5-4cb2-71f6-85d8ffc4c7ff
+  Components:
+    []
+- !<SceneObject/4af0872f-d6ae-47fb-65f9-129204fed290>
+  PrefabRemaps:
+    []
+  Name: Object_58
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/4af99cde-d4e5-4cb2-71f6-85d8ffc4c7ff>
+  PrefabRemaps:
+    []
+  Name: Object_138
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/4cfb599c-814f-40b8-5cad-cd2a1ef733b2>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1051.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.541443, y: 0.488930, z: -7.193398}
+    Rotation: {x: -37.220798, y: -81.979309, z: -136.596603}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ab722987-35a0-4e59-558d-f954939ef846
+  Components:
+    []
+- !<SceneObject/4dddb6cc-aae3-4a98-7bd7-9b9c9c238caa>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1141.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.010565, y: 0.039670, z: -1.820433}
+    Rotation: {x: -71.268295, y: -88.530998, z: -109.051270}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ec867b74-8709-46b4-7db5-b546f72956fd
+  Components:
+    []
+- !<SceneObject/4e57e1f8-e1de-41b7-67e3-fe6c47877fa5>
+  PrefabRemaps:
+    []
+  Name: Object_8
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/4f82ff85-4869-4d13-70bb-be2742fe3151>
+  PrefabRemaps:
+    []
+  Name: Object_118
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/57743472-4d3d-41c3-4417-cdbfc67dac4e>
+  PrefabRemaps:
+    []
+  Name: Object_136
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/59ea77d7-94e5-425d-6838-5c873d77b8b2>
+  PrefabRemaps:
+    []
+  Name: Object_90
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/5a113357-262c-4f04-59ae-37add0ec9473>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1043.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.564692, y: 0.428693, z: -8.193874}
+    Rotation: {x: -37.392078, y: -81.188110, z: -140.707367}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 47061738-bc8b-4aa4-543b-9b5cd4268b89
+  Components:
+    []
+- !<SceneObject/5a4d843a-506e-4e20-6113-fc92e6508e44>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1175.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.167566, y: -0.016294, z: -0.022655}
+    Rotation: {x: 124.320068, y: -88.510101, z: 55.640446}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 72e178c2-cb54-49a8-5309-3cf793603a1e
+  Components:
+    []
+- !<SceneObject/5a9753b4-4608-4554-4fab-6ea50143f956>
+  PrefabRemaps:
+    []
+  Name: Object_60
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/5b63ae76-b749-4472-50f1-895af19b054e>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1103.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.194011, y: 0.101355, z: -3.921330}
+    Rotation: {x: -53.347157, y: -84.234756, z: -127.820473}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 98671ac7-0aa6-4f76-4104-06f2aced954d
+  Components:
+    []
+- !<SceneObject/5c68a8b4-f74f-4711-6646-acba73456702>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1093.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.342753, y: 0.254671, z: -5.143415}
+    Rotation: {x: -46.339211, y: -84.594704, z: -132.954178}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 31cd2fcc-12fe-4cc3-74f3-a1a0a789c463
+  Components:
+    []
+- !<SceneObject/5eeb849f-e01d-422c-6ae5-20fe1f2a5a64>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1056.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.496625, y: 0.526249, z: -6.600983}
+    Rotation: {x: -21.760939, y: -82.492249, z: -151.540009}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 26009ae1-eddd-442a-5df2-d76ec00246e9
+  Components:
+    []
+- !<SceneObject/61fadde0-8423-4b62-5d92-da3c11a8aef2>
   PrefabRemaps:
     []
   Name: Object_160
@@ -797,10 +1247,55 @@
     []
   Components:
     []
-- !<SceneObject/382ef41b-ea29-46de-50f4-2eb7db7a642e>
+- !<SceneObject/62c1303e-656a-4220-6aa4-e0a45d3ef4a9>
   PrefabRemaps:
     []
-  Name: Object_108
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1044.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.560234, y: 0.429671, z: -8.059972}
+    Rotation: {x: -42.348503, y: -80.727249, z: -136.136017}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8e5da2fc-296d-425f-452a-020fe8186d8f
+  Components:
+    []
+- !<SceneObject/64218e82-f87a-43c8-6a1d-88221a1a913f>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1016.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.610705, y: 0.390822, z: -8.886672}
+    Rotation: {x: -51.874943, y: -82.513237, z: -124.649902}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ae4b1f12-5e83-4c54-4187-9b56524e27ca
+  Components:
+    []
+- !<SceneObject/6531de13-ae5e-4f11-6e23-811c0be36dcd>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1180.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.229614, y: -0.035300, z: 0.596212}
+    Rotation: {x: 138.611710, y: -87.881508, z: 41.276348}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> bad70ca2-1e8a-4f7f-7ca2-637324ef200e
+  Components:
+    []
+- !<SceneObject/688f95c1-5ab4-43e0-51bf-af7b3a442da7>
+  PrefabRemaps:
+    []
+  Name: Object_86
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -812,37 +1307,346 @@
     []
   Components:
     []
-- !<SceneObject/39dde223-1d20-4957-4982-b4357da1432e>
+- !<SceneObject/690d5cf3-0af2-41df-5431-c269940145aa>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1100.jpg
+  Name: Object_110
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.231286, y: 0.148468, z: -4.291614}
-    Rotation: {x: -28.507908, y: -87.012138, z: -151.597321}
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> cae94959-58b8-422c-76ab-7c7c50193313
+    []
   Components:
     []
-- !<SceneObject/3b926286-c834-4b75-724e-36be382c7691>
+- !<SceneObject/6b63e514-bfa8-4259-7cd2-28a84052d218>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1136.jpg
+  Name: Object_104
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.075592, y: 0.060338, z: -2.458759}
-    Rotation: {x: -62.356125, y: -87.678978, z: -118.747826}
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 099dbe12-e11b-4592-7f56-0cbf4b6b33c6
+    []
   Components:
     []
-- !<SceneObject/3ba16541-8283-4f56-6709-9588ed318e9f>
+- !<SceneObject/6ec55db7-66d8-466a-759c-2e1e422d9e5d>
+  PrefabRemaps:
+    []
+  Name: Object_66
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/6f6d5587-9d21-4308-51db-0bfdb6212b3a>
+  PrefabRemaps:
+    []
+  Name: Object_170
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/701f8c91-05aa-427c-4d18-f71c1875f17e>
+  PrefabRemaps:
+    []
+  Name: Object_96
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/7174f671-d447-48e9-43c2-27cd3634d61f>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1101.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.215457, y: 0.128721, z: -4.158881}
+    Rotation: {x: -40.056435, y: -86.300331, z: -140.216110}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> f7942565-3003-45c2-7c99-d24d76e22092
+  Components:
+    []
+- !<SceneObject/72175061-611a-4781-4027-549b413b1607>
+  PrefabRemaps:
+    []
+  Name: RootNode
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b96dfe65-3949-45c8-50a8-fa3b01b407ef
+    - !<own> c82934a1-1d71-46a5-5594-632140cfa428
+    - !<own> 8b8882ea-aeb7-4a1c-4c62-3b4496b1817c
+    - !<own> b2bf8b78-1f5c-4939-47b0-36d147f874e8
+    - !<own> 027e4a7d-1f8c-496c-611a-e58dac05521f
+    - !<own> c5d8ae03-ec6c-4ff8-50fe-3486e4c514d0
+    - !<own> 0c1da795-aa47-4598-7db5-78429e2c17c2
+    - !<own> 29fa4a14-e6fa-472b-6b80-7c4ca2ee747d
+    - !<own> ee153a6b-3b81-41ee-4769-139d19a1bbe7
+    - !<own> 8fcce890-4c2b-41c4-7fde-d79a9588a794
+    - !<own> 35f7f390-fcee-4383-42a5-e7f8ccfbb756
+    - !<own> 90087377-107c-4a0b-7a9b-dd2f6473d07f
+    - !<own> 418944fa-2fc6-4544-6bc3-09993e75969b
+    - !<own> 3953e052-1b98-4a26-65ce-1749cd4e6ddf
+    - !<own> 64218e82-f87a-43c8-6a1d-88221a1a913f
+    - !<own> 07786be2-c52f-44e5-7df5-3e610b398cbe
+    - !<own> 1432fa1a-13d4-40cc-74d3-4e67c96c39d8
+    - !<own> 5a113357-262c-4f04-59ae-37add0ec9473
+    - !<own> 62c1303e-656a-4220-6aa4-e0a45d3ef4a9
+    - !<own> ac20a326-7379-4815-579b-7e382f8b7e62
+    - !<own> a44fd791-dfa3-4d40-6032-6146a4322fa2
+    - !<own> e6269552-ccff-45ae-7618-39306fdf6523
+    - !<own> 7d99562a-df1f-4f35-50e6-de25f23771af
+    - !<own> d0bed20c-0137-4c72-6307-40f6f50c4852
+    - !<own> 4cfb599c-814f-40b8-5cad-cd2a1ef733b2
+    - !<own> d8d79f68-41e3-43b7-7fc8-076b5bebe6df
+    - !<own> cb0c0a63-fc1d-483c-6168-838d8e54000e
+    - !<own> d660b4a7-f926-4abf-741e-ab06bee20ce7
+    - !<own> 2c7c4ea9-8d0b-43ad-66b4-7f0976141c1e
+    - !<own> 5eeb849f-e01d-422c-6ae5-20fe1f2a5a64
+    - !<own> 190b6559-178d-4f73-4104-4798c08ab979
+    - !<own> 9cc66e2e-37bf-4254-6d35-9a20d617fbb2
+    - !<own> ec08eba2-720c-417a-6ac7-b80dfcdc0225
+    - !<own> e509a4ae-a171-4876-4f27-49428f85de79
+    - !<own> 29894afa-7018-4833-5375-198ab20199a9
+    - !<own> 77a08d56-f74e-4609-77f7-34edfab1605c
+    - !<own> 040d2cf1-60eb-4efa-6cb1-b9915acab01c
+    - !<own> eda406d2-3347-4dbe-579e-7cb7d6497137
+    - !<own> 84c9f92c-e229-4e1a-757a-76a99276df3a
+    - !<own> 5c68a8b4-f74f-4711-6646-acba73456702
+    - !<own> a27b3538-642b-43a1-456a-317db46c7e6e
+    - !<own> 3f479ee7-a774-4eb4-5ada-17a2e6e2c3bb
+    - !<own> e626e160-cf89-48d4-6f9c-6f5d3ff9dd78
+    - !<own> 397b2fa2-d23c-422a-4f57-c0b774dda19d
+    - !<own> 7c9af012-a22b-4a86-5e2a-75c61d0eb8fa
+    - !<own> e6feb02a-cf24-4350-501e-88af598e75f9
+    - !<own> f1581c32-0b3e-443f-60b5-e6e1966f0d06
+    - !<own> 7174f671-d447-48e9-43c2-27cd3634d61f
+    - !<own> e8d6dabd-29a4-4f1e-6e59-59dea0d98a85
+    - !<own> 5b63ae76-b749-4472-50f1-895af19b054e
+    - !<own> 1b28237f-da99-4033-7eaa-3c4fda02de7b
+    - !<own> d0c27ad7-bbf6-4ee1-6a27-af46cc5f668f
+    - !<own> a20f69e7-509e-4829-7ef2-da53c5f02b9b
+    - !<own> 9e6f777d-e691-4436-5ab2-577c8aae7826
+    - !<own> 2969fb88-5b72-449a-7e62-cb9ca039ea7f
+    - !<own> 06e22137-1747-4891-693e-33d896c6f50b
+    - !<own> 24f7076b-e402-4e7c-4ee7-716903a1270f
+    - !<own> c791f306-c635-4718-7baf-d222983bd836
+    - !<own> 10307134-83d4-47d2-7747-5d472fd91fdd
+    - !<own> c4009727-4399-4a1d-7441-8af1472a769d
+    - !<own> f0585bba-97f8-4953-7304-18dd0b1dcc8c
+    - !<own> f1412202-5eae-49fc-6db5-b9f07afc76dd
+    - !<own> 198efc6e-40be-426a-789a-4d9c55757e46
+    - !<own> 4dddb6cc-aae3-4a98-7bd7-9b9c9c238caa
+    - !<own> a23d6b33-60a6-4ec3-4027-46f247637432
+    - !<own> 33fcbb04-ed11-4ca5-4d2b-625e06ad55e5
+    - !<own> 8afd8ce2-f538-462d-4c0f-27dba69bef1a
+    - !<own> 48fdef96-47bb-45a2-6717-313fa683c693
+    - !<own> db0c80e2-9bbb-495c-7f01-a735a476dece
+    - !<own> fc9bc327-9886-4811-4629-111fb27936c1
+    - !<own> 0c3b49a5-8703-4fbe-726c-efa3e0c41a15
+    - !<own> 929290fe-dd91-43c9-5c26-4e3b1e66adb6
+    - !<own> 0afd7acd-ccbe-4095-49b7-60296cb7dc37
+    - !<own> 1d067ae2-4375-48b7-48ed-50146bc27e1d
+    - !<own> 47e78e9d-9704-4803-77d6-50d24706f7f3
+    - !<own> 5a4d843a-506e-4e20-6113-fc92e6508e44
+    - !<own> 92950b57-c9d3-4ead-7b65-5f1b30c61646
+    - !<own> a4e82c46-36ca-43c2-5cce-3bcb78c11bdf
+    - !<own> 9f6b766e-e1bf-4f77-4788-c2a6d3182b84
+    - !<own> dc5033c4-d7e1-4b35-5d1f-c3c9f787def0
+    - !<own> 6531de13-ae5e-4f11-6e23-811c0be36dcd
+    - !<own> 455d6b8a-c1ac-4042-70c9-50cd366645e1
+    - !<own> a4675c77-ec67-4c32-78e2-12ea82526363
+    - !<own> 2bc2fb02-7bc8-43bd-7f2a-7a831c08e02c
+    - !<own> a0d47cfb-5c19-42d2-5f1c-1b7d567816d4
+  Components:
+    []
+- !<SceneObject/72dc921e-22cd-45d0-4048-85f357ab2a3e>
+  PrefabRemaps:
+    []
+  Name: Object_142
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/72e178c2-cb54-49a8-5309-3cf793603a1e>
+  PrefabRemaps:
+    []
+  Name: Object_154
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/77a08d56-f74e-4609-77f7-34edfab1605c>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1089.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.413361, y: 0.334831, z: -5.604189}
+    Rotation: {x: -53.481312, y: -84.295593, z: -124.936905}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> f9637e8f-6ba9-48ce-4e0a-8325e667ea8d
+  Components:
+    []
+- !<SceneObject/79ffb456-eb8e-450b-7811-0dbcf56ffb72>
+  PrefabRemaps:
+    []
+  Name: Model_material0_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 06d7ef4d-f67a-1e22-fdf2-df483e78bebe
+- !<SceneObject/7bdbc7b5-5e49-4ec3-50d6-b287d6e74adc>
+  PrefabRemaps:
+    []
+  Name: Object_4
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/7c9af012-a22b-4a86-5e2a-75c61d0eb8fa>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1098.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.266630, y: 0.184539, z: -4.552477}
+    Rotation: {x: -26.971436, y: -87.541542, z: -152.879211}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1b767bf2-9f5a-4ef7-49b8-12664b8f2390
+  Components:
+    []
+- !<SceneObject/7d740ad4-d0d5-4794-7742-a0fcfb70eb16>
+  PrefabRemaps:
+    []
+  Name: Object_84
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/7d99562a-df1f-4f35-50e6-de25f23771af>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1049.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.550238, y: 0.455215, z: -7.441132}
+    Rotation: {x: -46.509674, y: -81.182671, z: -128.858490}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> cf2a930e-70a4-4545-625b-22056d4971f9
+  Components:
+    []
+- !<SceneObject/7fa1f3cf-ae66-4a3d-7c13-ae6e9b1f51ff>
+  PrefabRemaps:
+    []
+  Name: Model_material0_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d96b3a95-d787-494c-79a7-cb3b2ffcf5fb
+- !<SceneObject/84c9f92c-e229-4e1a-757a-76a99276df3a>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1092.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.361056, y: 0.273745, z: -5.264461}
+    Rotation: {x: -46.905888, y: -84.408188, z: -132.294525}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b0108656-3d42-4ff5-5eee-7f7ae8a1833a
+  Components:
+    []
+- !<SceneObject/8ab9a344-06c5-444a-5137-bac827443763>
   PrefabRemaps:
     []
   Name: Object_114
@@ -857,7 +1661,202 @@
     []
   Components:
     []
-- !<SceneObject/3c4956e7-a725-4a77-493a-15e41d1fe9a6>
+- !<SceneObject/8afd8ce2-f538-462d-4c0f-27dba69bef1a>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1144.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.024444, y: 0.029279, z: -1.423955}
+    Rotation: {x: -99.320595, y: -89.419525, z: -81.505348}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 57743472-4d3d-41c3-4417-cdbfc67dac4e
+  Components:
+    []
+- !<SceneObject/8b8882ea-aeb7-4a1c-4c62-3b4496b1817c>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1004.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.712632, y: 0.377028, z: -10.441434}
+    Rotation: {x: -21.163031, y: -88.606049, z: -155.801636}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4e57e1f8-e1de-41b7-67e3-fe6c47877fa5
+  Components:
+    []
+- !<SceneObject/8e5da2fc-296d-425f-452a-020fe8186d8f>
+  PrefabRemaps:
+    []
+  Name: Object_40
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/8e82ae1e-9ad2-4e29-5064-0592752653af>
+  PrefabRemaps:
+    []
+  Name: Object_50
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/8fcce890-4c2b-41c4-7fde-d79a9588a794>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1011.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.651404, y: 0.362605, z: -9.552964}
+    Rotation: {x: -58.218472, y: -82.371880, z: -120.628204}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ca4c4351-4404-49c1-782d-0eda7e5806cb
+  Components:
+    []
+- !<SceneObject/8fd9b788-ca12-4715-59e4-02e35d4cbc7d>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b01ad1ce-be6a-400e-71c7-d0c13084de42
+  Components:
+    []
+- !<SceneObject/8ff5a200-a045-4bd9-7edd-65daced959c2>
+  PrefabRemaps:
+    []
+  Name: Object_64
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/90087377-107c-4a0b-7a9b-dd2f6473d07f>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1013.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.639746, y: 0.372870, z: -9.269179}
+    Rotation: {x: -56.930622, y: -82.954216, z: -120.850090}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> eb37b187-fcfc-44a1-68ec-fc9173217687
+  Components:
+    []
+- !<SceneObject/906fff56-9788-4f1d-4673-47770142b0bc>
+  PrefabRemaps:
+    []
+  Name: Object_132
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/929290fe-dd91-43c9-5c26-4e3b1e66adb6>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1171.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.120439, y: -0.001011, z: -0.523374}
+    Rotation: {x: 77.532494, y: -89.591217, z: 102.061172}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> d7ae328a-8d4e-4fc1-5097-e432dfac79cc
+  Components:
+    []
+- !<SceneObject/92950b57-c9d3-4ead-7b65-5f1b30c61646>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1176.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.181125, y: -0.022854, z: 0.109185}
+    Rotation: {x: 129.364197, y: -88.645058, z: 50.781349}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> bf9248dc-d70e-436e-78e0-4d57af182c54
+  Components:
+    []
+- !<SceneObject/943ef7b6-e984-4aed-764b-6fddc44957d8>
+  PrefabRemaps:
+    []
+  Name: Object_148
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/98671ac7-0aa6-4f76-4104-06f2aced954d>
+  PrefabRemaps:
+    []
+  Name: Object_102
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/9bf642c5-2b60-49cd-6e18-fc188d7014ad>
   PrefabRemaps:
     []
   Name: Object_158
@@ -872,10 +1871,166 @@
     []
   Components:
     []
-- !<SceneObject/3d942539-c1bc-4c56-4742-d09d70c5ada9>
+- !<SceneObject/9cc66e2e-37bf-4254-6d35-9a20d617fbb2>
   PrefabRemaps:
     []
-  Name: Object_130
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1058.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.476095, y: 0.507955, z: -6.375811}
+    Rotation: {x: -16.366228, y: -83.149033, z: -156.938522}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6ec55db7-66d8-466a-759c-2e1e422d9e5d
+  Components:
+    []
+- !<SceneObject/9e6f777d-e691-4436-5ab2-577c8aae7826>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1131.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.140949, y: 0.088921, z: -3.107322}
+    Rotation: {x: -60.995312, y: -87.119484, z: -120.265060}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 690d5cf3-0af2-41df-5431-c269940145aa
+  Components:
+    []
+- !<SceneObject/9f6b766e-e1bf-4f77-4788-c2a6d3182b84>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1178.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.206761, y: -0.032688, z: 0.367650}
+    Rotation: {x: 138.369522, y: -88.557747, z: 41.832535}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 61fadde0-8423-4b62-5d92-da3c11a8aef2
+  Components:
+    []
+- !<SceneObject/a0d47cfb-5c19-42d2-5f1c-1b7d567816d4>
+  PrefabRemaps:
+    []
+  Name: Model
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 79ffb456-eb8e-450b-7811-0dbcf56ffb72
+    - !<own> 7fa1f3cf-ae66-4a3d-7c13-ae6e9b1f51ff
+  Components:
+    []
+- !<SceneObject/a20f69e7-509e-4829-7ef2-da53c5f02b9b>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1130.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.148166, y: 0.094383, z: -3.215305}
+    Rotation: {x: -53.411453, y: -86.952965, z: -127.483078}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> db8f1f7c-8bf7-4575-5661-71ff8e7efab3
+  Components:
+    []
+- !<SceneObject/a23d6b33-60a6-4ec3-4027-46f247637432>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1142.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.001411, y: 0.036086, z: -1.687892}
+    Rotation: {x: -72.012886, y: -88.768539, z: -108.407417}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 906fff56-9788-4f1d-4673-47770142b0bc
+  Components:
+    []
+- !<ObjectPrefabAssetData/a23feaa7-e72c-4695-84dd-9b651c21dd9b>
+  Prototype: !<ObjectOwner/bbda9cf8-2f50-4d35-a727-539c47e7d215>
+    PackagePath: ""
+    objects:
+      - !<own> 48616724-0716-42ae-632e-a38aa1349eab
+- !<SceneObject/a27b3538-642b-43a1-456a-317db46c7e6e>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1094.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.325221, y: 0.238125, z: -5.023115}
+    Rotation: {x: -44.034569, y: -84.731133, z: -135.486786}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7d740ad4-d0d5-4794-7742-a0fcfb70eb16
+  Components:
+    []
+- !<SceneObject/a44fd791-dfa3-4d40-6032-6146a4322fa2>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1046.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.557378, y: 0.433748, z: -7.800079}
+    Rotation: {x: -49.050617, y: -81.282738, z: -128.504684}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ef8f1667-7e25-4e65-5a92-5278157481eb
+  Components:
+    []
+- !<SceneObject/a4675c77-ec67-4c32-78e2-12ea82526363>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1182.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.259393, y: -0.036522, z: 0.855949}
+    Rotation: {x: 124.338661, y: -87.360329, z: 55.849316}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b7982339-6366-4fe4-5acc-c42d5f8fdfad
+  Components:
+    []
+- !<SceneObject/a4e82c46-36ca-43c2-5cce-3bcb78c11bdf>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1177.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.194166, y: -0.028859, z: 0.239451}
+    Rotation: {x: 137.033310, y: -88.676033, z: 43.269348}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9bf642c5-2b60-49cd-6e18-fc188d7014ad
+  Components:
+    []
+- !<SceneObject/a58f028c-5198-45ab-7ef4-befd120e91ea>
+  PrefabRemaps:
+    []
+  Name: Object_120
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -887,7 +2042,502 @@
     []
   Components:
     []
-- !<RenderMeshVisual/3def734f-eedd-dbaf-e257-2b73bd706ba7>
+- !<SceneObject/a644035e-e607-4226-4f2e-b77cf9ab9992>
+  PrefabRemaps:
+    []
+  Name: Object_106
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/a7120ddd-9fef-4ab4-5f6c-dcb973d60b5e>
+  PrefabRemaps:
+    []
+  Name: Object_54
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/ab722987-35a0-4e59-558d-f954939ef846>
+  PrefabRemaps:
+    []
+  Name: Object_52
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/ac20a326-7379-4815-579b-7e382f8b7e62>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1045.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.558866, y: 0.430939, z: -7.929611}
+    Rotation: {x: -47.374432, y: -80.911781, z: -130.949081}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> eda27069-a3ee-4050-715c-32f928c175e9
+  Components:
+    []
+- !<SceneObject/ad1a16fe-f259-47c6-5eaa-802feee4c1f5>
+  PrefabRemaps:
+    []
+  Name: Object_56
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/ad3321b9-fa27-4639-5749-3cace082bad8>
+  PrefabRemaps:
+    []
+  Name: Object_94
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/ae4b1f12-5e83-4c54-4187-9b56524e27ca>
+  PrefabRemaps:
+    []
+  Name: Object_32
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/b0108656-3d42-4ff5-5eee-7f7ae8a1833a>
+  PrefabRemaps:
+    []
+  Name: Object_80
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/b01ad1ce-be6a-400e-71c7-d0c13084de42>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 25bb6348-c0e5-4939-4e4a-96ed7cf06fce
+  Components:
+    []
+- !<SceneObject/b1775ea7-11eb-4862-6671-4c2fec496976>
+  PrefabRemaps:
+    []
+  Name: Object_78
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/b2bf8b78-1f5c-4939-47b0-36d147f874e8>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1005.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.690263, y: 0.381286, z: -10.328287}
+    Rotation: {x: -29.078722, y: -86.935158, z: -147.898590}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 48783a74-e2e3-48a8-47d8-6db05c2d2aac
+  Components:
+    []
+- !<SceneObject/b7982339-6366-4fe4-5acc-c42d5f8fdfad>
+  PrefabRemaps:
+    []
+  Name: Object_168
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/b84562d4-2202-459d-61cf-2912fcd15347>
+  PrefabRemaps:
+    []
+  Name: Object_12
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/b967cf7d-283a-4c7a-7d8c-fa40bd3a8979>
+  PrefabRemaps:
+    []
+  Name: Object_144
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/b96dfe65-3949-45c8-50a8-fa3b01b407ef>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1002.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.745070, y: 0.360061, z: -10.636456}
+    Rotation: {x: -51.309074, y: -88.171471, z: -126.249847}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7bdbc7b5-5e49-4ec3-50d6-b287d6e74adc
+  Components:
+    []
+- !<SceneObject/bad70ca2-1e8a-4f7f-7ca2-637324ef200e>
+  PrefabRemaps:
+    []
+  Name: Object_164
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/bbc4c621-0cee-4678-5b47-b5ff62d6d621>
+  PrefabRemaps:
+    []
+  Name: Object_28
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/bf9248dc-d70e-436e-78e0-4d57af182c54>
+  PrefabRemaps:
+    []
+  Name: Object_156
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/c4009727-4399-4a1d-7441-8af1472a769d>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1137.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.059826, y: 0.054854, z: -2.325948}
+    Rotation: {x: -63.478474, y: -87.604279, z: -117.522148}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2950ceeb-036c-4bd7-7cca-aa355f7a6539
+  Components:
+    []
+- !<SceneObject/c5d8ae03-ec6c-4ff8-50fe-3486e4c514d0>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1007.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.660364, y: 0.375944, z: -10.085543}
+    Rotation: {x: -42.559380, y: -83.635300, z: -135.716904}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 34fa5468-12e4-4f72-6057-6cd7f0bc00c0
+  Components:
+    []
+- !<SceneObject/c791f306-c635-4718-7baf-d222983bd836>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1135.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.088325, y: 0.065219, z: -2.565763}
+    Rotation: {x: -64.581383, y: -87.837341, z: -116.599350}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4f82ff85-4869-4d13-70bb-be2742fe3151
+  Components:
+    []
+- !<SceneObject/c82934a1-1d71-46a5-5594-632140cfa428>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1003.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.729234, y: 0.369257, z: -10.527157}
+    Rotation: {x: -48.139038, y: -88.858421, z: -129.033661}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> f6a98d88-20dc-484f-46fb-2e73289d2961
+  Components:
+    []
+- !<SceneObject/ca4c4351-4404-49c1-782d-0eda7e5806cb>
+  PrefabRemaps:
+    []
+  Name: Object_22
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/cb0c0a63-fc1d-483c-6168-838d8e54000e>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1053.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.528120, y: 0.515014, z: -6.968884}
+    Rotation: {x: -26.826715, y: -82.665565, z: -146.960266}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ad1a16fe-f259-47c6-5eaa-802feee4c1f5
+  Components:
+    []
+- !<SceneObject/cf2a930e-70a4-4545-625b-22056d4971f9>
+  PrefabRemaps:
+    []
+  Name: Object_48
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/cf436121-8fc0-4256-72c0-56c758ee8124>
+  PrefabRemaps:
+    []
+  Name: Object_70
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/d0bed20c-0137-4c72-6307-40f6f50c4852>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1050.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.546660, y: 0.471251, z: -7.316787}
+    Rotation: {x: -43.429932, y: -81.400307, z: -130.980911}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8e82ae1e-9ad2-4e29-5064-0592752653af
+  Components:
+    []
+- !<SceneObject/d0c27ad7-bbf6-4ee1-6a27-af46cc5f668f>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1105.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.182029, y: 0.100298, z: -3.664901}
+    Rotation: {x: -53.180973, y: -85.232681, z: -128.460373}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> a644035e-e607-4226-4f2e-b77cf9ab9992
+  Components:
+    []
+- !<SceneObject/d1e312a7-d371-45b4-6aaa-4940af172c79>
+  PrefabRemaps:
+    []
+  Name: Object_100
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/d3681da9-4878-4bb0-4b6e-d5175dfd5aaa>
+  PrefabRemaps:
+    []
+  Name: Object_30
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/d660b4a7-f926-4abf-741e-ab06bee20ce7>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1054.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.518403, y: 0.522967, z: -6.846147}
+    Rotation: {x: -25.540335, y: -82.512238, z: -148.113419}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4af0872f-d6ae-47fb-65f9-129204fed290
+  Components:
+    []
+- !<SceneObject/d7ae328a-8d4e-4fc1-5097-e432dfac79cc>
+  PrefabRemaps:
+    []
+  Name: Object_146
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/d8d79f68-41e3-43b7-7fc8-076b5bebe6df>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1052.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.533811, y: 0.505944, z: -7.069686}
+    Rotation: {x: -28.045280, y: -82.440331, z: -145.722244}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> a7120ddd-9fef-4ab4-5f6c-dcb973d60b5e
+  Components:
+    []
+- !<RenderMeshVisual/d96b3a95-d787-494c-79a7-cb3b2ffcf5fb>
   PrefabRemaps:
     []
   Name: Model_material0_0
@@ -907,1312 +2557,7 @@
   BlendNormals: false
   BlendShapes:
     {}
-- !<SceneObject/41a2de91-f93b-451a-5d78-5c2770d61aaa>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1139.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.032165, y: 0.046667, z: -2.060678}
-    Rotation: {x: -61.178646, y: -88.010918, z: -119.493858}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> fbde1875-e46d-4870-6aae-8053af5955c1
-  Components:
-    []
-- !<SceneObject/41baced2-6bfb-4ada-64a7-4896d14e8ee4>
-  PrefabRemaps:
-    []
-  Name: Object_6
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/44726444-d65f-477f-798b-d418788fb1ca>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1045.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.558866, y: 0.430939, z: -7.929611}
-    Rotation: {x: -47.374432, y: -80.911781, z: -130.949081}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 98e0ec41-6c3c-42ff-54b4-4eb458c4a751
-  Components:
-    []
-- !<SceneObject/474a0873-97ba-4764-785c-d055dfdd08a5>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1010.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.650756, y: 0.362307, z: -9.696160}
-    Rotation: {x: -54.655781, y: -81.881371, z: -124.481140}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> eb4525f1-1222-4ec0-6cb2-134aa6986c0b
-  Components:
-    []
-- !<SceneObject/475727fd-269e-4e96-54fb-611fb94bbaad>
-  PrefabRemaps:
-    []
-  Name: Object_58
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/47e0b121-bed2-403a-47ee-04abcad2dfe2>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1017.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.601392, y: 0.399740, z: -8.752099}
-    Rotation: {x: -48.397797, y: -82.796989, z: -128.077881}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 2fc695d8-afdc-48d5-6f13-fe28d984b060
-  Components:
-    []
-- !<SceneObject/484fe664-5a47-476f-5889-02550d8f484b>
-  PrefabRemaps:
-    []
-  Name: Object_70
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/48c179e0-b0f0-4e8f-470e-d2b94062b12d>
-  PrefabRemaps:
-    []
-  Name: international_space
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 100.000000, y: 100.000000, z: 100.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> ce1b2526-6b10-43f9-5760-1888448a6ac9
-  Components:
-    []
-- !<SceneObject/4bd721ce-42c1-4976-6ad2-0b63587ae9cf>
-  PrefabRemaps:
-    []
-  Name: Object_142
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/4f8faebf-a297-40ba-5ea0-5b8e2b798371>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1175.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.167566, y: -0.016294, z: -0.022655}
-    Rotation: {x: 124.320061, y: -88.510101, z: 55.640457}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 06285a3c-c818-444a-6e4b-796e95c81f13
-  Components:
-    []
-- !<SceneObject/4fdec281-3dce-4337-756b-a9e8eb2c3407>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1174.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.157053, y: -0.011630, z: -0.128271}
-    Rotation: {x: 120.930962, y: -88.637138, z: 58.916893}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 1a5a02b6-4dac-4fe7-7bf4-3278ac6b9634
-  Components:
-    []
-- !<SceneObject/53a57da1-3bd7-4d8b-5321-37225c5baace>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1014.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.631577, y: 0.377561, z: -9.158241}
-    Rotation: {x: -56.373238, y: -82.598694, z: -120.846756}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> be187882-801a-444d-4139-90b123bcfb6b
-  Components:
-    []
-- !<SceneObject/55517f9a-cfcc-49ff-4536-903234e90e97>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1134.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.102826, y: 0.070184, z: -2.700185}
-    Rotation: {x: -66.801888, y: -87.673508, z: -114.484520}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 7f251bd0-fc90-44a0-438e-091d8d2e1278
-  Components:
-    []
-- !<SceneObject/55761671-57df-4e28-7341-4ee527d2e701>
-  PrefabRemaps:
-    []
-  Name: Object_162
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/5a15e1d7-7158-43e0-4bd0-c564d3c391c4>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1005.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.690263, y: 0.381286, z: -10.328287}
-    Rotation: {x: -29.078722, y: -86.935158, z: -147.898590}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> eb0563ba-0a72-4b65-4ab6-59797e6c32ce
-  Components:
-    []
-- !<SceneObject/5c2e5e3a-159f-4320-50cc-c36938147ba3>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1178.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.206761, y: -0.032688, z: 0.367650}
-    Rotation: {x: 138.369507, y: -88.557747, z: 41.832550}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 37eda804-33ca-428a-6ea4-0698d7f28665
-  Components:
-    []
-- !<SceneObject/5dcdb173-e51a-47e6-786d-bee6bf3f55fc>
-  PrefabRemaps:
-    []
-  Name: Object_22
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/5e433ed2-3f04-48c3-7702-470a5ca2a4fa>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1171.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.120439, y: -0.001011, z: -0.523374}
-    Rotation: {x: 77.532715, y: -89.591217, z: 102.060959}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 158b0eba-bf5a-4fdd-4341-df981b5cda2f
-  Components:
-    []
-- !<SceneObject/5f97ab4b-4f7a-4480-78b6-3a29f098f329>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1176.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.181125, y: -0.022854, z: 0.109185}
-    Rotation: {x: 129.364166, y: -88.645058, z: 50.781368}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> d4c5703f-daff-4fdf-4aef-c6b2e695abf1
-  Components:
-    []
-- !<SceneObject/608ad5ef-1d87-4822-4021-72fa7e0b1f89>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1137.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.059826, y: 0.054854, z: -2.325948}
-    Rotation: {x: -63.478439, y: -87.604202, z: -117.522179}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> ecb6fd30-7dd3-4166-49ae-4594d4a21859
-  Components:
-    []
-- !<SceneObject/60c2eecd-a32a-49f8-53c1-53397ff09b0c>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1058.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.476095, y: 0.507955, z: -6.375811}
-    Rotation: {x: -16.366224, y: -83.149033, z: -156.938522}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> dfb5828f-9208-469f-58f7-1429bee355a4
-  Components:
-    []
-- !<SceneObject/6197ff19-59c1-4789-615e-acb0249e28b1>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1180.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.229614, y: -0.035300, z: 0.596212}
-    Rotation: {x: 138.611710, y: -87.881599, z: 41.276348}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 319babe1-0990-407f-4428-25d93334227a
-  Components:
-    []
-- !<SceneObject/62fb13c2-1ae6-440c-5b21-12cd6ab93263>
-  PrefabRemaps:
-    []
-  Name: Object_86
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/64b37d1d-f1cd-4f79-6a5b-516a8e1612c1>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1013.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.639746, y: 0.372870, z: -9.269179}
-    Rotation: {x: -56.930630, y: -82.954216, z: -120.850075}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> dbeb9701-72bf-435d-771a-080b4e781cc4
-  Components:
-    []
-- !<SceneObject/64c98aab-eaa4-439e-6ef4-4334067e249c>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1182.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.259393, y: -0.036522, z: 0.855949}
-    Rotation: {x: 124.338661, y: -87.360329, z: 55.849312}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> fe654845-8f5a-4edd-55e7-04198e694d20
-  Components:
-    []
-- !<SceneObject/6743bc8e-5de1-49bd-44df-616d185657a4>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1007.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.660364, y: 0.375944, z: -10.085543}
-    Rotation: {x: -42.559383, y: -83.635269, z: -135.716888}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 22182e4d-739c-4ec8-7e9c-1194948811b6
-  Components:
-    []
-- !<SceneObject/69a8834b-c6e1-481f-5885-73fcfcfed64c>
-  PrefabRemaps:
-    []
-  Name: Object_64
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/69b26185-a6a7-4073-7d96-a8cf9c4c6455>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1097.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.283897, y: 0.200009, z: -4.679323}
-    Rotation: {x: -37.295208, y: -87.281349, z: -142.492981}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> a3620a6f-6d2f-42eb-7e7b-2f80c040ef46
-  Components:
-    []
-- !<SceneObject/69d1558e-f9ed-4ae4-59eb-31eca5d67fea>
-  PrefabRemaps:
-    []
-  Name: Object_46
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/6b9f2d33-a74e-4417-4c2e-07d477050e85>
-  PrefabRemaps:
-    []
-  Name: Object_136
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/6c594c5c-278b-451d-7007-c5659d12c074>
-  PrefabRemaps:
-    []
-  Name: Object_132
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/6d081863-888f-47e9-5736-5a3a9992b5d4>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1006.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.672558, y: 0.380486, z: -10.211158}
-    Rotation: {x: -36.420261, y: -85.211243, z: -141.107407}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> b2145428-a03a-45d5-476d-2ca5cad0e8d6
-  Components:
-    []
-- !<SceneObject/6eb13acf-5c58-44f7-5f35-2f87184f42ca>
-  PrefabRemaps:
-    []
-  Name: Object_92
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/6f93bed6-f06c-4631-6110-5c33b0037559>
-  PrefabRemaps:
-    []
-  Name: Object_36
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/70bd8908-d728-41e4-6b24-be5d1fa3c231>
-  PrefabRemaps:
-    []
-  Name: Object_98
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/743847e1-6ebd-4931-6ad1-9f71c9553959>
-  PrefabRemaps:
-    []
-  Name: Object_8
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/784038b4-eacb-4351-7f7e-5e3ce264f6bb>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1090.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.395650, y: 0.311613, z: -5.482513}
-    Rotation: {x: -49.592770, y: -84.374580, z: -128.987106}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 37d393d8-2ffa-4483-7908-1041cd9e6fd8
-  Components:
-    []
-- !<SceneObject/7a7aeeaf-ebb9-4270-4060-5fcde54b10d7>
-  PrefabRemaps:
-    []
-  Name: Object_110
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/7bf08739-bc7e-4590-457c-5d0044f85566>
-  PrefabRemaps:
-    []
-  Name: Sketchfab_Scene
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 0a59dfb5-4012-4de1-4ea5-57ad0b89a753
-  Components:
-    []
-- !<SceneObject/7ce8fb27-d4fe-4453-7874-e3647ef052d9>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1101.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.215457, y: 0.128721, z: -4.158881}
-    Rotation: {x: -40.056442, y: -86.300323, z: -140.216110}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 70bd8908-d728-41e4-6b24-be5d1fa3c231
-  Components:
-    []
-- !<SceneObject/7d955796-8d74-4378-5acd-ed66a4994d4e>
-  PrefabRemaps:
-    []
-  Name: Object_150
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/7f251bd0-fc90-44a0-438e-091d8d2e1278>
-  PrefabRemaps:
-    []
-  Name: Object_116
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/80b35869-59d6-42f7-41ec-bd9c76b1538b>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1169.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.095852, y: 0.005292, z: -0.762224}
-    Rotation: {x: -28.970774, y: -89.849342, z: -151.740570}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 4bd721ce-42c1-4976-6ad2-0b63587ae9cf
-  Components:
-    []
-- !<SceneObject/81bed89b-4839-4bf1-6e09-9ed0b224d103>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1144.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.024444, y: 0.029279, z: -1.423955}
-    Rotation: {x: -99.320557, y: -89.419189, z: -81.505394}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 6b9f2d33-a74e-4417-4c2e-07d477050e85
-  Components:
-    []
-- !<SceneObject/83ac996b-db20-49db-6516-1ef33cb84a98>
-  PrefabRemaps:
-    []
-  Name: Object_166
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/83b9a36d-7705-4b47-7371-aab235772831>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1002.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.745070, y: 0.360061, z: -10.636456}
-    Rotation: {x: -51.309090, y: -88.171471, z: -126.249832}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 8dc3c3a8-c31b-49f9-518f-0065d2d71138
-  Components:
-    []
-- !<SceneObject/851a523f-6f27-427b-5df0-9aedfd2136c3>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1046.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.557378, y: 0.433748, z: -7.800079}
-    Rotation: {x: -49.050621, y: -81.282738, z: -128.504684}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> d241cee6-b615-4d69-5e6f-f28debdf7fde
-  Components:
-    []
-- !<SceneObject/85ac8b91-254b-4729-66f4-f785970b9872>
-  PrefabRemaps:
-    []
-  Name: Object_134
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/8754848b-00db-4723-780b-0061b8898564>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1011.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.651404, y: 0.362605, z: -9.552964}
-    Rotation: {x: -58.218456, y: -82.371895, z: -120.628220}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 5dcdb173-e51a-47e6-786d-bee6bf3f55fc
-  Components:
-    []
-- !<SceneObject/8764146e-f63d-45af-6590-aaa69a6d6dc3>
-  PrefabRemaps:
-    []
-  Name: Object_52
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/87932b6d-9816-402a-64b1-3f2d95b0ee08>
-  PrefabRemaps:
-    []
-  Name: Object_100
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/888b69c6-d5b8-4076-6a35-671580f0ae76>
-  PrefabRemaps:
-    []
-  Name: Model
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 2c1a6cbf-78a4-4542-5a11-8f8444cac948
-    - !<own> f490d3c9-1de0-4a57-6081-3f18ec217839
-  Components:
-    []
-- !<SceneObject/894b8623-b166-4b0d-6689-b3ca8465d927>
-  PrefabRemaps:
-    []
-  Name: RootNode
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 83b9a36d-7705-4b47-7371-aab235772831
-    - !<own> 96a6078f-8b3b-4915-6b60-7e767612acb9
-    - !<own> 1e4accc5-0bce-4eb3-7ac8-9effde22f508
-    - !<own> 5a15e1d7-7158-43e0-4bd0-c564d3c391c4
-    - !<own> 6d081863-888f-47e9-5736-5a3a9992b5d4
-    - !<own> 6743bc8e-5de1-49bd-44df-616d185657a4
-    - !<own> 9ee75491-2f90-49cf-701c-2daef88c4b2c
-    - !<own> 96bd638f-7a5b-431f-4248-845d2244bca5
-    - !<own> 474a0873-97ba-4764-785c-d055dfdd08a5
-    - !<own> 8754848b-00db-4723-780b-0061b8898564
-    - !<own> 0f0d5f37-50fa-4b12-4d41-96ec6406603a
-    - !<own> 64b37d1d-f1cd-4f79-6a5b-516a8e1612c1
-    - !<own> 53a57da1-3bd7-4d8b-5321-37225c5baace
-    - !<own> 059d07f0-e0e8-47d0-4b9f-f484c6b1671a
-    - !<own> eeee9b9e-4782-4d6c-6048-925a881cf0bb
-    - !<own> 47e0b121-bed2-403a-47ee-04abcad2dfe2
-    - !<own> 972acb09-387d-460a-5177-6b9d854c652c
-    - !<own> de4cdb0f-0eaa-4db3-4fa4-df4d2956b970
-    - !<own> 020c02a9-20fd-4252-62ab-28ca16870376
-    - !<own> 44726444-d65f-477f-798b-d418788fb1ca
-    - !<own> 851a523f-6f27-427b-5df0-9aedfd2136c3
-    - !<own> 9a1e61ef-13b9-4212-7313-fc579bf3241a
-    - !<own> 06bba956-ff7e-4fdf-73e0-a1ed30a46c99
-    - !<own> 0c83401c-6408-4fb5-4dab-545a5a162f3e
-    - !<own> 12804063-b40c-4412-5e23-802df0928c49
-    - !<own> 9c689235-240e-41f7-65cd-b87062f4609e
-    - !<own> 356f2929-fd0b-462f-4b74-96847543f40e
-    - !<own> 31889b88-89e6-43a1-5666-e9228abfdf79
-    - !<own> f02f4bb9-077f-4fd4-7141-bda2300143e8
-    - !<own> 103d965e-3be3-4020-7ce7-fa185c0f8d82
-    - !<own> f4c55d68-03c9-4cf1-6e38-97d8cac92088
-    - !<own> 60c2eecd-a32a-49f8-53c1-53397ff09b0c
-    - !<own> db3cc9dd-1e3d-4232-428f-3b51a0099933
-    - !<own> f56913b9-2b6a-475a-7ea7-a95c482b49c7
-    - !<own> ab88723e-0e02-4e12-4701-e158894beefa
-    - !<own> a7b22a4e-9f5f-4b75-76aa-f23dbb6b5f15
-    - !<own> 784038b4-eacb-4351-7f7e-5e3ce264f6bb
-    - !<own> e2f9e0dd-4977-46a7-531b-26975bf26479
-    - !<own> b4198dc1-fa76-49d7-50c8-a7fc74184d02
-    - !<own> c215a70d-82bf-4ff5-5417-f029455b2e9c
-    - !<own> f8843225-bf1f-49be-6506-4da4c12f90e7
-    - !<own> c343e1f7-ed1d-431b-5ed1-c21fe47557f3
-    - !<own> b9b812fb-5b37-431f-715d-b5a8a3f4cf17
-    - !<own> 69b26185-a6a7-4073-7d96-a8cf9c4c6455
-    - !<own> ebc4d990-13b5-4351-5cda-fd521e19d723
-    - !<own> 8d10c66a-be5f-4e2e-401a-7799de269e70
-    - !<own> 39dde223-1d20-4957-4982-b4357da1432e
-    - !<own> 7ce8fb27-d4fe-4453-7874-e3647ef052d9
-    - !<own> f6cfc399-c77c-4c3c-5a8d-23e7e551a0ed
-    - !<own> 2f287f8f-9115-416b-45e3-9e390a5b1c4e
-    - !<own> 9c8742e4-4073-4c29-47df-7a11e4461033
-    - !<own> da3e0e95-7e5b-49ea-7bb5-76b2d55ef80e
-    - !<own> 03ca1504-87ad-4afb-4949-a5bc26a92f99
-    - !<own> d142d86d-0975-49a9-707e-b29ca9cf4e08
-    - !<own> 321c5ba3-a4af-44ef-6e99-922e87de845e
-    - !<own> abffc4dd-8937-4399-6f49-0f5645572d1d
-    - !<own> 55517f9a-cfcc-49ff-4536-903234e90e97
-    - !<own> b854ed96-bef4-4853-5522-5ee6cb5e00fd
-    - !<own> 3b926286-c834-4b75-724e-36be382c7691
-    - !<own> 608ad5ef-1d87-4822-4021-72fa7e0b1f89
-    - !<own> 9b609568-04a7-4b31-695c-0c8e9c8eefd9
-    - !<own> 41a2de91-f93b-451a-5d78-5c2770d61aaa
-    - !<own> 920e28ad-4e9a-4e56-5bef-274f630fbaaf
-    - !<own> 9ae8c2ea-69c8-4e37-5f88-b5fc13758204
-    - !<own> b6a6959c-5e7e-4238-677b-54765fe39d70
-    - !<own> b918370c-9ca4-4889-721f-bc7ca717ee49
-    - !<own> 81bed89b-4839-4bf1-6e09-9ed0b224d103
-    - !<own> fa4e8de6-002d-40fe-6f78-e7dd43d0b41b
-    - !<own> aab01f0a-8a38-44ba-40e0-c70230b3390b
-    - !<own> 80b35869-59d6-42f7-41ec-bd9c76b1538b
-    - !<own> 2c3bbe65-ca97-44da-6776-b6d87a7f3254
-    - !<own> 5e433ed2-3f04-48c3-7702-470a5ca2a4fa
-    - !<own> efeac723-35ce-4bd6-4ee2-4243caa3f6da
-    - !<own> ac1f9b21-c580-44c7-6355-5ee9ba22ebe9
-    - !<own> 4fdec281-3dce-4337-756b-a9e8eb2c3407
-    - !<own> 4f8faebf-a297-40ba-5ea0-5b8e2b798371
-    - !<own> 5f97ab4b-4f7a-4480-78b6-3a29f098f329
-    - !<own> 9038a767-637e-4dc5-4226-86481ff6dab4
-    - !<own> 5c2e5e3a-159f-4320-50cc-c36938147ba3
-    - !<own> dd5633ee-9b19-4488-4f20-db1c652e5aa6
-    - !<own> 6197ff19-59c1-4789-615e-acb0249e28b1
-    - !<own> 2ebf700d-4329-4f5b-7065-c7323201cbcd
-    - !<own> 64c98aab-eaa4-439e-6ef4-4334067e249c
-    - !<own> 203404cc-c513-474a-7ddf-113dd034a494
-    - !<own> 888b69c6-d5b8-4076-6a35-671580f0ae76
-  Components:
-    []
-- !<SceneObject/89f4c2fd-b98c-4cf4-4c62-486bb283cfb8>
-  PrefabRemaps:
-    []
-  Name: Object_128
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/8b7430ce-9b59-46d0-5ad6-b6488986246a>
-  PrefabRemaps:
-    []
-  Name: Object_148
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/8ca9d220-a1f2-4a8b-4084-66d9dde2eb98>
-  PrefabRemaps:
-    []
-  Name: Object_80
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/8d10c66a-be5f-4e2e-401a-7799de269e70>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1099.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.248659, y: 0.167343, z: -4.422281}
-    Rotation: {x: -23.393274, y: -87.514938, z: -156.587219}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 9758dcf5-12c0-4803-586f-e351540bb422
-  Components:
-    []
-- !<SceneObject/8dc3c3a8-c31b-49f9-518f-0065d2d71138>
-  PrefabRemaps:
-    []
-  Name: Object_4
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/9038a767-637e-4dc5-4226-86481ff6dab4>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1177.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.194166, y: -0.028859, z: 0.239451}
-    Rotation: {x: 137.033295, y: -88.676178, z: 43.269360}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 3c4956e7-a725-4a77-493a-15e41d1fe9a6
-  Components:
-    []
-- !<SceneObject/920e28ad-4e9a-4e56-5bef-274f630fbaaf>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1140.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.020124, y: 0.042932, z: -1.927395}
-    Rotation: {x: -67.209427, y: -88.368530, z: -113.215134}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 89f4c2fd-b98c-4cf4-4c62-486bb283cfb8
-  Components:
-    []
-- !<SceneObject/9466ce4a-8684-475e-7f62-67f83bfd7571>
-  PrefabRemaps:
-    []
-  Name: Object_170
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/9561a752-4ef8-44d5-60ee-974722b20387>
-  PrefabRemaps:
-    []
-  Name: Object_72
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/95b92a9d-f9b3-4f48-5e5c-fd026bfc2e6a>
-  PrefabRemaps:
-    []
-  Name: Object_62
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/96a6078f-8b3b-4915-6b60-7e767612acb9>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1003.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.729234, y: 0.369257, z: -10.527157}
-    Rotation: {x: -48.139038, y: -88.858421, z: -129.033661}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 41baced2-6bfb-4ada-64a7-4896d14e8ee4
-  Components:
-    []
-- !<SceneObject/96bd638f-7a5b-431f-4248-845d2244bca5>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1009.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.650738, y: 0.365590, z: -9.839098}
-    Rotation: {x: -49.838882, y: -81.950066, z: -129.216934}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 18e3345f-faa4-43c2-5435-18389ffb9d6b
-  Components:
-    []
-- !<SceneObject/972acb09-387d-460a-5177-6b9d854c652c>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1042.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.572152, y: 0.425949, z: -8.300672}
-    Rotation: {x: -38.583916, y: -81.942970, z: -139.061951}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 6f93bed6-f06c-4631-6110-5c33b0037559
-  Components:
-    []
-- !<SceneObject/9758dcf5-12c0-4803-586f-e351540bb422>
-  PrefabRemaps:
-    []
-  Name: Object_94
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/985bc71f-9ca0-4c82-71bd-46a02263876f>
-  PrefabRemaps:
-    []
-  Name: Object_104
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/98a8d895-ccdb-4504-6782-f93dc479c2c7>
-  PrefabRemaps:
-    []
-  Name: Object_16
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/98b20d80-742c-4e55-44e3-c30970f35621>
-  PrefabRemaps:
-    []
-  Name: Object_60
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/98e0ec41-6c3c-42ff-54b4-4eb458c4a751>
-  PrefabRemaps:
-    []
-  Name: Object_42
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/9a1e61ef-13b9-4212-7313-fc579bf3241a>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1048.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.552466, y: 0.444513, z: -7.568529}
-    Rotation: {x: -46.385311, y: -81.306541, z: -129.739822}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 69d1558e-f9ed-4ae4-59eb-31eca5d67fea
-  Components:
-    []
-- !<SceneObject/9ae8c2ea-69c8-4e37-5f88-b5fc13758204>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1141.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.010565, y: 0.039670, z: -1.820433}
-    Rotation: {x: -71.268318, y: -88.530991, z: -109.051239}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 3d942539-c1bc-4c56-4742-d09d70c5ada9
-  Components:
-    []
-- !<SceneObject/9b609568-04a7-4b31-695c-0c8e9c8eefd9>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1138.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.045341, y: 0.050460, z: -2.193272}
-    Rotation: {x: -61.339512, y: -87.712868, z: -119.498802}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 09c32f7f-a516-4fd2-6cdf-28c9458254a4
-  Components:
-    []
-- !<SceneObject/9c689235-240e-41f7-65cd-b87062f4609e>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1052.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.533811, y: 0.505944, z: -7.069686}
-    Rotation: {x: -28.045288, y: -82.440331, z: -145.722244}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 1358b425-91d3-4a00-6c76-ed32e9cc19a2
-  Components:
-    []
-- !<SceneObject/9c8742e4-4073-4c29-47df-7a11e4461033>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1104.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.187951, y: 0.098268, z: -3.793899}
-    Rotation: {x: -54.206272, y: -84.352394, z: -127.431671}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 985bc71f-9ca0-4c82-71bd-46a02263876f
-  Components:
-    []
-- !<SceneObject/9ee75491-2f90-49cf-701c-2daef88c4b2c>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1008.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.653418, y: 0.370520, z: -9.951010}
-    Rotation: {x: -46.914238, y: -82.662643, z: -131.837204}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 98a8d895-ccdb-4504-6782-f93dc479c2c7
-  Components:
-    []
-- !<ObjectPrefabAssetData/a23feaa7-e72c-4695-84dd-9b651c21dd9b>
-  Prototype: !<ObjectOwner/bbda9cf8-2f50-4d35-a727-539c47e7d215>
-    PackagePath: ""
-    objects:
-      - !<own> 48c179e0-b0f0-4e8f-470e-d2b94062b12d
-- !<SceneObject/a3620a6f-6d2f-42eb-7e7b-2f80c040ef46>
-  PrefabRemaps:
-    []
-  Name: Object_90
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/a6149dc5-d7d3-4cd7-7776-82b540b90ab3>
-  PrefabRemaps:
-    []
-  Name: Object_74
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/a639c0fe-a4bf-4d27-53af-03fc18f36e66>
-  PrefabRemaps:
-    []
-  Name: Object_56
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/a7b22a4e-9f5f-4b75-76aa-f23dbb6b5f15>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1089.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.413361, y: 0.334831, z: -5.604189}
-    Rotation: {x: -53.481319, y: -84.295593, z: -124.936905}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> a6149dc5-d7d3-4cd7-7776-82b540b90ab3
-  Components:
-    []
-- !<SceneObject/aab01f0a-8a38-44ba-40e0-c70230b3390b>
+- !<SceneObject/db0c80e2-9bbb-495c-7f01-a735a476dece>
   PrefabRemaps:
     []
   Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1146.jpg
@@ -2220,62 +2565,17 @@
   Layers: 1
   LocalTransform: !<TransformEntity>
     Position: {x: -0.050149, y: 0.020360, z: -1.185854}
-    Rotation: {x: -95.569092, y: -89.608833, z: -85.185989}
+    Rotation: {x: -95.569153, y: -89.609329, z: -85.185928}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> b3e7afd4-5f0d-448f-7088-e9f044349bc7
+    - !<own> 0b56b23e-73fc-4d91-558c-9b65ccefd536
   Components:
     []
-- !<SceneObject/ab88723e-0e02-4e12-4701-e158894beefa>
+- !<SceneObject/db8f1f7c-8bf7-4575-5661-71ff8e7efab3>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1088.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.426704, y: 0.363356, z: -5.729150}
-    Rotation: {x: -47.135468, y: -84.216019, z: -130.658585}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 9561a752-4ef8-44d5-60ee-974722b20387
-  Components:
-    []
-- !<SceneObject/abffc4dd-8937-4399-6f49-0f5645572d1d>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1133.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.114613, y: 0.075675, z: -2.834814}
-    Rotation: {x: -59.737762, y: -87.261406, z: -121.606354}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 3ba16541-8283-4f56-6709-9588ed318e9f
-  Components:
-    []
-- !<SceneObject/ac1f9b21-c580-44c7-6355-5ee9ba22ebe9>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1173.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.144988, y: -0.007223, z: -0.259783}
-    Rotation: {x: 112.457382, y: -88.994972, z: 67.339874}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 7d955796-8d74-4378-5acd-ed66a4994d4e
-  Components:
-    []
-- !<SceneObject/b2145428-a03a-45d5-476d-2ca5cad0e8d6>
-  PrefabRemaps:
-    []
-  Name: Object_12
+  Name: Object_108
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -2287,10 +2587,10 @@
     []
   Components:
     []
-- !<SceneObject/b3e7afd4-5f0d-448f-7088-e9f044349bc7>
+- !<SceneObject/dba04e7a-342b-4cea-51f0-7e0de5f37bc7>
   PrefabRemaps:
     []
-  Name: Object_140
+  Name: Object_18
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -2302,352 +2602,7 @@
     []
   Components:
     []
-- !<SceneObject/b4198dc1-fa76-49d7-50c8-a7fc74184d02>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1092.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.361056, y: 0.273745, z: -5.264461}
-    Rotation: {x: -46.905895, y: -84.408195, z: -132.294510}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 8ca9d220-a1f2-4a8b-4084-66d9dde2eb98
-  Components:
-    []
-- !<SceneObject/b6a6959c-5e7e-4238-677b-54765fe39d70>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1142.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.001411, y: 0.036086, z: -1.687892}
-    Rotation: {x: -72.012840, y: -88.768532, z: -108.407463}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 6c594c5c-278b-451d-7007-c5659d12c074
-  Components:
-    []
-- !<SceneObject/b854ed96-bef4-4853-5522-5ee6cb5e00fd>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1135.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.088325, y: 0.065219, z: -2.565763}
-    Rotation: {x: -64.581390, y: -87.837349, z: -116.599335}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 3646e9ff-1b4c-4b64-7c28-43f4294d4df8
-  Components:
-    []
-- !<SceneObject/b918370c-9ca4-4889-721f-bc7ca717ee49>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1143.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.012714, y: 0.033019, z: -1.556084}
-    Rotation: {x: -79.426636, y: -89.137474, z: -101.235512}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 85ac8b91-254b-4729-66f4-f785970b9872
-  Components:
-    []
-- !<SceneObject/b96d49ba-34ba-402f-6431-3056adb18332>
-  PrefabRemaps:
-    []
-  Name: Object_50
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/b9b812fb-5b37-431f-715d-b5a8a3f4cf17>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1096.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.296361, y: 0.211591, z: -4.779531}
-    Rotation: {x: -40.812038, y: -86.726730, z: -138.984665}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> bb1a6731-9ef4-4adc-7813-0e58a21fc139
-  Components:
-    []
-- !<SceneObject/bb1a6731-9ef4-4adc-7813-0e58a21fc139>
-  PrefabRemaps:
-    []
-  Name: Object_88
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/be187882-801a-444d-4139-90b123bcfb6b>
-  PrefabRemaps:
-    []
-  Name: Object_28
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/be4eae9d-3840-4201-51db-2786b4886617>
-  PrefabRemaps:
-    []
-  Name: Object_138
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/beac0660-9f1b-41f0-7f51-857e7779ff4b>
-  PrefabRemaps:
-    []
-  Name: Object_40
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/c215a70d-82bf-4ff5-5417-f029455b2e9c>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1093.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.342753, y: 0.254671, z: -5.143415}
-    Rotation: {x: -46.339199, y: -84.594704, z: -132.954193}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> d0776e3b-8890-4a92-48f7-02403559abff
-  Components:
-    []
-- !<SceneObject/c343e1f7-ed1d-431b-5ed1-c21fe47557f3>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1095.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.309882, y: 0.224713, z: -4.903039}
-    Rotation: {x: -40.973431, y: -85.462959, z: -138.835632}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 62fb13c2-1ae6-440c-5b21-12cd6ab93263
-  Components:
-    []
-- !<SceneObject/c4719240-3d7b-4a82-68d5-83f87605b9da>
-  PrefabRemaps:
-    []
-  Name: Object_30
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/cae94959-58b8-422c-76ab-7c7c50193313>
-  PrefabRemaps:
-    []
-  Name: Object_96
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/ce1b2526-6b10-43f9-5760-1888448a6ac9>
-  PrefabRemaps:
-    []
-  Name: Scenes
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 7bf08739-bc7e-4590-457c-5d0044f85566
-  Components:
-    []
-- !<SceneObject/d0776e3b-8890-4a92-48f7-02403559abff>
-  PrefabRemaps:
-    []
-  Name: Object_82
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/d142d86d-0975-49a9-707e-b29ca9cf4e08>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1131.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.140949, y: 0.088921, z: -3.107322}
-    Rotation: {x: -60.995296, y: -87.119484, z: -120.265068}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 7a7aeeaf-ebb9-4270-4060-5fcde54b10d7
-  Components:
-    []
-- !<SceneObject/d241cee6-b615-4d69-5e6f-f28debdf7fde>
-  PrefabRemaps:
-    []
-  Name: Object_44
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/d3c0430d-7dbd-4d1b-5ecc-18fbe0ff566d>
-  PrefabRemaps:
-    []
-  Name: Object_32
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/d4c5703f-daff-4fdf-4aef-c6b2e695abf1>
-  PrefabRemaps:
-    []
-  Name: Object_156
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/da3e0e95-7e5b-49ea-7bb5-76b2d55ef80e>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1105.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.182029, y: 0.100298, z: -3.664901}
-    Rotation: {x: -53.180981, y: -85.232681, z: -128.460373}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 0695cea3-2cea-4c91-4f34-edfef890e0f3
-  Components:
-    []
-- !<SceneObject/db3cc9dd-1e3d-4232-428f-3b51a0099933>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1059.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.463742, y: 0.485939, z: -6.249141}
-    Rotation: {x: -14.675796, y: -83.295013, z: -158.720551}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> efa2da32-3356-4424-5662-42d3764dee50
-  Components:
-    []
-- !<SceneObject/dbeb9701-72bf-435d-771a-080b4e781cc4>
-  PrefabRemaps:
-    []
-  Name: Object_26
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/dd5633ee-9b19-4488-4f20-db1c652e5aa6>
+- !<SceneObject/dc5033c4-d7e1-4b35-5d1f-c3c9f787def0>
   PrefabRemaps:
     []
   Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1179.jpg
@@ -2655,119 +2610,89 @@
   Layers: 1
   LocalTransform: !<TransformEntity>
     Position: {x: -0.219124, y: -0.034584, z: 0.494587}
-    Rotation: {x: 140.845596, y: -88.193550, z: 39.108051}
+    Rotation: {x: 140.845612, y: -88.193436, z: 39.108044}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 55761671-57df-4e28-7341-4ee527d2e701
+    - !<own> f299439a-88e5-4835-475c-1c0a102f64f3
   Components:
     []
-- !<SceneObject/de4cdb0f-0eaa-4db3-4fa4-df4d2956b970>
+- !<SceneObject/e509a4ae-a171-4876-4f27-49428f85de79>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1043.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1060.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.564692, y: 0.428693, z: -8.193874}
-    Rotation: {x: -37.392086, y: -81.188110, z: -140.707367}
+    Position: {x: 0.453815, y: 0.458630, z: -6.118862}
+    Rotation: {x: -18.774113, y: -83.636192, z: -155.029800}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> f1c85304-012f-4bd3-41b8-ecec308a180d
+    - !<own> cf436121-8fc0-4256-72c0-56c758ee8124
   Components:
     []
-- !<SceneObject/dfb5828f-9208-469f-58f7-1429bee355a4>
+- !<SceneObject/e6269552-ccff-45ae-7618-39306fdf6523>
   PrefabRemaps:
     []
-  Name: Object_66
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1048.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Position: {x: 0.552466, y: 0.444513, z: -7.568529}
+    Rotation: {x: -46.385307, y: -81.306549, z: -129.739822}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    []
+    - !<own> f8eee85e-ad0b-40b8-6252-33263f4bc029
   Components:
     []
-- !<SceneObject/dfd726bb-201f-4a62-4785-eb7cca16f2ab>
+- !<SceneObject/e626e160-cf89-48d4-6f9c-6f5d3ff9dd78>
   PrefabRemaps:
     []
-  Name: Object_78
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1096.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Position: {x: 0.296361, y: 0.211591, z: -4.779531}
+    Rotation: {x: -40.812042, y: -86.726723, z: -138.984665}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    []
+    - !<own> 1574f486-ff18-40f8-722c-9e65ba487ea3
   Components:
     []
-- !<SceneObject/e2a7a2d3-d6c8-40cf-707e-9880d5ea6e73>
+- !<SceneObject/e6feb02a-cf24-4350-501e-88af598e75f9>
   PrefabRemaps:
     []
-  Name: Object_48
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1099.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Position: {x: 0.248659, y: 0.167343, z: -4.422281}
+    Rotation: {x: -23.393261, y: -87.514938, z: -156.587234}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    []
+    - !<own> ad3321b9-fa27-4639-5749-3cace082bad8
   Components:
     []
-- !<SceneObject/e2f9e0dd-4977-46a7-531b-26975bf26479>
+- !<SceneObject/e8d6dabd-29a4-4f1e-6e59-59dea0d98a85>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1091.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1102.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.375825, y: 0.290143, z: -5.360726}
-    Rotation: {x: -46.626251, y: -84.342506, z: -132.334869}
+    Position: {x: 0.204041, y: 0.114039, z: -4.052187}
+    Rotation: {x: -47.668056, y: -85.246719, z: -132.918427}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> dfd726bb-201f-4a62-4785-eb7cca16f2ab
+    - !<own> d1e312a7-d371-45b4-6aaa-4940af172c79
   Components:
     []
-- !<SceneObject/e657b144-441e-4ef8-5e2a-cadf1e5518a7>
-  PrefabRemaps:
-    []
-  Name: Object_144
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/eb0563ba-0a72-4b65-4ab6-59797e6c32ce>
-  PrefabRemaps:
-    []
-  Name: Object_10
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/eb4525f1-1222-4ec0-6cb2-134aa6986c0b>
+- !<SceneObject/eb31714d-7169-445d-639d-40c25b6a1ed5>
   PrefabRemaps:
     []
   Name: Object_20
@@ -2782,25 +2707,10 @@
     []
   Components:
     []
-- !<SceneObject/ebc4d990-13b5-4351-5cda-fd521e19d723>
+- !<SceneObject/eb37b187-fcfc-44a1-68ec-fc9173217687>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1098.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.266630, y: 0.184539, z: -4.552477}
-    Rotation: {x: -26.971443, y: -87.541542, z: -152.879211}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 6eb13acf-5c58-44f7-5f35-2f87184f42ca
-  Components:
-    []
-- !<SceneObject/ecb6fd30-7dd3-4166-49ae-4594d4a21859>
-  PrefabRemaps:
-    []
-  Name: Object_122
+  Name: Object_26
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -2812,70 +2722,25 @@
     []
   Components:
     []
-- !<SceneObject/eeee9b9e-4782-4d6c-6048-925a881cf0bb>
+- !<SceneObject/ec08eba2-720c-417a-6ac7-b80dfcdc0225>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1016.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1059.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.610705, y: 0.390822, z: -8.886672}
-    Rotation: {x: -51.874947, y: -82.513237, z: -124.649887}
+    Position: {x: 0.463742, y: 0.485939, z: -6.249141}
+    Rotation: {x: -14.675794, y: -83.295013, z: -158.720566}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> d3c0430d-7dbd-4d1b-5ecc-18fbe0ff566d
+    - !<own> 316ef1c5-5b3b-4c4f-4f7a-0d3b31b703e0
   Components:
     []
-- !<SceneObject/efa2da32-3356-4424-5662-42d3764dee50>
+- !<SceneObject/ec867b74-8709-46b4-7db5-b546f72956fd>
   PrefabRemaps:
     []
-  Name: Object_68
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    []
-- !<SceneObject/efeac723-35ce-4bd6-4ee2-4243caa3f6da>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1172.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: -0.133074, y: -0.004208, z: -0.390982}
-    Rotation: {x: 94.919678, y: -89.398666, z: 84.821060}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 8b7430ce-9b59-46d0-5ad6-b6488986246a
-  Components:
-    []
-- !<SceneObject/f02f4bb9-077f-4fd4-7141-bda2300143e8>
-  PrefabRemaps:
-    []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1055.jpg
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.508039, y: 0.526966, z: -6.723839}
-    Rotation: {x: -23.651449, y: -82.459328, z: -149.830597}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 98b20d80-742c-4e55-44e3-c30970f35621
-  Components:
-    []
-- !<SceneObject/f1c85304-012f-4bd3-41b8-ecec308a180d>
-  PrefabRemaps:
-    []
-  Name: Object_38
+  Name: Object_130
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -2887,10 +2752,10 @@
     []
   Components:
     []
-- !<SceneObject/f490d3c9-1de0-4a57-6081-3f18ec217839>
+- !<SceneObject/eda27069-a3ee-4050-715c-32f928c175e9>
   PrefabRemaps:
     []
-  Name: Model_material0_0
+  Name: Object_42
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
@@ -2901,83 +2766,203 @@
   Children:
     []
   Components:
-    - !<own> 3def734f-eedd-dbaf-e257-2b73bd706ba7
-- !<SceneObject/f4c55d68-03c9-4cf1-6e38-97d8cac92088>
+    []
+- !<SceneObject/eda406d2-3347-4dbe-579e-7cb7d6497137>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1057.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1091.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.485164, y: 0.519738, z: -6.476631}
-    Rotation: {x: -18.203905, y: -82.825912, z: -155.020645}
+    Position: {x: 0.375825, y: 0.290143, z: -5.360726}
+    Rotation: {x: -46.626244, y: -84.342506, z: -132.334869}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 69a8834b-c6e1-481f-5885-73fcfcfed64c
+    - !<own> b1775ea7-11eb-4862-6671-4c2fec496976
   Components:
     []
-- !<SceneObject/f56913b9-2b6a-475a-7ea7-a95c482b49c7>
+- !<SceneObject/ee153a6b-3b81-41ee-4769-139d19a1bbe7>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1060.jpg
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1010.jpg
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.453815, y: 0.458630, z: -6.118862}
-    Rotation: {x: -18.774109, y: -83.636192, z: -155.029800}
+    Position: {x: 0.650756, y: 0.362307, z: -9.696160}
+    Rotation: {x: -54.655788, y: -81.881386, z: -124.481140}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 484fe664-5a47-476f-5889-02550d8f484b
+    - !<own> eb31714d-7169-445d-639d-40c25b6a1ed5
   Components:
     []
-- !<SceneObject/f6cfc399-c77c-4c3c-5a8d-23e7e551a0ed>
+- !<SceneObject/ef39efee-f58d-40b7-7c22-60e5882fb6c5>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1102.jpg
+  Name: Object_152
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.204041, y: 0.114039, z: -4.052187}
-    Rotation: {x: -47.668056, y: -85.246719, z: -132.918427}
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 87932b6d-9816-402a-64b1-3f2d95b0ee08
+    []
   Components:
     []
-- !<SceneObject/f8843225-bf1f-49be-6506-4da4c12f90e7>
+- !<SceneObject/ef859a71-5344-48c8-4f9e-ac668ddcea17>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1094.jpg
+  Name: Object_36
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.325221, y: 0.238125, z: -5.023115}
-    Rotation: {x: -44.034580, y: -84.731102, z: -135.486786}
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 013d9105-5fca-4868-7ef3-f9d65b505b6e
+    []
   Components:
     []
-- !<SceneObject/fa4e8de6-002d-40fe-6f78-e7dd43d0b41b>
+- !<SceneObject/ef8f1667-7e25-4e65-5a92-5278157481eb>
   PrefabRemaps:
     []
-  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1145.jpg
+  Name: Object_44
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: -0.037876, y: 0.024812, z: -1.291889}
-    Rotation: {x: -113.805435, y: -89.572960, z: -67.043518}
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> be4eae9d-3840-4201-51db-2786b4886617
+    []
   Components:
     []
-- !<SceneObject/fbde1875-e46d-4870-6aae-8053af5955c1>
+- !<SceneObject/f0585bba-97f8-4953-7304-18dd0b1dcc8c>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1138.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.045341, y: 0.050460, z: -2.193272}
+    Rotation: {x: -61.339497, y: -87.712959, z: -119.498817}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0ec2bdf6-d23c-49d6-5944-3f68a4ff9f40
+  Components:
+    []
+- !<SceneObject/f1412202-5eae-49fc-6db5-b9f07afc76dd>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1139.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.032165, y: 0.046667, z: -2.060678}
+    Rotation: {x: -61.178661, y: -88.011017, z: -119.493843}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> fc582292-5736-433a-51a7-12ab636875db
+  Components:
+    []
+- !<SceneObject/f1581c32-0b3e-443f-60b5-e6e1966f0d06>
+  PrefabRemaps:
+    []
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1100.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.231286, y: 0.148468, z: -4.291614}
+    Rotation: {x: -28.507912, y: -87.012138, z: -151.597321}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 701f8c91-05aa-427c-4d18-f71c1875f17e
+  Components:
+    []
+- !<SceneObject/f299439a-88e5-4835-475c-1c0a102f64f3>
+  PrefabRemaps:
+    []
+  Name: Object_162
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/f6a98d88-20dc-484f-46fb-2e73289d2961>
+  PrefabRemaps:
+    []
+  Name: Object_6
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/f7942565-3003-45c2-7c99-d24d76e22092>
+  PrefabRemaps:
+    []
+  Name: Object_98
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/f8eee85e-ad0b-40b8-6252-33263f4bc029>
+  PrefabRemaps:
+    []
+  Name: Object_46
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/f9637e8f-6ba9-48ce-4e0a-8325e667ea8d>
+  PrefabRemaps:
+    []
+  Name: Object_74
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/fc582292-5736-433a-51a7-12ab636875db>
   PrefabRemaps:
     []
   Name: Object_126
@@ -2992,10 +2977,25 @@
     []
   Components:
     []
-- !<SceneObject/fe654845-8f5a-4edd-55e7-04198e694d20>
+- !<SceneObject/fc9bc327-9886-4811-4629-111fb27936c1>
   PrefabRemaps:
     []
-  Name: Object_168
+  Name: ISS in 4K - LIVING & WORKING ABOARD THE ISS - ���������� �� ������������ ���� ���������� ������_1169.jpg
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.095852, y: 0.005292, z: -0.762224}
+    Rotation: {x: -28.970942, y: -89.849342, z: -151.740417}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 72dc921e-22cd-45d0-4048-85f357ab2a3e
+  Components:
+    []
+- !<SceneObject/fca17bfd-4902-42b8-5ba2-6aa941328743>
+  PrefabRemaps:
+    []
+  Name: Object_134
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
