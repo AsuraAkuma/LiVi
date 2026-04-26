@@ -2,11 +2,6 @@
 export class reqHighResImage extends BaseScriptComponent {
     @input image?: Image = undefined;
 
-    @input("Component.ScriptComponent")
-    @hint("Optional: ScriptComponent for ImageEnhancer. If assigned, captured frames will be sent to its processTexture API for enhancement.")
-    @allowUndefined
-    enhancerScript?: ScriptComponent;
-
     @input
     captureDelaySeconds: number = 0.75;
 
@@ -180,36 +175,11 @@ export class reqHighResImage extends BaseScriptComponent {
             const imageFrame: ImageFrame = await this.captureFrame();
             const outputImage = this.resolveOutputImage();
 
-            if (this.enhancerScript) {
-                // If an ImageEnhancer ScriptComponent is wired, send the captured texture to it.
-                try {
-                    const api: any = (this.enhancerScript as any).api ?? this.enhancerScript;
-                    const proc = api?.processTexture;
-                    if (typeof proc === 'function') {
-                        proc.call(api, imageFrame.texture);
-                    } else {
-                        // Fallback: no processTexture API found
-                        if (outputImage) {
-                            outputImage.mainPass.baseTex = imageFrame.texture;
-                            this.applyPreviewBrightness(outputImage, imageFrame.texture);
-                        } else {
-                            print('Still image captured, but no Image component was found to display it.');
-                        }
-                    }
-                } catch (e) {
-                    print('[reqHighResImage] enhancer process failed: ' + e);
-                    if (outputImage) {
-                        outputImage.mainPass.baseTex = imageFrame.texture;
-                        this.applyPreviewBrightness(outputImage, imageFrame.texture);
-                    }
-                }
+            if (outputImage) {
+                outputImage.mainPass.baseTex = imageFrame.texture;
+                this.applyPreviewBrightness(outputImage, imageFrame.texture);
             } else {
-                if (outputImage) {
-                    outputImage.mainPass.baseTex = imageFrame.texture;
-                    this.applyPreviewBrightness(outputImage, imageFrame.texture);
-                } else {
-                    print('Still image captured, but no Image component was found to display it.');
-                }
+                print('Still image captured, but no Image component was found to display it.');
             }
         } catch (error) {
             print('Still image request failed: ' + error);

@@ -4,17 +4,13 @@ import { CharacterEdge, CharacterRelationship, ParsedBookGraph, parseBookGraphPa
 @component
 export class BookRelationshipGraphRenderer extends BaseScriptComponent {
     @input
-    @allowUndefined
     cardPrefab?: ObjectPrefab;
     @input
-    @allowUndefined
     linkPrefab?: ObjectPrefab;
 
     @input
-    @allowUndefined
     cameraObject?: SceneObject;
     @input
-    @allowUndefined
     internet_module?: InternetModule;
 
     @input
@@ -447,7 +443,7 @@ export class BookRelationshipGraphRenderer extends BaseScriptComponent {
             const text = fallbackNode.createComponent("Component.Text") as Text | null;
             if (text) {
                 text.text = `${characterName}\n${description}`;
-                text.size = 24;
+                text.fontSize = 24;
             }
 
             this.fallbackObjects.push(fallbackNode);

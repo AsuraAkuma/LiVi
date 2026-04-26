@@ -28,6 +28,7 @@
   ScriptInputsHidden:
     captureDelaySeconds: false
     enableAdaptiveBrightness: false
+    enhancerScript: false
     focalPoint: false
     focalSampleRadius: false
     image: false
@@ -48,6 +49,7 @@
     []
   DefaultScriptInputs:
     - image: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      enhancerScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
       captureDelaySeconds: 0.750000
       useWarmupCapture: true
       warmupCaptureCount: !<float> 2.000000
@@ -64,6 +66,7 @@
       {}
   InputLines:
     - // @input Component.Image image
+    - '// @input Component.ScriptComponent enhancerScript {"hint":"Optional: ScriptComponent for ImageEnhancer. If assigned, captured frames will be sent to its processTexture API for enhancement."}'
     - // @input float captureDelaySeconds = 0.75
     - // @input bool useWarmupCapture = true
     - // @input float warmupCaptureCount = 2

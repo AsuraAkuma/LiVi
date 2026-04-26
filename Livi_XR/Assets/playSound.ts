@@ -1,9 +1,15 @@
 @component
-export class TtsSpeaker extends BaseScriptComponent {
+export default class PlaySound extends BaseScriptComponent {
     @input
     sound?: AudioComponent;
     @input
+    loop_count: number = 0;
+    @input
+    text: string = "";
+    @input
     tts_voice_id: string = "";
+    @input
+    desired_sound_name: string = "";
     @input
     backend_base_url: string = "https://localhost:3001";
     @input
@@ -13,37 +19,47 @@ export class TtsSpeaker extends BaseScriptComponent {
     @input
     remote_media_module?: RemoteMediaModule;
 
-    private isSpeaking: boolean = false;
-
     onAwake() {
-        // No-op. This component is driven by external speak(text) calls.
+        const api: any = this.api as any;
+        api.play = () => this.playNow();
+        api.playRequestedSound = () => this.playNow();
+
+        this.createEvent("OnStartEvent").bind(() => {
+            this.playNow();
+        });
     }
 
-    public async speak(text: string): Promise<void> {
-        const clean = (text || "").trim();
-        if (!clean) {
+    private playNow() {
+        void this.playRequestedSound();
+    }
+
+    private async playRequestedSound() {
+        if (!this.sound) {
+            print("[PlaySound] Missing required AudioComponent input: sound.");
             return;
         }
 
-        if (!this.sound) {
-            print("[TtsSpeaker] Missing AudioComponent input: sound.");
+        const ttsText = (this.text || "").trim();
+        const desiredSound = (this.desired_sound_name || "").trim();
+        if (!ttsText && !desiredSound) {
+            this.sound.play(this.loop_count);
             return;
         }
 
         if (!this.internet_module || !this.remote_media_module) {
-            print("[TtsSpeaker] Missing internet_module or remote_media_module input.");
+            print("[PlaySound] Missing internet_module or remote_media_module input. Playing currently assigned sound instead.");
+            this.sound.play(this.loop_count);
             return;
         }
-
-        if (this.isSpeaking) {
-            // Simple guard so rapid pinches do not overlap.
-            return;
-        }
-
-        this.isSpeaking = true;
 
         try {
-            const relativeUrl = await this.requestGeneratedTtsUrl(clean);
+            let relativeUrl: string;
+            if (ttsText) {
+                relativeUrl = await this.requestGeneratedTtsUrl(ttsText);
+            } else {
+                relativeUrl = await this.requestGeneratedSoundUrl(desiredSound);
+            }
+
             const absoluteUrl = this.toAbsoluteUrl(relativeUrl);
             const dynamicResource = this.internet_module.makeResourceFromUrl(absoluteUrl);
 
@@ -51,27 +67,32 @@ export class TtsSpeaker extends BaseScriptComponent {
                 dynamicResource,
                 (audioTrackAsset: AudioTrackAsset) => {
                     if (!this.sound) {
-                        this.isSpeaking = false;
                         return;
                     }
+
                     this.sound.audioTrack = audioTrackAsset;
-                    this.sound.play(1);
-                    this.isSpeaking = false;
+                    this.sound.play(this.loop_count);
                 },
                 (errorMessage: string) => {
-                    print("[TtsSpeaker] Failed to load remote audio: " + errorMessage);
-                    this.isSpeaking = false;
+                    print("[PlaySound] Failed to load remote audio track: " + errorMessage);
+                    this.sound?.play(this.loop_count);
                 }
             );
         } catch (error) {
-            print("[TtsSpeaker] TTS request failed: " + error);
-            this.isSpeaking = false;
+            print("[PlaySound] Failed to generate or load desired sound '" + desiredSound + "': " + error);
+            const errorText = String(error);
+            if (errorText.indexOf("URL is not secure") !== -1 || errorText.indexOf("Insecure backend URL") !== -1) {
+                print(
+                    "[PlaySound] Use an https backend_base_url, or set allow_insecure_http_for_debug=true and enable the Experimental API for insecure URLs in Lens Studio."
+                );
+            }
+            this.sound.play(this.loop_count);
         }
     }
 
     private async requestGeneratedTtsUrl(ttsText: string): Promise<string> {
         if (!this.internet_module) {
-            throw new Error("internet_module input is required.");
+            throw new Error("internet_module input is required to request backend audio.");
         }
 
         const endpoint = this.getValidatedBackendBaseUrl() + "/api/tts";
@@ -104,6 +125,39 @@ export class TtsSpeaker extends BaseScriptComponent {
 
         if (typeof downloadUrl !== "string" || !downloadUrl.length) {
             throw new Error("TTS response is missing items[0].downloadUrl.");
+        }
+
+        return downloadUrl;
+    }
+
+    private async requestGeneratedSoundUrl(soundPrompt: string): Promise<string> {
+        if (!this.internet_module) {
+            throw new Error("internet_module input is required to request backend audio.");
+        }
+
+        const endpoint = this.getValidatedBackendBaseUrl() + "/api/sfx";
+        const response = await this.internet_module.fetch(endpoint, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                prompts: [soundPrompt]
+            })
+        });
+
+        if (!response.ok) {
+            const details = await this.safeReadResponseText(response);
+            throw new Error("Backend returned status " + response.status + ". " + details);
+        }
+
+        const parsed = await response.json();
+        const payload = parsed && parsed.json ? parsed.json : parsed;
+        const firstItem = payload?.items?.[0];
+        const downloadUrl = firstItem?.downloadUrl;
+
+        if (typeof downloadUrl !== "string" || !downloadUrl.length) {
+            throw new Error("Response is missing items[0].downloadUrl.");
         }
 
         return downloadUrl;
