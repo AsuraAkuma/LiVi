@@ -72,16 +72,6 @@
   MaskTexture: !<reference> 00000000-0000-0000-0000-000000000000
   RayTracing: !<reference> 00000000-0000-0000-0000-000000000000
   DevicePropertiesSource: !<reference> 00000000-0000-0000-0000-000000000000
-- !<DeviceTracking/384c85de-08e6-4d91-bb92-e05652a4e2a2>
-  PrefabRemaps:
-    []
-  Name: Device Tracking
-  Enabled: true
-  DeviceTrackingMode: World
-  RotationOptions: !<RotationOptions>
-    InvertRotation: false
-  SurfaceOptions: !<SurfaceOptions>
-    EnhanceWithNativeAR: false
 - !<SceneObject/0005641c-028d-459a-0000-000000014b4d>
   PrefabRemaps:
     []
@@ -976,6 +966,16 @@
     - !<own> 0a007fb2-0d82-4270-b830-63cd652730df
   Components:
     []
+- !<DeviceTracking/384c85de-08e6-4d91-bb92-e05652a4e2a2>
+  PrefabRemaps:
+    []
+  Name: Device Tracking
+  Enabled: true
+  DeviceTrackingMode: World
+  RotationOptions: !<RotationOptions>
+    InvertRotation: false
+  SurfaceOptions: !<SurfaceOptions>
+    EnhanceWithNativeAR: false
 - !<SceneObject/391a1278-8e4c-4b59-8468-b036d9aa1dc8>
   PrefabRemaps:
     []
@@ -2259,16 +2259,18 @@
   Enabled: true
   ScriptAsset: !<reference> d03f02f3-1c58-42ff-89ea-bc7905f0f84a
   ScriptInputsDefault:
-    memoryScript: true
-    bookScannerScript: true
-    soundscapeScript: true
-    defaultTtsEnabled: true
-    defaultMemoryEnabled: true
-    defaultRelationshipEnabled: true
-    defaultSoundscapeEnabled: true
-    showRelationshipPanelOnStart: true
-    startArmingDelaySec: true
-    enableLoggingLifecycle: true
+    poetryText: true
+    versionText: true
+    clockText: true
+    activeModeText: true
+    creditText: true
+    startLabel: true
+    settingsLabel: true
+    settingsButton: true
+    settingsPanel: true
+    poetry: true
+    developerName: true
+    lensVersion: true
   ScriptTypesDefault:
     {}
   ScriptInputs:
@@ -2276,28 +2278,20 @@
       startRoot: !<reference.SceneObject> 2ba40eb3-c0f6-4033-8aa9-4d1cfbc99e00
       appRoot: !<reference.SceneObject> a06adc63-16ef-4c32-8fa3-e4a491369254
       titleText: !<reference.Text> 77fa8ebb-1a94-40d8-8406-8bcf0b0d59e6
-      bodyText: !<reference.Text> b6ba9c0e-6f9c-4382-882b-d6764a4363d0
-      statusText: !<reference.Text> 4477a127-7b7b-4621-b5d8-65cde00f9dde
-      relationshipPanelRoot: !<reference.SceneObject> 51d17933-08a4-452d-b474-4931c1522115
+      poetryText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      versionText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      clockText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      activeModeText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      creditText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      startLabel: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      settingsLabel: !<reference.Text> 00000000-0000-0000-0000-000000000000
       startButton: !<reference.ScriptComponent> e3cbd2a3-1997-47ab-bda3-ece4a9c5dcdd
-      ttsToggleButton: !<reference.ScriptComponent> 3984a7b1-90c3-4c2b-948c-b9bdbf94c3a1
-      memoryToggleButton: !<reference.ScriptComponent> 5855dd1f-8e5f-4f2b-a510-12acf0f3ee8a
-      relationshipToggleButton: !<reference.ScriptComponent> abc15488-025f-46b3-8115-49472755fa1f
-      soundscapeToggleButton: !<reference.ScriptComponent> 006c5d86-8142-40e7-8b86-bd4558f91fb6
-      resumeButton: !<reference.ScriptComponent> 9def4ed4-2897-45a5-b7ee-bbc0a5867fa8
-      relationshipHamburgerButton: !<reference.ScriptComponent> a14ccd90-8332-4ab1-adfa-6594dadeb1d5
-      memoryScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      bookScannerScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      soundscapeScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      defaultTtsEnabled: false
-      defaultMemoryEnabled: true
-      defaultRelationshipEnabled: true
-      defaultSoundscapeEnabled: true
-      showRelationshipPanelOnStart: false
-      startArmingDelaySec: 1.250000
-      allowPinchAnywhereFallback: true
+      settingsButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      settingsPanel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      poetry: 書山有路勤為徑，學海無涯苦作舟
+      developerName: Pacino Song Lin
+      lensVersion: LENS 5.15.4
       enableLogging: true
-      enableLoggingLifecycle: false
   ScriptTypes:
     "":
       {}

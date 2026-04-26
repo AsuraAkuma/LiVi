@@ -26,31 +26,23 @@
   ExportUid: 00000000-0000-0000-0000-000000000000
   PackagePolicy: CanBeUnpacked
   ScriptInputsHidden:
-    allowPinchAnywhereFallback: false
+    activeModeText: false
     appRoot: false
-    bodyText: false
-    bookScannerScript: false
-    defaultMemoryEnabled: false
-    defaultRelationshipEnabled: false
-    defaultSoundscapeEnabled: false
-    defaultTtsEnabled: false
+    clockText: false
+    creditText: false
+    developerName: false
     enableLogging: false
-    enableLoggingLifecycle: false
-    memoryScript: false
-    memoryToggleButton: false
-    relationshipHamburgerButton: false
-    relationshipPanelRoot: false
-    relationshipToggleButton: false
-    resumeButton: false
-    showRelationshipPanelOnStart: false
-    soundscapeScript: false
-    soundscapeToggleButton: false
-    startArmingDelaySec: false
+    lensVersion: false
+    poetry: false
+    poetryText: false
+    settingsButton: false
+    settingsLabel: false
+    settingsPanel: false
     startButton: false
+    startLabel: false
     startRoot: false
-    statusText: false
     titleText: false
-    ttsToggleButton: false
+    versionText: false
   ScriptTypesHidden:
     {}
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
@@ -63,73 +55,58 @@
     - startRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
       appRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
       titleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
-      bodyText: !<reference.Text> 00000000-0000-0000-0000-000000000000
-      statusText: !<reference.Text> 00000000-0000-0000-0000-000000000000
-      relationshipPanelRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      poetryText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      versionText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      clockText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      activeModeText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      creditText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      startLabel: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      settingsLabel: !<reference.Text> 00000000-0000-0000-0000-000000000000
       startButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      ttsToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      memoryToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      relationshipToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      soundscapeToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      resumeButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      relationshipHamburgerButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      memoryScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      bookScannerScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      soundscapeScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
-      defaultTtsEnabled: false
-      defaultMemoryEnabled: true
-      defaultRelationshipEnabled: true
-      defaultSoundscapeEnabled: true
-      showRelationshipPanelOnStart: false
-      startArmingDelaySec: 1.250000
-      allowPinchAnywhereFallback: false
+      settingsButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      settingsPanel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      poetry: 書山有路勤為徑，學海無涯苦作舟
+      developerName: Pacino Song Lin
+      lensVersion: LENS 5.15.4
       enableLogging: false
-      enableLoggingLifecycle: false
   ScriptTypes:
     -
       {}
   InputLines:
-    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">StartUIController</span> · LiVi start UI + reading HUD"}'
-    - '// @ui {"widget":"separator"}'
-    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">References</span>"}'
-    - '// @ui {"widget":"group_start", "label":"References"}'
-    - '// @input SceneObject startRoot {"hint":"StartUI root SceneObject – visible at launch"}'
-    - '// @input SceneObject appRoot {"hint":"AppRoot root SceneObject – starts disabled, enabled on Start Reading"}'
-    - "// @input Component.Text titleText {\"hint\":\"Title text on the Start UI (e.g. 'LiVi')\"}"
-    - '// @input Component.Text bodyText {"hint":"Body / instructions text on the Start UI"}'
-    - '// @input Component.Text statusText {"hint":"Status line for last session / book detected (optional)"}'
-    - '// @input SceneObject relationshipPanelRoot {"hint":"Relationship map panel root (lives under AppRoot)"}'
+    - '// @ui {"widget":"label", "label":"Scene Roots"}'
+    - '// @ui {"widget":"group_start", "label":"Roots"}'
+    - '// @input SceneObject startRoot {"hint":"StartUI SceneObject — visible at launch"}'
+    - '// @input SceneObject appRoot {"hint":"AppRoot SceneObject — hidden at launch, shown after START"}'
     - '// @ui {"widget":"group_end"}'
     - '// @ui {"widget":"separator"}'
-    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">Buttons</span>"}'
+    - '// @ui {"widget":"label", "label":"Text Components"}'
+    - '// @ui {"widget":"group_start", "label":"Text"}'
+    - '// @input Component.Text titleText {"hint":"Large LIVI title text"}'
+    - '// @input Component.Text poetryText {"hint":"Chinese poetry line below title"}'
+    - '// @input Component.Text versionText {"hint":"Top-left panel: lens version label"}'
+    - '// @input Component.Text clockText {"hint":"Top-left panel: live clock (updates every frame)"}'
+    - '// @input Component.Text activeModeText {"hint":"Bottom-right panel: active mode label"}'
+    - '// @input Component.Text creditText {"hint":"Bottom center: developer credit"}'
+    - '// @input Component.Text startLabel {"hint":"Label inside the START button"}'
+    - '// @input Component.Text settingsLabel {"hint":"Label inside the SETTINGS button"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"label", "label":"Pinch Buttons"}'
     - '// @ui {"widget":"group_start", "label":"Buttons"}'
-    - '// @input Component.ScriptComponent startButton {"hint":"PinchButton: \"Start Reading\" – primary action"}'
-    - '// @input Component.ScriptComponent ttsToggleButton {"hint":"PinchButton: Text-to-Speech on/off"}'
-    - '// @input Component.ScriptComponent memoryToggleButton {"hint":"PinchButton: Memory Anchor on/off"}'
-    - '// @input Component.ScriptComponent relationshipToggleButton {"hint":"PinchButton: Relationship Map on/off"}'
-    - '// @input Component.ScriptComponent soundscapeToggleButton {"hint":"PinchButton: Story Soundscape on/off"}'
-    - '// @input Component.ScriptComponent resumeButton {"hint":"PinchButton: Resume last session (only enabled if lastSession exists)"}'
-    - '// @input Component.ScriptComponent relationshipHamburgerButton {"hint":"PinchButton: Hamburger that reopens StartUI from inside AppRoot"}'
+    - '// @input Component.ScriptComponent startButton {"hint":"PinchButton component on the START button object"}'
+    - '// @input Component.ScriptComponent settingsButton {"hint":"PinchButton component on the SETTINGS button object"}'
     - '// @ui {"widget":"group_end"}'
     - '// @ui {"widget":"separator"}'
-    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">Optional integrations</span>"}'
-    - '// @ui {"widget":"group_start", "label":"Integrations"}'
-    - '// @input Component.ScriptComponent memoryScript {"hint":"MemoryAnchors.ts – will receive setEnabled(bool) and resume() if present"}'
-    - '// @input Component.ScriptComponent bookScannerScript {"hint":"BookSeenScanner.ts – will receive setEnabled(bool) if present"}'
-    - '// @input Component.ScriptComponent soundscapeScript {"hint":"Soundscape script – will receive setEnabled(bool) and setTtsEnabled(bool) if present"}'
+    - '// @ui {"widget":"label", "label":"Optional Panels"}'
+    - '// @ui {"widget":"group_start", "label":"Panels"}'
+    - '// @input SceneObject settingsPanel {"hint":"Settings panel — hidden until SETTINGS is pinched"}'
     - '// @ui {"widget":"group_end"}'
     - '// @ui {"widget":"separator"}'
-    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">Settings</span>"}'
-    - '// @ui {"widget":"group_start", "label":"Settings"}'
-    - '// @input bool defaultTtsEnabled {"hint":"Default: Text-to-Speech enabled at launch"}'
-    - '// @input bool defaultMemoryEnabled = true {"hint":"Default: Memory Anchor enabled at launch"}'
-    - '// @input bool defaultRelationshipEnabled = true {"hint":"Default: Relationship Map enabled at launch"}'
-    - '// @input bool defaultSoundscapeEnabled = true {"hint":"Default: Story Soundscape enabled at launch"}'
-    - '// @input bool showRelationshipPanelOnStart {"hint":"Show the Relationship Map panel as soon as Start Reading is pressed"}'
-    - '// @input float startArmingDelaySec = 1.25 {"hint":"Ignore pinches for this many seconds after launch (avoids accidental auto-start)"}'
-    - '// @input bool allowPinchAnywhereFallback {"hint":"If no Start button is wired, allow a pinch-anywhere fallback to start"}'
+    - '// @ui {"widget":"label", "label":"Content"}'
+    - '// @ui {"widget":"group_start", "label":"Content"}'
+    - '// @input string poetry = "書山有路勤為徑，學海無涯苦作舟" {"hint":"Classical Chinese poetry fragment shown under LIVI"}'
+    - '// @input string developerName = "Pacino Song Lin" {"hint":"Name shown in the developer credit line"}'
+    - '// @input string lensVersion = "LENS 5.15.4" {"hint":"Version string displayed in the top-left panel"}'
     - '// @ui {"widget":"group_end"}'
     - '// @ui {"widget":"separator"}'
-    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">Logging</span>"}'
-    - '// @input bool enableLogging {"hint":"Enable general logging"}'
-    - '// @input bool enableLoggingLifecycle {"hint":"Enable lifecycle event logging"}'
+    - '// @input bool enableLogging {"hint":"Enable debug logs in the console"}'
