@@ -23,28 +23,34 @@ export class StartUIController extends BaseScriptComponent {
     @ui.group_start("Text")
 
     @input
+    @allowUndefined
     @hint("Large LIVI title text")
-    titleText: Text;
+    titleText?: Text;
 
     @input
+    @allowUndefined
     @hint("Chinese poetry line below title")
-    poetryText: Text;
+    poetryText?: Text;
 
     @input
+    @allowUndefined
     @hint("Top-left panel: lens version label")
-    versionText: Text;
+    versionText?: Text;
 
     @input
+    @allowUndefined
     @hint("Top-left panel: live clock (updates every frame)")
-    clockText: Text;
+    clockText?: Text;
 
     @input
+    @allowUndefined
     @hint("Bottom-right panel: active mode label")
-    activeModeText: Text;
+    activeModeText?: Text;
 
     @input
+    @allowUndefined
     @hint("Bottom center: developer credit")
-    creditText: Text;
+    creditText?: Text;
 
     @input
     @hint("Label inside the START button")
