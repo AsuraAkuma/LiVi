@@ -9,6 +9,8 @@
     - !<own> d262d25d-8fb4-4445-850d-eceee077fbfb
     - !<own> f6cce1ec-5d60-42ea-839c-10ebdddd4661
     - !<own> 41512ef1-1d0f-40e4-916f-9e10c3a3c10a
+    - !<own> bfb717a8-b5a0-4a7f-be1b-7fba3df02ede
+    - !<own> b7f53e5d-a042-4946-8aaf-21baab6880b0
   layers: !<Layers/267ee9a7-aff2-4f9d-9a49-f71214747d03>
     userLayers:
       []
@@ -400,3 +402,88 @@
     []
   Components:
     - !<own> cdc58a8a-02ff-4370-8d00-e60b01766c18
+- !<SceneObject/bfb717a8-b5a0-4a7f-be1b-7fba3df02ede>
+  PrefabRemaps:
+    []
+  Name: BookGraphRenderer
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0a89de10-c6e8-4ff2-8261-c46f72443b44
+- !<ScriptComponent/0a89de10-c6e8-4ff2-8261-c46f72443b44>
+  PrefabRemaps:
+    []
+  Name: BookRelationshipGraphRenderer
+  Enabled: true
+  ScriptAsset: !<reference> 9e48619c-53d4-4459-8738-7bfa1da6a88f
+  ScriptInputsDefault:
+    backend_base_url: true
+    allow_insecure_http_for_debug: true
+    chapter_index: true
+    auto_load_on_start: true
+    distanceFromCamera: true
+    layerRadiusStep: true
+    nodeSpacing: true
+    cardScale: true
+    linkThickness: true
+    maxNodes: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      cardPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      linkPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      cameraObject: !<reference.SceneObject> 00000000-0000-0065-0000-000000000064
+      internet_module: !<reference.InternetModule> 702f914b-b0d7-4257-aba5-4e3f496f5a95
+      backend_base_url: "http://localhost:3001"
+      allow_insecure_http_for_debug: true
+      book_id: ""
+      chapter_index: !<float> 0.000000
+      auto_load_on_start: true
+      distanceFromCamera: 120.000000
+      layerRadiusStep: 30.000000
+      nodeSpacing: 14.000000
+      cardScale: 1.000000
+      linkThickness: 0.600000
+      maxNodes: !<float> 48.000000
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/b7f53e5d-a042-4946-8aaf-21baab6880b0>
+  PrefabRemaps:
+    []
+  Name: BookGraphButton
+  Enabled: false
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3fcab3d5-0503-48d8-83d4-4d5f21747185
+- !<ScriptComponent/3fcab3d5-0503-48d8-83d4-4d5f21747185>
+  PrefabRemaps:
+    []
+  Name: BookGraphButton
+  Enabled: false
+  ScriptAsset: !<reference> 66cf6014-b2f4-4cf5-a01a-d703e7f45a0b
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      renderer: !<reference.ScriptComponent> 0a89de10-c6e8-4ff2-8261-c46f72443b44
+  ScriptTypes:
+    "":
+      {}
