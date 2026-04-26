@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/bc5121d5-8ad2-4d51-a48d-2ccc7f4edd35>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 9df8087f-bd0a-4763-b6d0-e585fb1f1451
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 9df8087f-bd0a-4763-b6d0-e585fb1f1451
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 3d8f86f0-fbae-4873-8bf9-af49022aaed4
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/3d8f86f0-fbae-4873-8bf9-af49022aaed4>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 85116a62-8751-40a7-afd8-e3c349dcc194
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    amplitude: false
+    speed: false
+    target: false
+    yBobAmplitude: false
+    yBobSpeed: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - target: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      amplitude: !<float> 10.000000
+      speed: 0.600000
+      yBobAmplitude: 0.600000
+      yBobSpeed: 0.900000
+  ScriptTypes:
+    -
+      {}

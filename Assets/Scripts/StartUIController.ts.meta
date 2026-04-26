@@ -1,0 +1,135 @@
+- !<AssetImportMetadata/49043ac2-a988-4013-8765-168e7e6d7a44>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> d03f02f3-1c58-42ff-89ea-bc7905f0f84a
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> d03f02f3-1c58-42ff-89ea-bc7905f0f84a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 9f1cf7a4-ae5a-4054-9f5d-53550e3644e8
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/9f1cf7a4-ae5a-4054-9f5d-53550e3644e8>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 7d42afc6-b40f-4c8e-96ea-b0e052ac9067
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    allowPinchAnywhereFallback: false
+    appRoot: false
+    bodyText: false
+    bookScannerScript: false
+    defaultMemoryEnabled: false
+    defaultRelationshipEnabled: false
+    defaultSoundscapeEnabled: false
+    defaultTtsEnabled: false
+    enableLogging: false
+    enableLoggingLifecycle: false
+    memoryScript: false
+    memoryToggleButton: false
+    relationshipHamburgerButton: false
+    relationshipPanelRoot: false
+    relationshipToggleButton: false
+    resumeButton: false
+    showRelationshipPanelOnStart: false
+    soundscapeScript: false
+    soundscapeToggleButton: false
+    startArmingDelaySec: false
+    startButton: false
+    startRoot: false
+    statusText: false
+    titleText: false
+    ttsToggleButton: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - startRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      appRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      titleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      bodyText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      statusText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      relationshipPanelRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      startButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      ttsToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      memoryToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      relationshipToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      soundscapeToggleButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      resumeButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      relationshipHamburgerButton: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      memoryScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      bookScannerScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      soundscapeScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      defaultTtsEnabled: false
+      defaultMemoryEnabled: true
+      defaultRelationshipEnabled: true
+      defaultSoundscapeEnabled: true
+      showRelationshipPanelOnStart: false
+      startArmingDelaySec: 1.250000
+      allowPinchAnywhereFallback: false
+      enableLogging: false
+      enableLoggingLifecycle: false
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">StartUIController</span> · LiVi start UI + reading HUD"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">References</span>"}'
+    - '// @ui {"widget":"group_start", "label":"References"}'
+    - '// @input SceneObject startRoot {"hint":"StartUI root SceneObject – visible at launch"}'
+    - '// @input SceneObject appRoot {"hint":"AppRoot root SceneObject – starts disabled, enabled on Start Reading"}'
+    - "// @input Component.Text titleText {\"hint\":\"Title text on the Start UI (e.g. 'LiVi')\"}"
+    - '// @input Component.Text bodyText {"hint":"Body / instructions text on the Start UI"}'
+    - '// @input Component.Text statusText {"hint":"Status line for last session / book detected (optional)"}'
+    - '// @input SceneObject relationshipPanelRoot {"hint":"Relationship map panel root (lives under AppRoot)"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">Buttons</span>"}'
+    - '// @ui {"widget":"group_start", "label":"Buttons"}'
+    - '// @input Component.ScriptComponent startButton {"hint":"PinchButton: \"Start Reading\" – primary action"}'
+    - '// @input Component.ScriptComponent ttsToggleButton {"hint":"PinchButton: Text-to-Speech on/off"}'
+    - '// @input Component.ScriptComponent memoryToggleButton {"hint":"PinchButton: Memory Anchor on/off"}'
+    - '// @input Component.ScriptComponent relationshipToggleButton {"hint":"PinchButton: Relationship Map on/off"}'
+    - '// @input Component.ScriptComponent soundscapeToggleButton {"hint":"PinchButton: Story Soundscape on/off"}'
+    - '// @input Component.ScriptComponent resumeButton {"hint":"PinchButton: Resume last session (only enabled if lastSession exists)"}'
+    - '// @input Component.ScriptComponent relationshipHamburgerButton {"hint":"PinchButton: Hamburger that reopens StartUI from inside AppRoot"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">Optional integrations</span>"}'
+    - '// @ui {"widget":"group_start", "label":"Integrations"}'
+    - '// @input Component.ScriptComponent memoryScript {"hint":"MemoryAnchors.ts – will receive setEnabled(bool) and resume() if present"}'
+    - '// @input Component.ScriptComponent bookScannerScript {"hint":"BookSeenScanner.ts – will receive setEnabled(bool) if present"}'
+    - '// @input Component.ScriptComponent soundscapeScript {"hint":"Soundscape script – will receive setEnabled(bool) and setTtsEnabled(bool) if present"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">Settings</span>"}'
+    - '// @ui {"widget":"group_start", "label":"Settings"}'
+    - '// @input bool defaultTtsEnabled {"hint":"Default: Text-to-Speech enabled at launch"}'
+    - '// @input bool defaultMemoryEnabled = true {"hint":"Default: Memory Anchor enabled at launch"}'
+    - '// @input bool defaultRelationshipEnabled = true {"hint":"Default: Relationship Map enabled at launch"}'
+    - '// @input bool defaultSoundscapeEnabled = true {"hint":"Default: Story Soundscape enabled at launch"}'
+    - '// @input bool showRelationshipPanelOnStart {"hint":"Show the Relationship Map panel as soon as Start Reading is pressed"}'
+    - '// @input float startArmingDelaySec = 1.25 {"hint":"Ignore pinches for this many seconds after launch (avoids accidental auto-start)"}'
+    - '// @input bool allowPinchAnywhereFallback {"hint":"If no Start button is wired, allow a pinch-anywhere fallback to start"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"label", "label":"<span style=\"color: #8AB4FF;\">Logging</span>"}'
+    - '// @input bool enableLogging {"hint":"Enable general logging"}'
+    - '// @input bool enableLoggingLifecycle {"hint":"Enable lifecycle event logging"}'
