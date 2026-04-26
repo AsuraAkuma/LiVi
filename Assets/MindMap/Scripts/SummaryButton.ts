@@ -3,6 +3,7 @@ import { MindMapRenderer } from "./MindMapRenderer";
 @component
 export class SummaryButton extends BaseScriptComponent {
     @input
+    @allowUndefined
     renderer?: MindMapRenderer;
 
     // Drop any SIK component that exposes `onButtonPinched` or `onTriggerStart`

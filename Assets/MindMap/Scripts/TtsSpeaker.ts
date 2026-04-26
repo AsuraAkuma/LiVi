@@ -1,6 +1,7 @@
 @component
 export class TtsSpeaker extends BaseScriptComponent {
     @input
+    @allowUndefined
     sound?: AudioComponent;
     @input
     tts_voice_id: string = "";
@@ -9,8 +10,10 @@ export class TtsSpeaker extends BaseScriptComponent {
     @input
     allow_insecure_http_for_debug: boolean = false;
     @input
+    @allowUndefined
     internet_module?: InternetModule;
     @input
+    @allowUndefined
     remote_media_module?: RemoteMediaModule;
 
     private isSpeaking: boolean = false;

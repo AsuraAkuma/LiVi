@@ -3,6 +3,7 @@ import { BookRelationshipGraphRenderer } from "./BookRelationshipGraphRenderer";
 @component
 export class BookGraphButton extends BaseScriptComponent {
     @input
+    @allowUndefined
     renderer?: BookRelationshipGraphRenderer;
 
     @input

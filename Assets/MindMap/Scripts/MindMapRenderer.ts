@@ -5,14 +5,18 @@ import { TtsSpeaker } from "./TtsSpeaker";
 @component
 export class MindMapRenderer extends BaseScriptComponent {
     @input
+    @allowUndefined
     cardPrefab?: ObjectPrefab;
     @input
+    @allowUndefined
     linkPrefab?: ObjectPrefab;
 
     @input
+    @allowUndefined
     cameraObject?: SceneObject;
 
     @input
+    @allowUndefined
     speaker?: TtsSpeaker;
 
     @input

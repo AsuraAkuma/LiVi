@@ -3,8 +3,10 @@ import { TtsSpeaker } from "./TtsSpeaker";
 @component
 export class MindMapNode extends BaseScriptComponent {
     @input
+    @allowUndefined
     titleText?: Text;
     @input
+    @allowUndefined
     cameraObject?: SceneObject;
 
     private description: string = "";
