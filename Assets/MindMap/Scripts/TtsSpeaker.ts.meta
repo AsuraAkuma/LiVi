@@ -1,0 +1,59 @@
+- !<AssetImportMetadata/eb2b0742-b12d-4870-9077-ebb8f4c5b4a5>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> ea9e0656-7e9c-462f-ae15-34e32fa2c62f
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> ea9e0656-7e9c-462f-ae15-34e32fa2c62f
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 66969e82-f19a-46d7-b9d1-99dbe9cea4ea
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/66969e82-f19a-46d7-b9d1-99dbe9cea4ea>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 46df80cd-c52c-43b6-be8a-89bc9bf053d5
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    allow_insecure_http_for_debug: false
+    backend_base_url: false
+    internet_module: false
+    remote_media_module: false
+    sound: false
+    tts_voice_id: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - sound: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      tts_voice_id: ""
+      backend_base_url: "https://localhost:3001"
+      allow_insecure_http_for_debug: false
+      internet_module: !<reference.InternetModule> 00000000-0000-0000-0000-000000000000
+      remote_media_module: !<reference.RemoteMediaModule> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.AudioComponent sound
+    - // @input string tts_voice_id
+    - '// @input string backend_base_url = "https://localhost:3001"'
+    - // @input bool allow_insecure_http_for_debug
+    - // @input Asset.InternetModule internet_module
+    - // @input Asset.RemoteMediaModule remote_media_module

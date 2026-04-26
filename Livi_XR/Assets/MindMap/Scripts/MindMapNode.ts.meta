@@ -1,20 +1,20 @@
-- !<AssetImportMetadata/4b80d55d-e67d-4bac-9e4d-85670f58e451>
+- !<AssetImportMetadata/ec7a472a-4152-4c33-bb71-0d029dc3fb23>
   ImportedAssetIds:
-    TypeScriptAsset: !<reference> 66cf6014-b2f4-4cf5-a01a-d703e7f45a0b
+    TypeScriptAsset: !<reference> a37b8c95-f8df-44cd-b8c2-7c4e56ff9806
   ImporterName: TypeScriptAssetImporter
-  PrimaryAsset: !<reference> 66cf6014-b2f4-4cf5-a01a-d703e7f45a0b
+  PrimaryAsset: !<reference> a37b8c95-f8df-44cd-b8c2-7c4e56ff9806
   PackageType: NotAPackage
   LegacyPackagePolicy: ~
   ExtraData:
     {}
   AssetDataMap:
-    TypeScriptAsset: !<own> 14413f63-e511-4b0d-9871-66265d828180
+    TypeScriptAsset: !<own> db04e98d-7a71-4cb9-aa27-bcdf1260cd02
   DependentFiles:
     []
   ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
-- !<TypeScriptAssetData/14413f63-e511-4b0d-9871-66265d828180>
+- !<TypeScriptAssetData/db04e98d-7a71-4cb9-aa27-bcdf1260cd02>
   SvgIcon: ""
   SetupScript:
     code: ""
@@ -22,12 +22,11 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 5d99c558-cc39-4ee7-9033-fd821318635d
+  ComponentUid: d16da828-a5ad-4990-a31b-b534318fe3f9
   ExportUid: 00000000-0000-0000-0000-000000000000
   PackagePolicy: CanBeUnpacked
   ScriptInputsHidden:
-    button: false
-    renderer: false
+    {}
   ScriptTypesHidden:
     {}
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
@@ -37,11 +36,10 @@
   Attachments:
     []
   DefaultScriptInputs:
-    - renderer: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
-      button: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+    -
+      {}
   ScriptTypes:
     -
       {}
   InputLines:
-    - // @input AssignableType renderer
-    - // @input AssignableType_1 button
+    []

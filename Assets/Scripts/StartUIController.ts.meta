@@ -1,0 +1,76 @@
+- !<AssetImportMetadata/7b90f3ae-7a64-4e3e-9eaa-6b5e0bfe3b47>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 1a1bd2d5-0c6c-4ad9-9b57-94600f0a25a7
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 1a1bd2d5-0c6c-4ad9-9b57-94600f0a25a7
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 7f8f2c6a-2035-45c0-9e5b-1f8a1f6a3472
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/7f8f2c6a-2035-45c0-9e5b-1f8a1f6a3472>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3ee3c2df-13ef-4b0a-8b8b-6f7b6c7e5b52
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    disableOnContinue: false
+    enableOnContinue: false
+    minConfidence: false
+    prompt: false
+    promptText: false
+    startUiRoot: false
+    subtitle: false
+    subtitleText: false
+    title: false
+    titleText: false
+    useFilteredPinch: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - startUiRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      titleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      subtitleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      promptText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      title: LiVi
+      subtitle: Real-time imagery + sound while you read
+      prompt: Pinch to continue
+      enableOnContinue: !<reference.SceneObject[]>
+        []
+      disableOnContinue: !<reference.SceneObject[]>
+        []
+      useFilteredPinch: true
+      minConfidence: 0.600000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input SceneObject startUiRoot {"hint":"Root object for the Start UI (will be shown until user pinches)."}'
+    - "// @input Component.Text titleText {\"hint\":\"Optional: Title text component to set (e.g., 'LiVi').\"}"
+    - '// @input Component.Text subtitleText {"hint":"Optional: Subtitle/description text component to set."}'
+    - "// @input Component.Text promptText {\"hint\":\"Optional: 'Pinch to continue' text component to set.\"}"
+    - '// @input string title = "LiVi" {"hint":"Main title shown on the start screen."}'
+    - '// @input string subtitle = "Real-time imagery + sound while you read" {"hint":"Short subtitle shown under the title."}'
+    - '// @input string prompt = "Pinch to continue" {"hint":"Instruction text shown at the bottom."}'
+    - '// @input SceneObject[] enableOnContinue = {} {"hint":"SceneObjects enabled after the user pinches to continue."}'
+    - '// @input SceneObject[] disableOnContinue = {} {"hint":"SceneObjects disabled after the user pinches to continue (besides startUiRoot)."}'
+    - '// @input bool useFilteredPinch = true {"hint":"Use filtered pinch events (more stable during hand motion)."}'
+    - '// @input float minConfidence = 0.6 {"hint":"Minimum pinch confidence required to continue (0 to 1)."}'
