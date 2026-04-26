@@ -1,0 +1,59 @@
+- !<AssetImportMetadata/9219360e-1088-486c-abd2-cbe5ba182f47>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> c3700f8a-e924-4160-a734-efb5853da0ae
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> c3700f8a-e924-4160-a734-efb5853da0ae
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 6e7c2d2f-6eb4-4be0-b44e-dd4bf6e5dcaa
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/6e7c2d2f-6eb4-4be0-b44e-dd4bf6e5dcaa>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: be2dccf7-91c9-49de-bd0b-d5ab725d1530
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    cameraModule: false
+    cameraObject: false
+    modelBlipA: false
+    modelHailMary: false
+    modelRocky: false
+    scanningText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - cameraModule: !<reference.CameraModule> 00000000-0000-0000-0000-000000000000
+      modelHailMary: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      modelBlipA: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      modelRocky: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      cameraObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      scanningText: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Asset.CameraModule cameraModule
+    - // @input SceneObject modelHailMary
+    - // @input SceneObject modelBlipA
+    - // @input SceneObject modelRocky
+    - // @input SceneObject cameraObject
+    - // @input SceneObject scanningText
