@@ -1,0 +1,91 @@
+- !<AssetImportMetadata/dfc15505-a656-4e50-a223-df87ca02c665>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 4b44ee6f-e1fa-45ae-95cd-5952f9e42087
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 4b44ee6f-e1fa-45ae-95cd-5952f9e42087
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 9eef2369-0827-4af1-a2fc-49d86c1d648a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/9eef2369-0827-4af1-a2fc-49d86c1d648a>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: cbfb2718-a9ec-4ce4-bd4a-598bc775ca5a
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    disableOnContinue: false
+    enableEditorTapToContinue: false
+    enableOnContinue: false
+    fadeTextsOnLeave: false
+    ignoreInputsForSeconds: false
+    leaveDurationSeconds: false
+    leaveEndScale: false
+    minConfidence: false
+    prompt: false
+    promptText: false
+    startUiRoot: false
+    subtitle: false
+    subtitleText: false
+    title: false
+    titleText: false
+    useFilteredPinch: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - startUiRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      titleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      subtitleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      promptText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      title: LiVi
+      subtitle: Real-time imagery + sound while you read
+      prompt: Pinch to continue
+      enableOnContinue: !<reference.SceneObject[]>
+        []
+      disableOnContinue: !<reference.SceneObject[]>
+        []
+      useFilteredPinch: true
+      minConfidence: 0.600000
+      leaveDurationSeconds: 0.350000
+      leaveEndScale: 0.960000
+      fadeTextsOnLeave: true
+      enableEditorTapToContinue: true
+      ignoreInputsForSeconds: 0.600000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input SceneObject startUiRoot {"hint":"Root object for the Start UI (will be shown until user pinches)."}'
+    - "// @input Component.Text titleText {\"hint\":\"Optional: Title text component to set (e.g., 'LiVi').\"}"
+    - '// @input Component.Text subtitleText {"hint":"Optional: Subtitle/description text component to set."}'
+    - "// @input Component.Text promptText {\"hint\":\"Optional: 'Pinch to continue' text component to set.\"}"
+    - '// @input string title = "LiVi" {"hint":"Main title shown on the start screen."}'
+    - '// @input string subtitle = "Real-time imagery + sound while you read" {"hint":"Short subtitle shown under the title."}'
+    - '// @input string prompt = "Pinch to continue" {"hint":"Instruction text shown at the bottom."}'
+    - '// @input SceneObject[] enableOnContinue = {} {"hint":"SceneObjects enabled after the user pinches to continue."}'
+    - '// @input SceneObject[] disableOnContinue = {} {"hint":"SceneObjects disabled after the user pinches to continue (besides startUiRoot)."}'
+    - '// @input bool useFilteredPinch = true {"hint":"Use filtered pinch events (more stable during hand motion)."}'
+    - '// @input float minConfidence = 0.6 {"hint":"Minimum pinch confidence required to continue (0 to 1)."}'
+    - '// @input float leaveDurationSeconds = 0.8 {"hint":"Seconds for the Start UI to fade/scale out after pinch."}'
+    - '// @input float leaveEndScale = 0.98 {"hint":"Scale multiplier applied by the end of the leave animation (e.g. 0.96 = slight shrink)."}'
+    - '// @input bool fadeTextsOnLeave = true {"hint":"If true, fades all Text components under startUiRoot during the leave animation."}'
+    - '// @input bool enableEditorTapToContinue = true {"hint":"In Lens Studio editor preview, allow a screen tap/click to continue (since pinch may not be available)."}'
+    - '// @input float ignoreInputsForSeconds = 0.6 {"hint":"Ignore continue inputs for this many seconds after start (prevents accidental dismiss on preview focus)."}'

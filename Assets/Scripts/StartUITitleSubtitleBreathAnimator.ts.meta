@@ -1,0 +1,62 @@
+- !<AssetImportMetadata/c48059c3-3a15-4d99-9397-1820b01c0c0b>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 7d56d40a-8920-447c-922b-32858ddf4a70
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 7d56d40a-8920-447c-922b-32858ddf4a70
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> cb4e705e-552e-4a2f-a328-3beabf6f253e
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/cb4e705e-552e-4a2f-a328-3beabf6f253e>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 8322bdea-2905-4fda-a682-242112f2a6ef
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    periodSeconds: false
+    subtitleMaxAlpha: false
+    subtitleMinAlpha: false
+    subtitleText: false
+    titleMaxAlpha: false
+    titleMinAlpha: false
+    titleText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - titleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      subtitleText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      periodSeconds: 3.800000
+      titleMinAlpha: 0.880000
+      titleMaxAlpha: !<float> 1.000000
+      subtitleMinAlpha: 0.750000
+      subtitleMaxAlpha: 0.920000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Component.Text titleText {"hint":"Title Text component to animate (optional but recommended)."}'
+    - '// @input Component.Text subtitleText {"hint":"Subtitle Text component to animate (optional but recommended)."}'
+    - '// @input float periodSeconds = 3.8 {"hint":"Breathing period in seconds (slow/subtle)."}'
+    - // @input float titleMinAlpha = 0.88
+    - // @input float titleMaxAlpha = 1
+    - // @input float subtitleMinAlpha = 0.75
+    - // @input float subtitleMaxAlpha = 0.92

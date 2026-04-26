@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/1375b831-0188-451e-9afd-036f872f37e4>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 7b9becee-b75c-42d6-99e2-6929cc021acf
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 7b9becee-b75c-42d6-99e2-6929cc021acf
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 24c3945b-88c1-40d6-9429-3c30a7790fd6
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/24c3945b-88c1-40d6-9429-3c30a7790fd6>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: df96c20a-de9f-4b0e-a7a3-fa9fbd6939d6
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    fadeInSeconds: false
+    maxAlpha: false
+    minAlpha: false
+    promptText: false
+    pulsePeriodSeconds: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - promptText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      fadeInSeconds: 0.600000
+      pulsePeriodSeconds: 2.400000
+      minAlpha: 0.350000
+      maxAlpha: !<float> 1.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - "// @input Component.Text promptText {\"hint\":\"Prompt Text component (e.g. the 'Pinch to continue' text).\"}"
+    - // @input float fadeInSeconds = 0.6
+    - // @input float pulsePeriodSeconds = 2.4
+    - // @input float minAlpha = 0.35
+    - // @input float maxAlpha = 1
