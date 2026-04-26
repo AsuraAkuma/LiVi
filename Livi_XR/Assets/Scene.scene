@@ -10,6 +10,8 @@
     - !<own> ce307e1d-d71f-4998-a9e2-43edf60f88bd
     - !<own> 94bfd741-b9d0-4176-8d12-9b86ca0b54c4
     - !<own> 1b6e6332-f7d1-40af-a86f-ef6d21e02a6f
+    - !<own> 102d2add-7995-464e-97fc-e88e1760ae42
+    - !<own> bc58c370-dba1-41fe-a107-ce78505f6217
   layers: !<Layers/267ee9a7-aff2-4f9d-9a49-f71214747d03>
     userLayers:
       []
@@ -34,6 +36,7 @@
   Components:
     - !<own> 00000000-0000-0065-0000-000000000065
     - !<own> e5553c8a-0b7e-4ef4-92d9-3e1318fb82c1
+    - !<own> 11c13b54-a2d9-4552-8c2f-6fc90d4544ba
 - !<Camera/00000000-0000-0065-0000-000000000065>
   PrefabRemaps:
     []
@@ -4960,6 +4963,7 @@
       modelRocky: !<reference.SceneObject> 94bfd741-b9d0-4176-8d12-9b86ca0b54c4
       cameraObject: !<reference.SceneObject> 3d869991-a74e-4d62-969e-52a6272dfd07
       scanningText: !<reference.SceneObject> 98358b19-820d-4722-b7d3-5a8e8f225e44
+      playSoundScript: !<reference.ScriptComponent> 1c8f4d65-876f-47f8-97b9-b14322943910
   ScriptTypes:
     "":
       {}
@@ -5779,3 +5783,79 @@
     CapitalizationOverride: None
   DepthTest: false
   TwoSided: false
+- !<AudioListenerComponent/11c13b54-a2d9-4552-8c2f-6fc90d4544ba>
+  PrefabRemaps:
+    []
+  Name: Audio Listener
+  Enabled: true
+- !<SceneObject/102d2add-7995-464e-97fc-e88e1760ae42>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0593b253-69ba-4989-b541-a3a60ec52684
+- !<AudioComponent/0593b253-69ba-4989-b541-a3a60ec52684>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 216e5d78-cf0c-4c16-917a-e180ea25cefd
+  EnableAutoplayLoop: false
+  Volume: 0.530000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Logarithm
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/bc58c370-dba1-41fe-a107-ce78505f6217>
+  PrefabRemaps:
+    []
+  Name: playSound
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1c8f4d65-876f-47f8-97b9-b14322943910
+- !<ScriptComponent/1c8f4d65-876f-47f8-97b9-b14322943910>
+  PrefabRemaps:
+    []
+  Name: playSound
+  Enabled: true
+  ScriptAsset: !<reference> d752496c-0e45-4fba-a585-8902a52e1d38
+  ScriptInputsDefault:
+    backend_base_url: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sound: !<reference.AudioComponent> 0593b253-69ba-4989-b541-a3a60ec52684
+      loop_count: !<float> 0.000000
+      text: ""
+      tts_voice_id: ""
+      desired_sound_name: ""
+      backend_base_url: "https://localhost:3001"
+      allow_insecure_http_for_debug: false
+      internet_module: !<reference.InternetModule> 702f914b-b0d7-4257-aba5-4e3f496f5a95
+      remote_media_module: !<reference.RemoteMediaModule> 317251d6-a7ba-4127-9c13-672e09dd5f34
+  ScriptTypes:
+    "":
+      {}

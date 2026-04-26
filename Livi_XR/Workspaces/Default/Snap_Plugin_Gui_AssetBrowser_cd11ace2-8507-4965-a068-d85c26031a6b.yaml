@@ -1,9 +1,9 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 789
+    size: 795
     values:
-      - ""
+      - 3d
       - 3d /astronaut.glb
       - 3d /astronaut.glb/.hidden
       - 3d /astronaut.glb/.hidden/material0
@@ -134,6 +134,12 @@ CollapsedEntities:
       - 3d /ship.glb/Meshes/Object_6
       - 3d /ship.glb/Meshes/Object_7
       - 3d /ship.glb/ship
+      - 3d/astronaut.glb
+      - 3d/international_space.glb
+      - 3d/project_hail_mary_ship.glb
+      - 3d/project_hail_mary_ship.glb/Meshes
+      - 3d/rocky.glb
+      - 3d/ship.glb
       - Camera Module.cameraModule
       - RemoteServiceGateway.lspkg/Helpers
       - RemoteServiceGateway.lspkg/Helpers/AudioProcessor.ts

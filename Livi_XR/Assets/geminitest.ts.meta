@@ -31,6 +31,7 @@
     modelBlipA: false
     modelHailMary: false
     modelRocky: false
+    playSoundScript: false
     scanningText: false
   ScriptTypesHidden:
     {}
@@ -47,6 +48,7 @@
       modelRocky: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
       cameraObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
       scanningText: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      playSoundScript: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     -
       {}
@@ -57,3 +59,4 @@
     - // @input SceneObject modelRocky
     - // @input SceneObject cameraObject
     - // @input SceneObject scanningText
+    - // @input Component.ScriptComponent playSoundScript
