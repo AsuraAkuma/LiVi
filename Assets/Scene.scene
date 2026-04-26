@@ -27,7 +27,7 @@
   Enabled: true
   Layers: 1
   LocalTransform: !<TransformEntity>
-    Position: {x: 0.140000, y: 41.374432, z: 40.221699}
+    Position: {x: 0.060000, y: 41.374432, z: 40.221699}
     Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
@@ -36,7 +36,7 @@
   Components:
     - !<own> 00000000-0000-0065-0000-000000000065
     - !<own> a14e8c23-5830-489b-85b5-92f805e08b74
-    - !<own> 637f8d97-6d69-401e-a255-e67d45b4e3ad
+    - !<own> 6329f7d0-6366-4926-a6e2-ffdc9d161877
 - !<Camera/00000000-0000-0065-0000-000000000065>
   PrefabRemaps:
     []
@@ -304,44 +304,6 @@
     CapitalizationOverride: None
   DepthTest: false
   TwoSided: false
-- !<ScriptComponent/1263a9ba-439b-4c63-b075-fb6acc5a7ccb>
-  PrefabRemaps:
-    []
-  Name: Interactable
-  Enabled: true
-  ScriptAsset: !<reference> 652e631a-22d0-4941-9f74-2943df59f34c
-  ScriptInputsDefault:
-    targetingMode: true
-    targetingVisual: true
-    ignoreInteractionPlane: true
-    keepHoverOnTrigger: true
-    enableInstantDrag: true
-    isScrollable: true
-    allowMultipleInteractors: true
-    enablePokeDirectionality: true
-    acceptableXDirections: true
-    acceptableYDirections: true
-    acceptableZDirections: true
-    useFilteredPinch: true
-  ScriptTypesDefault:
-    {}
-  ScriptInputs:
-    "":
-      targetingMode: !<float> 3.000000
-      targetingVisual: !<float> 1.000000
-      ignoreInteractionPlane: false
-      keepHoverOnTrigger: false
-      enableInstantDrag: false
-      isScrollable: false
-      allowMultipleInteractors: true
-      enablePokeDirectionality: false
-      acceptableXDirections: !<float> 0.000000
-      acceptableYDirections: !<float> 0.000000
-      acceptableZDirections: !<float> 1.000000
-      useFilteredPinch: false
-  ScriptTypes:
-    "":
-      {}
 - !<SceneObject/16f7a50f-068a-46e4-b044-867d54f0b0b3>
   PrefabRemaps:
     []
@@ -389,7 +351,7 @@
     fixedHeight: false
     deactivatedFixedSprite: false
     deactivatedFixedPivot: false
-  Pivot: {x: 0.500000, y: 0.500000}
+  Pivot: {x: 0.000000, y: 0.000000}
   Transform:
     position: {x: 0.000000, y: 0.000000, z: 4.100000}
     rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
@@ -398,21 +360,21 @@
   RawMode: true
   ForceBasic: false
   Anchor:
-    left: -1.000000
-    bottom: -1.000000
-    right: 1.000000
-    top: -0.940000
-  Offset:
-    left: 40.000000
-    bottom: 79.040001
-    right: -40.000000
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
     top: 0.000000
+  Offset:
+    left: 39.000000
+    bottom: 39.490002
+    right: -39.000000
+    top: -39.490002
 - !<ScreenTransform/2c9497f4-076f-44f4-a5ed-20f116ff2afb>
   PrefabRemaps:
     []
   Name: Screen Transform
   Enabled: true
-  IsAdvanced: false
+  IsAdvanced: true
   Constraints:
     pinToLeft: false
     pinToTop: false
@@ -422,7 +384,7 @@
     fixedHeight: false
     deactivatedFixedSprite: false
     deactivatedFixedPivot: false
-  Pivot: {x: 0.000000, y: 0.000000}
+  Pivot: {x: 0.000000, y: 1.000000}
   Transform:
     position: {x: 0.000000, y: 0.000000, z: 6.000000}
     rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
@@ -431,14 +393,14 @@
   RawMode: true
   ForceBasic: false
   Anchor:
-    left: 39.000000
-    bottom: 40.000000
-    right: -39.000000
-    top: 40.000000
-  Offset:
     left: 0.000000
-    bottom: -0.300000
+    bottom: 1.000000
     right: 0.000000
+    top: 1.000000
+  Offset:
+    left: 39.000000
+    bottom: -0.299999
+    right: -39.000000
     top: 0.000000
 - !<SceneObject/2fd717a7-9628-4073-a619-ab9c379750ca>
   PrefabRemaps:
@@ -810,6 +772,16 @@
   RotationAngle: 0
   Pivot: {x: 0.000000, y: 0.000000}
   ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<DeviceTracking/6329f7d0-6366-4926-a6e2-ffdc9d161877>
+  PrefabRemaps:
+    []
+  Name: Device Tracking
+  Enabled: true
+  DeviceTrackingMode: World
+  RotationOptions: !<RotationOptions>
+    InvertRotation: false
+  SurfaceOptions: !<SurfaceOptions>
+    EnhanceWithNativeAR: false
 - !<SceneObject/6347291e-88cc-4da4-9659-8cdff8201a7c>
   PrefabRemaps:
     []
@@ -826,34 +798,6 @@
   Components:
     - !<own> 2b520cf9-da50-47c3-bd4e-58ad294a40a9
     - !<own> 0b4932de-0a0c-4bce-98be-73d6b9b98a61
-- !<DeviceTracking/637f8d97-6d69-401e-a255-e67d45b4e3ad>
-  PrefabRemaps:
-    []
-  Name: Device Tracking
-  Enabled: true
-  DeviceTrackingMode: World
-  RotationOptions: !<RotationOptions>
-    InvertRotation: false
-  SurfaceOptions: !<SurfaceOptions>
-    EnhanceWithNativeAR: false
-- !<ColliderComponent/6b7f0657-14a2-48dd-8d53-4c35882291a5>
-  PrefabRemaps:
-    []
-  Name: Physics Collider
-  Enabled: true
-  Shape: !<Box>
-    FitVisual: true
-    Size: {x: 15.000000, y: 15.000000, z: 15.000000}
-  Matter: !<reference> 00000000-0000-0000-0000-000000000000
-  Filter: !<reference> 00000000-0000-0000-0000-000000000000
-  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
-  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
-  EnableSmoothing: false
-  PositionTension: 30.000000
-  RotationTension: 30.000000
-  ForceCompound: false
-  Intangible: false
-  ShowCollider: false
 - !<AudioComponent/6cee5118-9488-4771-8d51-41fc2490cebe>
   PrefabRemaps:
     []
@@ -1002,9 +946,6 @@
     - !<own> 8f34016d-17df-4d0a-a56a-f68428900550
     - !<own> b6af95d3-29d1-4854-86fe-579112fb7544
     - !<own> 88545f2e-3b14-4a06-bd94-8308089fa764
-    - !<own> 6b7f0657-14a2-48dd-8d53-4c35882291a5
-    - !<own> 1263a9ba-439b-4c63-b075-fb6acc5a7ccb
-    - !<own> e4961a59-6bdf-44e0-ba81-1e1658bac62b
 - !<ScriptComponent/8f34016d-17df-4d0a-a56a-f68428900550>
   PrefabRemaps:
     []
@@ -1017,6 +958,9 @@
     prompt: true
     enableOnContinue: true
     disableOnContinue: true
+    exitDurationSeconds: true
+    exitEndScale: true
+    exitEndYOffset: true
     useFilteredPinch: true
     minConfidence: true
   ScriptTypesDefault:
@@ -1034,6 +978,9 @@
         []
       disableOnContinue: !<reference.SceneObject[]>
         []
+      exitDurationSeconds: 0.350000
+      exitEndScale: 0.900000
+      exitEndYOffset: !<float> 10.000000
       useFilteredPinch: true
       minConfidence: 0.600000
   ScriptTypes:
@@ -1323,7 +1270,7 @@
     fixedHeight: true
     deactivatedFixedSprite: false
     deactivatedFixedPivot: false
-  Pivot: {x: 0.500000, y: 0.500000}
+  Pivot: {x: 0.000000, y: 1.000000}
   Transform:
     position: {x: 0.000000, y: 0.000000, z: 6.200000}
     rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
@@ -1332,15 +1279,15 @@
   RawMode: true
   ForceBasic: false
   Anchor:
-    left: 39.000000
-    bottom: 40.000000
-    right: -39.000000
-    top: 45.150002
-  Offset:
     left: 0.000000
-    bottom: -0.300000
+    bottom: 1.000000
     right: 0.000000
-    top: 0.100000
+    top: 1.000000
+  Offset:
+    left: 39.000000
+    bottom: -5.549999
+    right: -39.000000
+    top: 0.000000
 - !<SceneObject/d262d25d-8fb4-4445-850d-eceee077fbfb>
   PrefabRemaps:
     []
@@ -1356,53 +1303,6 @@
     []
   Components:
     - !<own> 5849e6ff-8598-4f7a-ad40-55a3f573b279
-- !<ScriptComponent/e4961a59-6bdf-44e0-ba81-1e1658bac62b>
-  PrefabRemaps:
-    []
-  Name: InteractableManipulation
-  Enabled: true
-  ScriptAsset: !<reference> 664b556b-1946-4c2c-866a-e675b4e86006
-  ScriptInputsDefault:
-    enableTranslation: true
-    enableRotation: true
-    enableScale: true
-    minimumScaleFactor: true
-    maximumScaleFactor: true
-    enableStretchZ: true
-    zStretchFactorMin: true
-    zStretchFactorMax: true
-    useFilter: true
-    showTranslationProperties: true
-    _enableXTranslation: true
-    _enableYTranslation: true
-    _enableZTranslation: true
-    showRotationProperties: true
-    _rotationAxis: true
-    isSynced: true
-  ScriptTypesDefault:
-    {}
-  ScriptInputs:
-    "":
-      manipulateRootSceneObject: !<reference.SceneObject> 8ae85c40-477f-4662-89c3-65e68a7d2d19
-      enableTranslation: true
-      enableRotation: true
-      enableScale: true
-      minimumScaleFactor: 0.250000
-      maximumScaleFactor: !<float> 20.000000
-      enableStretchZ: true
-      zStretchFactorMin: !<float> 1.000000
-      zStretchFactorMax: !<float> 12.000000
-      useFilter: true
-      showTranslationProperties: false
-      _enableXTranslation: true
-      _enableYTranslation: true
-      _enableZTranslation: true
-      showRotationProperties: false
-      _rotationAxis: All
-      isSynced: false
-  ScriptTypes:
-    "":
-      {}
 - !<SceneObject/f6cce1ec-5d60-42ea-839c-10ebdddd4661>
   PrefabRemaps:
     []
